@@ -746,13 +746,6 @@ bạn tốt không?
 Zuìjìn nǐ shēntǐ
 hǎo ma?
 
-Nǐ bǎ shǒutíbāo
-fàng jìn xiāngzi lǐ
-qù ba.
-Zhè lǐ yǒu diǎnr
-àn, nǐ bǎ dēng
-dǎkāi ba.
-
 61
 
 Cũng tàm tạm.
@@ -982,9 +975,8 @@ Quần áo của cô ta bị
 Tā de yīfu bèi yǔ lín
 shī le.
 
-Trang 10
 
-81
+81
 
 Cô ta va vào tôi làm
 café của tôi bị vương
