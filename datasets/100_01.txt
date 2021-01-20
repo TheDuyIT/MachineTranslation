@@ -1,0 +1,959 @@
+1
+
+Chào bạn!
+
+你好！
+
+Nǐ hǎo!
+
+2
+
+Bạn khỏe không?
+
+你好吗？
+
+Nǐ hǎo ma?
+
+3
+
+Sức khỏe bố mẹ bạn tốt
+không?
+
+你爸爸妈妈身体好
+吗？
+
+Nǐ bàba māma shēntǐ
+hǎo ma?
+
+4
+
+Sức khỏe bố mẹ tôi đều
+rất tốt.
+
+我爸爸妈妈身体都很
+好。
+
+Wǒ bàba māma shēntǐ
+dōu hěn hǎo.
+
+5
+
+Hôm nay công việc của
+bạn bận không?
+
+今天你的工作忙吗？
+
+Jīntiān nǐ de gōngzuò
+máng ma?
+
+6
+
+Hôm nay công việc của
+tôi không bận lắm.
+
+今天我的工作不太
+忙。
+
+Jīntiān wǒ de gōngzuò
+bú tài máng.
+
+7
+
+Ngày mai anh trai bạn
+bận không?
+
+明天你哥哥忙吗？
+
+Míngtiān nǐ gēge máng
+ma?
+
+8
+
+Ngày mai anh trai tôi rất
+bận.
+
+明天我哥哥很忙。
+
+Míngtiān wǒ gēge hěn
+máng.
+
+9
+
+Hôm qua chị gái bạn đi
+đâu?
+
+昨天你的姐姐去哪
+儿？
+
+Zuótiān nǐ de jiějie qù
+nǎr?
+
+10
+
+Hôm qua chị gái tôi đến
+nhà cô giáo.
+
+昨天我的姐姐去老师
+家。
+
+Zuótiān wǒ de jiějie qù
+lǎoshī jiā.
+
+11
+
+Chị gái bạn đến nhà cô
+giáo làm gì?
+
+你的姐姐去老师家做
+什么？
+
+Nǐ de jiějie qù lǎoshī jiā
+zuò shénme?
+
+12
+
+Chị gái tôi đến nhà cô
+giáo học Tiếng Trung.
+
+我的姐姐去老师家学
+习汉语。
+
+Wǒ de jiějie qù lǎoshī
+jiā xuéxí hànyǔ.
+
+13
+
+Nhà cô giáo bạn ở đâu?
+
+你老师的家在哪儿？
+
+Nǐ lǎoshī de jiā zài nǎr?
+
+14
+
+Nhà cô giáo tôi ở trường
+học.
+
+我老师的家在学校。
+
+Wǒ lǎoshī de jiā zài
+xuéxiào.
+
+15
+
+Trường học của bạn ở
+đâu.
+
+你的学校在哪儿？
+
+Nǐ de xuéxiào zài nǎr?
+
+16
+
+Trường học của tôi ở Hà
+Nội.
+
+我的学校在河内。
+
+Wǒ de xuéxiào zài
+hénèi.
+
+17
+
+Hôm nay thứ mấy?
+
+今天星期几？
+
+Jīntiān xīngqī jǐ?
+
+18
+
+Hôm nay thứ hai.
+
+今天星期一。
+
+Jīntiān xīngqī yī.
+
+19
+
+Ngày mai thứ mấy?
+
+明天星期几？
+
+Míngtiān xīngqī jǐ?
+
+20
+
+Ngày mai thứ ba.
+
+明天星期二。
+
+Míngtiān xīngqī èr.
+
+21
+
+Hôm qua thứ mấy?
+
+昨天星期几？
+
+Zuótiān xīngqī jǐ?
+
+22
+
+Hôm qua chủ nhật.
+
+昨天星期天。
+
+Zuótiān xīngqī tiān.
+
+23
+
+Chủ nhật bạn làm gì?
+
+星期天你做什么？
+
+Xīngqītiān nǐ zuò
+shénme?
+
+24
+
+Chủ nhật tôi ở nhà xem
+tivi.
+
+星期天我在家看电
+视。
+
+Xīngqītiān wǒ zàijiā
+kàn diànshì.
+
+25
+
+Chủ nhật tôi cũng ở nhà
+xem tivi.
+
+星期天我也在家看电
+视。
+
+Xīngqītiān wǒ yě zàijiā
+kàn diànshì.
+
+26
+
+Chủ nhật chúng tôi đều
+ở nhà xem tivi.
+
+星期天我们都在家看
+电视。
+
+Xīngqītiān wǒmen dōu
+zàijiā kàn diànshì.
+
+27
+
+Ngày mai tôi đến bưu
+điện gửi thư, bạn đi
+không?
+
+明天我去邮局寄信，
+你去吗？
+
+Míngtiān wǒ qù yóujú jì
+xìn, nǐ qù ma?
+
+28
+
+Ngày mai tôi không đến
+bưu điện gửi thư.
+
+明天我不去邮局寄
+信。
+
+Míngtiān wǒ bú qù
+yóujú jì xìn.
+
+29
+
+Ngày mai tôi đến ngân
+hàng rút tiền.
+
+明天我去银行取钱。
+
+Míngtiān wǒ qù yínháng qǔ qián.
+
+30
+
+Ngày mai tôi không đến
+ngân hàng rút tiền.
+
+明天我不去银行取
+钱。
+
+Míngtiān wǒ bú qù
+yínháng qǔ qián.
+
+31
+
+Ngày mai tôi đi bắc
+kinh, bạn đi không?
+
+明天我去北京，你去
+吗？
+
+Míngtiān wǒ qù běijīng,
+nǐ qù ma?
+
+32
+
+Ngày mai tôi không đi
+bắc kinh, tôi đi thiên an
+môn.
+
+明天我不去北京，我
+去天安门。
+
+Míngtiān wǒ bú qù běijīng, wǒ qù tiān’ānmén.
+
+33
+
+Thiên an môn ở đâu?
+
+天安门在哪儿？
+
+Tiān’ānmén zài nǎr?
+
+34
+
+Thiên an môn ở Trung
+Quốc.
+
+天安门在中国。
+
+Tiān’ānmén zài zhōngguó.
+
+35
+
+Bạn biết Trung Quốc ở
+đâu không?
+
+你知道中国在哪儿
+吗？
+
+Nǐ zhīdào zhōngguó zài
+nǎr ma?
+
+36
+
+Tôi không biết Trung
+Quốc ở đâu.
+
+我不知道中国在哪
+儿。
+
+Wǒ bù zhīdào zhōngguó
+zài nǎr.
+
+37
+
+Thứ bẩy tôi ở nhà học
+bài.
+
+星期六我在家学习。
+
+Xīngqīliù wǒ zàijiā xuéxí.
+
+38
+
+Thứ bẩy tôi muốn đến
+trường học học tiếng
+Anh.
+
+星期六我要去学校学
+习英语。
+
+Xīngqīliù wǒ yào qù
+xuéxiào xuéxí yīngyǔ.
+
+39
+
+Bạn quen biết người kia
+không? Ông ta là ai?
+
+你认识那个人吗？他
+是谁？
+
+Nǐ rènshi nàge rén ma?
+Tā shì shuí?
+
+40
+
+Tôi không biết ông ta là
+ai.
+
+我不知道他是谁。
+
+Wǒ bù zhīdào tā shì
+shuí.
+
+41
+
+Ông ta là bạn của bố tôi,
+ông ta là bác sỹ.
+
+他是我爸爸的朋友，
+他是大夫。
+
+Tā shì wǒ bàba de
+péngyǒu, tā shì dàifu.
+
+42
+
+Ông ta là bác sỹ à?
+
+他是大夫吗？
+
+Tā shì dàifu ma?
+
+43
+
+Phải, ông ta là bác sỹ của
+tôi.
+
+对，他是我的大夫。
+
+Duì, tā shì wǒ de dàifu.
+
+44
+
+Em gái bạn làm nghề gì?
+
+你的妹妹做什么工
+作？
+
+Nǐ de mèimei zuò
+shénme gōngzuò?
+
+45
+
+Em gái tôi là học sinh.
+
+我的妹妹是学生。
+
+asdfsf
+
+46
+
+Em gái bạn là lưu học
+sinh Việt Nam phải
+
+你的妹妹是越南留学
+生吗？
+
+Wǒ de mèimei shì
+xuésheng.
+Nǐ de mèimei shì yuènán
+liúxuéshēng ma?
+Trang 5
+
+47
+
+Đúng, em gái tôi là lưu
+học sinh Việt Nam.
+
+对，我的妹妹是越南
+留学生。
+
+Duì, wǒ de mèimei shì
+yuènán liúxuéshēng.
+
+48
+
+Em gái của bạn cũng là
+lưu học sinh Việt Nam
+phải không?
+
+你的妹妹也是越南留
+学生吗？
+
+Nǐ de mèimei yěshì
+yuènán liúxuéshēng
+ma?
+
+49
+
+Phải, bọn họ đều là lưu
+học sinh Việt Nam.
+
+是，他们都是越南留
+学生。
+
+Shì, tāmen dōu shì
+yuènán liúxuéshēng.
+
+50
+
+Tôi tên là Vũ.
+
+我叫阿武。
+
+Wǒ jiào āwǔ.
+
+51
+
+Năm nay tôi 20 tuổi.
+
+我今年二十岁。
+
+Wǒ jīnnián èrshí suì.
+
+52
+
+Tôi là giáo viên tiếng
+Trung.
+
+我是汉语老师。
+
+Wǒ shì hànyǔ lǎoshī.
+
+53
+
+Văn phòng của tôi ở
+trường học.
+
+我的办公室在学校。
+
+Wǒ de bàngōngshì zài
+xuéxiào.
+
+54
+
+Tôi sống ở tòa nhà này .
+
+我住在这个楼。
+
+Wǒ zhù zài zhè ge lóu.
+
+55
+
+Số phòng của tôi là 808.
+
+我的房间号是八零
+八。
+
+Wǒ de fángjiān hào shì
+bā líng bā.
+
+56
+
+Anh trai tôi là bác sỹ.
+
+我的哥哥是大夫。
+
+Wǒ de gēge shì dàifu.
+
+57
+
+Em gái tôi là sinh viên.
+
+我的妹妹是大学生。
+
+asdfafds
+
+58
+
+Em trai tôi là lưu học
+sinh.
+
+我的弟弟是留学生。
+
+Wǒ de mèimei shì dàx
+uéshēng.
+Wǒ de dìdì shì liúxuéshēng.
+
+59
+
+Tôi quen biết cô giáo của
+bạn.
+
+我认识你的女老师。
+
+Wǒ rènshi nǐ de nǚ
+lǎoshī.
+
+60
+
+Cô giáo của bạn là giáo
+viên tiếng Anh.
+
+你的老师是英语老
+师。
+
+Nǐ de lǎoshī shì yīngyǔ
+lǎoshī.
+
+61
+
+Hôm nay công việc của
+tôi rất mệt.
+
+今天我的工作很忙。
+
+Jīntiān wǒ de gōngzuò
+hěn lèi.
+
+62
+
+Tôi muốn về nhà nghỉ
+ngơi.
+
+我要回家休息。
+
+Wǒ yào huí jiā xiūxi.
+
+63
+
+Công việc của em gái tôi
+cũng rất bận.
+
+我妹妹的工作也很
+忙。
+
+Wǒ mèimei de gōngzuò
+yě hěn máng.
+
+64
+
+Em trai tôi cũng muốn
+đến ngân hàng rút tiền.
+
+我的弟弟也要去银行
+换钱。
+
+Wǒ de dìdi yě yào qù yínháng huànqián.
+
+65
+
+Sáng ngày mai chúng tôi
+đều đến ngân hàng đổi
+tiền.
+
+明天上午我们都去银
+行换钱。
+
+Míngtiān shàngwǔ
+wǒmen dōu qù yínháng
+huànqián.
+
+66
+
+Chúng tôi muốn đổi
+8000 nhân dân tệ.
+
+我们要换八千人民
+币。
+
+Wǒmen yào huàn bā
+qiān rénmínbì.
+
+67
+
+Bạn của tôi muốn đổi
+3000 đô Mỹ.
+
+我的朋友要换三千美
+元。
+
+Wǒ de péngyǒu yào huàn
+sān qiān měiyuán.
+
+68
+
+Chiều hôm nay chúng
+tôi còn đến bưu điện gửi
+thư .
+
+今天下午我们还去邮
+局寄信。
+
+Jīntiān xiàwǔ wǒmen hái
+qù yóujú jì xìn.
+
+70
+
+Tôi gửi thư cho mẹ của
+tôi. Họ đều rất khỏe.
+
+我给我的妈妈寄信。
+他们都很好。
+
+Wǒ gěi wǒ de māma jì
+xìn. Tāmen dōu hěn hǎo.
+
+71
+
+Chủ nhật chúng tôi đến
+cửa hàng mua hoa quả.
+
+星期日我们去商店买
+水果。
+
+Xīngqīrì wǒmen qù
+shāngdiàn mǎi shuǐguǒ.
+
+72
+
+Mẹ tôi muốn mua hai
+cân táo.
+
+我的妈妈要买两斤苹
+果。
+
+Wǒ de māma yào mǎi
+liǎng jīn píngguǒ.
+
+73
+
+Táo một cân bao nhiêu
+tiền?
+
+苹果一斤多少钱？
+
+Píngguǒ yì jīn duōshǎo
+qián?
+
+74
+
+Táo một cân là 8 tệ.
+
+苹果一斤八块钱。
+
+asdffsd
+
+75
+
+Bạn muốn mua mấy cân
+táo?
+
+你要买几斤苹果？
+
+Píngguǒ yì jīn bā kuài
+qián.
+Nǐ yào mǎi jǐ jīn píngguǒ?
+
+76
+
+Tôi muốn mua 4 cân táo.
+4 cân táo là 60 tệ.
+
+我要买四斤苹果。
+四斤苹果是六十块
+钱。
+
+asdfsdf
+
+78
+
+Bạn còn muốn mua cái
+khác không?
+
+你还要买别的吗？
+
+Wǒ yào mǎi sì jīn píngguǒ. Sì jīn píngguǒ shì liù
+shí kuài qián.
+Nǐ hái yào mǎi bié de
+ma?
+
+79
+
+Tôi còn muốn mua quýt.
+Quýt 1 cân bao nhiêu
+tiền?
+
+我还要买橘子。
+橘子一斤多少钱？
+
+Wǒ hái yào mǎi júzi.
+Júzi yì jīn duōshǎo
+qián?
+
+81
+
+Một cân quýt là 9 tệ.
+
+橘子一斤是九块钱。
+
+Júzi yì jīn shì jiǔ kuài
+qián.
+
+82
+
+Bạn muốn mua mấy cân
+quýt?
+
+你要买几斤橘子？
+
+Nǐ yào mǎi jǐ jīn júzi?
+
+83
+
+Tôi muốn mua 5 cân
+quýt.
+
+我要买五斤橘子。
+
+Wǒ yào mǎi wǔ jīn júzi.
+
+84
+
+5 cân quýt là 80 tệ.
+
+五斤橘子是八十块
+钱。
+
+Wǔ jīn júzi shì bā shí
+kuài qián.
+
+85
+
+Tổng cộng hết bao nhiêu
+tiền?
+
+一共多少钱？
+
+Yígòng duōshǎo qián?
+
+86
+
+Tổng cộng hết 890 tệ.
+
+一共八百九十块钱。
+
+Yígòng bā bǎi jiǔshí
+kuài qián.
+
+87
+
+Bạn đưa cho tôi 1000 tệ
+đi.
+
+你给我一千块钱吧。
+
+Nǐ gěi wǒ yì qiān kuài
+qián ba.
+
+88
+
+Tôi không có 1000 tệ.
+
+我没有一千块钱。
+
+Wǒ méiyǒu yì qiān kuài
+qián.
+
+89
+
+Vậy bạn đưa cho tôi
+3000 tệ cũng được.
+
+那你给我三千块钱也
+可以。
+
+Nà nǐ gěi wǒ sān qiān
+kuài qián yě kěyǐ.
+
+90
+
+Đây là 3000 nhân dân tệ.
+
+这是你的三千人民
+币。
+
+Zhè shì nǐ de sān qiān
+rénmínbì.
+
+91
+
+Tôi trả lại bạn 5 tệ tiền
+thừa.
+
+我找你五块钱。
+
+Wǒ zhǎo nǐ wǔ kuài
+qián.
+
+92
+
+Đây là cái gì?
+
+这是什么？
+
+Zhè shì shénme?
+
+93
+
+Đây là sách.
+
+这是书。
+
+Zhè shì shū.
+
+94
+
+Đây là sách gì?
+
+这是什么书？
+
+Zhè shì shénme shū?
+
+95
+
+Đây là sách tiếng Trung.
+
+这是汉语书。
+
+Zhè shì hànyǔ shū.
+
+96
+
+Đây là sách tiếng Trung
+của ai?
+
+这是谁的汉语书？
+
+Zhè shì shuí de hànyǔ
+shū?
+
+97
+
+Đây là sách tiếng Trung
+của tôi.
+
+这是我的汉语书。
+
+Zhè shì wǒ de hànyǔ shū.
+
+98
+
+Đây là sách tiếng Trung
+của cô giáo của tôi.
+
+这是我的老师的汉语
+书。
+
+Zhè shì wǒ de lǎoshī de
+hànyǔ shū.
+
+99
+
+Kia là cái gì?
+
+那是什么？
+
+Nà shì shénme?
+
+100
+
+Kia là tạp chí.
+
+那是杂志。
+
+Nà shì zázhì.
