@@ -1,5 +1,5 @@
 import os
-import unicodedata
+import re
 
 
 class DataFormatter:
@@ -10,23 +10,18 @@ class DataFormatter:
         lst_vi, lst_cn = [], []
         t_flag, v_flag = 0, 0
         vi, cn = None, None
-        i = 0
         last_line_start = None
         for line in data.split("\n"):
-            # if i > 214 and i < 222:
-            #     print("i", i)
-            #     print("len vi:", len(lst_vi), "len cn:", len(lst_cn))
-            #     print("vi", line)
             if line.strip() == "":
                 continue
             line_start = line[:2]
 
             if line_start == "T:" or line_start == "V:":
                 if last_line_start == "V:":
-                    lst_vi.append(vi)
+                    lst_vi.append(re.sub(" +", " ", vi))
 
                 elif last_line_start == "T:":
-                    lst_cn.append(cn)
+                    lst_cn.append(re.sub(" +", " ", cn))
 
                 last_line_start = line[:2]
 
@@ -38,28 +33,11 @@ class DataFormatter:
                     vi = line[2:]
                     t_flag = 0
                     v_flag = 1
-
-            # if line.startswith("V:"):
-            #     # v_flag = 1
-            #     i += 1
-            #     t_flag = 0
-            #     if vi:
-            #         lst_vi.append(vi)
-            #     vi = line[2:]
-            # elif line.startswith("T:"):
-            #     i += 1
-            #     # v_flag = 0
-            #     t_flag = 1
-            #     if cn:
-            #         lst_cn.append(cn)
-            #     cn = line[2:]
             else:
                 if t_flag:  # cn
                     cn = cn + " " + line
                 elif v_flag:  # vi
                     vi = vi + " " + line
-
-        # print(len(lst_vi))
         num = 237
         print(lst_vi[num])
         # print(len(lst_cn))
@@ -67,7 +45,48 @@ class DataFormatter:
         print(lst_cn[num])
 
     def preprocess_3k(self, data: str) -> tuple:
-        pass
+        # print(data)
+        xs = re.split("\n\s*\n", data)
+        # print(xs)
+        lst_vi = []
+        lst_cn = []
+        i = 0
+        for x in xs:
+            x = x.strip()
+            if not x == "":
+                if x.isnumeric():
+                    i = 0
+                    # print("---------------------")
+                else:
+                    if i == 2:
+                        continue
+                    tmp = " ".join(x.split("\n"))
+
+                    if i == 0:
+                        lst_vi.append(re.sub(" +", " ", tmp))
+                    else:
+                        lst_cn.append(re.sub(" +", " ", tmp))
+                    i += 1
+        print(len(lst_vi))
+        print(len(lst_cn))
+        # print(lst_vi)
+        # print("---------------------")
+        # print(lst_cn)
+
+    def check(self, data: str) -> tuple:
+        # print(data)
+        xs = re.split("\n\s*\n", data)
+        i = 0
+        for x in xs:
+            x = x.strip()
+            if not x == "":
+                if x.isnumeric():
+                    if i != 3:
+                        print(x)
+                    i = 0
+                    # print(x)
+                else:
+                    i += 1
 
 
 class DataLoader:
@@ -93,7 +112,6 @@ if __name__ == "__main__":
 
     # data = loader.load_txt(os.path.join(ROOT_DIR, "../datasets/999letters.txt"))
     # dic = formatter.preprocess(data)
-
-    data = loader.load_txt(os.path.join(ROOT_DIR, "../datasets/10007.txt"))
+    data = loader.load_txt(os.path.join(ROOT_DIR, "../datasets/100_07.txt"))
     dic = formatter.preprocess_3k(data)
 
