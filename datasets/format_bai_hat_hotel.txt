@@ -1,0 +1,386 @@
+您好!
+Chào
+
+再见，欢迎下次再来!
+Tạm biệt, hoan nghênh lần tới ghé thăm
+
+慢走，感谢您的光临.
+Ông đi cẩn thận, cảm ơn đã ghé thăm
+
+请稍等.	
+Xin chờ một chút!
+
+请原谅
+Xin lượng thứ
+
+对不起，让您久等了
+Xin lỗi, để anh chờ lâu
+
+请问您有几位？
+Xin hỏi các anh có mấy người?
+
+请这边走	
+Xin mời đi lối này
+
+请问您贵姓？
+Xin hỏi quý danh của chị?
+
+请问您喝什么茶？
+Xin hỏi chị uống trà gì?
+
+请问您有预订吗？
+Xin hỏi anh có đặt bàn trước không?
+
+您看坐在这里可以吗？
+Anh xem ngồi ở đây được không?
+
+你要吃什么？
+Anh muốn ăn gì?
+
+你要点些什么菜？
+Anh muốn gọi món gì?
+
+你点过菜了吗？
+Anh đã gọi đồ chưa?
+
+请你推荐一些好菜好吗？
+Anh giới thiệu một vài món ngon được không?
+
+你喜欢吃点什么点心？
+Anh thích ăn đồ điểm tâm gì?
+
+好的，我去拿来
+Vâng, tôi đi lấy ngay
+
+先生，有什么需要我帮忙的吗？
+Thưa anh, có gì cần tôi giúp không?
+
+我们要赶时间
+Chúng tôi đang vội
+
+我们点的菜请快送来
+Anh mau mang đồ chúng tôi đã gọi ra nhé
+
+我就要份牛排
+Tôi cần một suất bò bít tết
+
+你喜欢的牛排是熟一些还是生的？
+Anh thích bít tết chín hay tái
+
+喝一杯怎样？
+Uống một ly nhé?
+
+干杯!
+Cạn Ly!
+
+祝你健康!
+Chúc anh mạnh khỏe
+
+请给我一从菜单好吗？
+Hãy đưa tôi quyển thực đơn
+
+先生，菜单就在这儿	
+Thưa anh, thực đơn ở đây
+
+它的味道很好
+Vị món này rất ngon
+
+菜太咸了
+Đồ ăn mặn quá!
+
+我口渴了
+Tôi khát nước
+
+请给我一杯冷水
+Xin cho tôi một cốc nước mát
+
+你要喝点儿什么？
+Anh muốn uống chút gì?
+
+我想要柠檬茶.
+Tôi cần cốc trà chanh
+
+你还要吃别的东西吗？
+Anh muốn ăn thêm đồ khác nữa không?
+
+不用，谢谢.我已经吃饱了
+Không cần, cảm ơn! Tôi đã ăn no rồi
+
+请再给我一些面包
+Cho tôi thêm một chút bánh mỳ
+
+你喜欢什么随便吃
+Anh thích ăn gì thì cứ ăn thoải mái
+
+请把盐和胡椒递给我
+Xin đưa cho tôi muối và hạt tiêu
+
+先生您的菜已经上齐了
+Thưa anh, đồ ăn của anh đã mang ra đủ rồi
+
+还要点水果和甜品吗？
+Anh còn muốn ăn chút hoa quả hay đồ trang miệng gì không?
+
+请尽快服务.
+Hãy mau mang đồ ra
+
+请把账单给我
+Hãy đưa tôi hóa đơn
+
+这就是，请到柜台付账
+Đây ạ! Xin mời tới quầy thanh toán
+
+我们各付各的
+Chúng ta của ai trả của người ấy
+
+不，这次我请客
+Không, lần này tôi mời
+
+请问需要加冰块吗？
+Xin hỏi anh cần thêm đá không?
+
+请问需要冷饮还是热饮
+Xin hỏi anh cần đồ uống lạnh hay nóng?
+
+请用茶
+Mời dùng trà
+
+请用香巾
+Mời dùng khăn ướt
+
+祝您午餐（晚餐）愉快!
+Chúc anh bữa trưa (bữa tối) vui vẻ!
+
+对不起，我能把这个盘子撤走吗？
+Xin lỗi, tôi có thể dọn đĩa này đi không?
+
+您先来杯啤酒好吗？
+Cho tôi một cốc bia trước được không?
+
+先生您喜欢用筷子还是刀叉.
+Xin lỗi ông muốn dùng đũa hay dao dĩa
+
+请问卫生间在哪里？
+Xin hỏi nhà vệ sinh ở đâu?
+
+服务员我想买单.
+Phục vụ, tôi muốn thanh toán
+
+一共是元，请问您付现金还是信用卡？
+Tổng cộng là đồng, xin hỏi anh trả bằng tiền mặt hay thẻ tín dụng
+
+我们这儿不收小费，但是我仍很感谢您.
+Chỗ chúng tôi không nhận tiền boa, nhưng tôi vẫn rất cảm ơn anh
+
+请稍等，我马上来收拾.
+Xin chờ một chút, tôi lập tức tới dọn dẹp
+
+谢谢您提出的宝贵意见
+Cảm ơn ý kiến quý báu của anh
+
+这瓶酒多少钱？
+Chai rượu này bao nhiêu tiền?
+
+不要了，谢谢.
+Không cần nữa, cảm ơn
+
+对不起，请再重复一遍.
+Xin lỗi, xin ông nói lại lần nữa
+
+请结帐.
+Xin mời thanh toán
+
+可以在这儿付帐吗？
+Có thể thanh toán ở đây không?
+
+你要打包带回家吗?	
+Anh muốn gói đồ thừa mang về không?
+
+先生，现在点菜吗？
+Thưa ông, giờ ông đã gọi món chưa?
+
+请先用茶
+Mời dùng trà trước
+
+我们这儿什么菜都好吃啊
+Các món ăn của chúng tôi đều ngon
+
+喝什么饮料
+Đồ uống thì sao 
+
+你还要别的吗
+Ông còn có yêu cầu gì nữa không
+
+请等十分钟了我马上把你们的菜带回来	
+Xin vui lòng đợi phút nữa tôi sẽ mang đồ ăn của các vị tới
+
+对不起，我给你换一下
+Xin lỗi, tôi sẽ đổi lại đồ ăn cho ông
+
+你尝尝这个怎么样
+Ông thử xem món này thế nào
+
+你要买单了吗
+Ông đã muốn thanh toán chưa
+
+你的单总共万块
+Hóa đơn của ông tổng cộng là đồng
+
+这是剩下的钱
+Đây là tiền thừa ạ
+
+谢谢，但是我们店规定不能收小费
+Cảm ơn ông, nhưng nhà hàng chúng tôi quy định không được nhận tiền bo
+
+谢谢光临，下次再来
+Cảm ơn quý khách, lần sau lại tới ạ.
+
+今晚有空房吗？
+Tối nay có phòng trống không?
+
+住一晚多少钱？
+Ở một đêm bao nhiêu tiền?
+
+我需要一个单人房间
+Tôi cần một phòng đơn.
+
+我想要一个带阳台的房间
+Tôi cần một phòng có ban công.
+
+我想要包三餐的
+Tôi muốn bao gồm cả bữa.
+
+我喜欢不包三餐的
+Tôi không thích bao gồm bữa ăn.
+
+我想要加一张床
+Tôi muốn đặt thêm một chiếc giường.
+
+宾馆有洗衣服务吗？
+Khách sạn có dịch vụ quần áo không?
+
+宾馆有上网服务吗？
+Khách sạn có dịch vụ để lên mạng không?
+
+宾馆里有餐厅吗？
+Trong khách sạn có nhà ăn không?
+
+附近有美容院吗？
+Gần đây có thẩm mỹ viện không?
+
+您可以为我的孩子推荐一位保姆吗？
+Anh có thể giới thiệu cho con tôi một cô bảo mẫu không?
+
+灯坏了
+Đèn hỏng rồi.
+
+我可以换另外一间房间吗?
+Tôi có thể đổi phòng khác được không?
+
+一天多少钱？
+Bao nhiêu tiền một ngày?
+
+一个星期多少钱？
+Bao nhiêu tiền một tuần?
+
+包含税吗？
+Có gồm thuế không?
+
+我有预定。
+Tôi có dự định.
+
+您有一间带盥洗室的房间吗？
+Anh có phòng có bồn tắm không?
+
+您有一间带空调的房间吗？
+Anh có phòng có điều hòa không?
+
+您有一间带暖机的房间吗？
+Anh có phòng có lò sưởi không?
+
+您有一间带电视的房间吗？
+Anh có phòng có tivi không?
+
+您有一间有热水的房间吗？
+Anh có phòng có bình nước nóng không?
+
+您有一间带阳台的房间吗？
+Anh có phòng có ban công không?
+
+您有一间可以眺望对面街道的房间吗？
+Anh có phòng nhìn ra mặt đường không?
+
+您有一间带有海景的房间吗？	
+Anh có phòng nhìn ra phong cảnh biển không?
+
+您好,这里是东方宾馆
+Xin chào, Khách sạn Đông Phương xin nghe
+
+你好,我要预定一个房间
+Chào cô, tôi muốn đặt một phòng
+
+请问,您要单人间还是双人间?
+Xin hỏi, anh muốn phòng đơn hay phòng đôi ạ ?
+
+我要一个双人间。多少钱一天?
+Tôi cần một phòng đôi. Bao nhiêu tiền một ngày ?
+
+一天一百八十元,包早餐。您要住多久?
+Một ngày nhân dân tệ, bao gồm bữa sáng. Anh muốn ở bao lâu ạ ?
+
+两天
+Hai hôm.
+
+请问您什么时候入住呢?
+Xin hỏi chừng nào anh check in ?
+
+明天中午
+Trưa ngày mai.
+
+好的
+Dạ được.
+
+您好
+Chào anh!
+
+我是阮英勇,昨天跟你预定了房间
+Tôi là Nguyễn Anh Dũng, hôm qua có đặt trước phòng với cô.
+
+稍等一下。哦,是的,请填一下这张单子,写上您的姓名和护照号码
+Xin chờ một lát. À, đúng rồi, mời anh điền vào tờ đơn này, viết tên anh và số hộ chiếu.
+
+好了	
+Xong rồi.
+
+您的房间是号。这是您的房卡。电梯就在柜台的左边
+Phòng của anh là phòng Đây là thẻ phòng của anh Thang máy ở ngay bên trái quầy lễ tân.
+
+顺便问一下,这附近有什么好玩儿的地方吗?
+Tiện thể xin hỏi một chút, gần đây có nơi nào hay không ?
+
+有,出门往前走大概公里左右就是北京步行街,那儿有很多商店和美食。
+Dạ có, ra khỏi cửa đi thẳng khoảng km chính là phố đi bộ Bắc Kinh, ở đó có rất nhiều cửa hàng và đồ ăn ngon.
+
+太好了,麻烦请工作人员帮我把行李搬上去。
+Hay quá, vậy phiền cô nhờ nhân viên giúp tôi mang hành lý lên nhé.
+
+好,没问题。
+Vâng, không có vấn đề gì.
+
+我要退房。这是房卡	
+Tôi muốn trả phòng Đây là thẻ phòng.
+
+请稍等
+Xin anh chờ một lát.
+
+好了,这是账单。一共三百六十元
+Xong rồi , đây là hóa đơn Tổng cộng là nhân dân tệ.
+
+可以用信用卡结账吗?
+Có thể dùng thẻ tín dụng thanh toán không ?
+
+可以,支付宝也行。
+Được ạ, Alipay cũng được
+
+好的。再见
+Ok rồi. Tạm biệt cô.

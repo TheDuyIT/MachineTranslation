@@ -1,0 +1,215 @@
+抱歉，我现在很忙。
+Xin lỗi, hiện tôi đang rất bận
+
+今天又得加班了。
+Hôm nay lại phải tăng ca
+
+最近总是加班。
+Dạo này toàn phải tăng ca
+
+我忙得不可开交。你能晚点儿下班吗？
+Tôi bận không dứt ra được Anh tan ca muộn một chút được không?
+
+工作非常多。你能加班吗？
+Việc rất nhiều Anh tăng ca được không?
+
+当然可以。
+Tất nhiên là được
+
+很抱歉。明天我没办法早来。
+Thành thật xin lỗi Ngày mai tôi không thể đến sớm được
+
+抱歉。我今天不能上夜班。
+Xin lỗi Hôm nay tôi không thể làm ca đêm
+
+我晚上有课。
+Buổi tối tôi có giờ dạy
+
+家里没有人照看孩子。
+Ở nhà không có ai trông bọn trẻ
+
+你需要我加多长时间的班？
+Anh muốn tôi tăng ca thêm bao lâu?
+
+明天见。
+Hẹn mai gặp lại
+
+累了吧？
+Mệt rồi chứ?
+
+该下班了。
+Hết giờ làm rồi
+
+等一下。
+Chờ một lát
+
+请给我一杯咖啡。
+Làm ơn cho tôi ly cà phê
+
+今天要做什么？
+Hôm nay phải làm gì?
+
+你能来一下办公室吗？
+Anh đến văn phòng một lát được không?
+
+你能给我复印这份文件吗？
+Anh photo bản tài liệu này cho tôi được không?
+
+你能帮我一下忙吗？
+Anh giúp tôi một lát có được không?
+
+老板来了吗？
+Ông chủ đã đến chưa?
+
+最近老板的心情不好。
+Dạo này tâm trạng của ông chủ không tốt
+
+开始开会吧。
+Bắt đầu họp nào
+
+我宣布会议开始。
+Tôi xin tuyên bố cuộc họp bắt đầu
+
+开会了，大家请安静。
+Vào cuộc họp rồi, đề nghị mọi người trật tự
+
+都到齐了吗？
+Đã đến đủ cả chưa?
+
+开会时不能接电话。
+Khi họp không được nghe điện thoại
+
+秘书来念一下上次会议记录好吗？
+Mời cô thư ký đọc qua bản ghi chép cuộc họp lần trước được không?
+
+你的发言权没有获得批准。
+Quyền phát biểu của anh không được phê chuẩn
+
+所有赞同的，请举手。
+Tất cả những ai đồng ý xin giơ tay
+
+所有反对的，请表态反对。
+Tất cả những ai phản đối đề nghị bày tỏ thái độ phản đối
+
+我提议将该议案进行投票表决。
+Tôi đề nghị tiến hành bỏ phiếu cho đề án này
+
+我们表决吧。
+Chúng ta biểu quyết đi
+
+我提议现在休会。
+Tôi đề nghị bây giờ giải lao
+
+英俊还没来呢。
+Anh Tuấn chưa đến à?
+
+明勇说他会晚点儿来。
+Minh Dũng nói anh ấy đến muộn một chút
+
+他最近总是迟到。
+Dạo này anh ấy toàn đến muộn
+
+他到分公司一趟再来上班。
+Anh ấy đến chi nhánh công ty rồi mới đến làm
+
+社长经常点上班。
+Trưởng phòng thường đi làm lúc giờ
+
+我们公司打卡上班。
+Công ty chúng tôi dùng thẻ chấm công
+
+迟到分钟也会罚款。
+Đến muộn phút cũng bị phạt tiền
+
+我明天出差。
+Ngày mai tôi đi công tác
+
+我到海外出差一个月。
+Tôi đi công tác ở nước ngoài tháng
+
+我去北京出差。
+Tôi đi công tác ở Bắc Kinh
+
+我经常出差。
+Tôi thường xuyên đi công tác
+
+我和老板一起去日本出差。
+Tôi đi công tác ở Nhật Bản cùng với ông chủ
+
+老板叫我到美国出差。
+Ông chủ cử tôi đi công tác ở Mỹ
+
+是三星公司的金先生吗？
+Ông là ông Kim bên công ty Samsung phải không?
+
+社长正在开会呢。您能等会儿吗？
+Trưởng phòng đang họp Anh vui lòng chờ một lát được không?
+
+社长正在等您呢。
+Trưởng phòng đang chờ anh đấy
+
+您来了？请往这边走。
+Anh đến rồi à? Mời anh đi lỗi này
+
+想喝杯咖啡吗？
+Anh có muốn uống lý cà phê không?
+
+对不起，您是从北京来的王明先生吗？
+Xin lỗi, anh là Vương Minh từ Bắc Kinh tới phải không?
+
+欢迎您来我们公司。
+Chào mừng anh đến công ty chúng tôi
+
+我们老板有事，所以我代他来的。
+Ông chủ chúng tôi có việc bận, nên tôi đến thay ông ấy
+
+希望您在中国期间过得愉快。
+Hy vọng anh sẽ cảm thấy thoải mái trong thời gian ở Trung Quốc
+
+价格很合适。
+Giá cả rất phù hợp
+
+我很满意这个价格。	
+Tôi rất hài lòng với giá này
+
+价格的问题，我们要好好商量一下。
+Chúng ta phải thương lượng lại vấn đề giá cả
+
+不能再便宜一点吗？
+Không thể rẻ hơn nữa được à?
+
+上海的到岸价是多少？
+Giá CIF Thượng Hải là bao nhiêu?
+
+我们再商量商量价钱吧。
+Chúng ta thỏa thuận giá cả nhé
+
+对不起，在价格上没有商量的余地。
+Xin lỗi, về giá cả thì không thể thỏa thuận hơn được nữa
+
+费用由谁来承担？
+Các khoản phí tổn bên nào chịu?
+
+什么时候签订合同呢？
+Bao giờ ký hợp đồng?
+
+我们合适签合同好呢？
+Khi nào thì chúng ta ký hợp đồng?
+
+让我们遵守合同吧。
+Chúng ta hãy tuân thủ theo hợp đồng nhé
+
+如果违约的话，得交违约金。
+Nếu làm trái hợp đồng thì phải nộp tiền vi phạm hợp đồng
+
+如果违约的话，得双倍赔偿。
+Nếu làm trái hợp đồng thì phải bồi thường gấp đôi
+
+索赔的有效期是多久？
+Thời hạn đòi bồi thường có hiệu lực trong bao lâu?
+
+贵公司方面也应该承担一部分责任。
+Bên quý công ty cũng phải chịu một phần trách nhiệm
+
+对这件事。我们不能承担全部责任。
+Chúng tôi không thể chịu toàn bộ trách nhiệm về việc này
