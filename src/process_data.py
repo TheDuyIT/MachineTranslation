@@ -21,10 +21,10 @@ class DataFormatter:
 
             if line_start == "T:" or line_start == "V:":
                 if last_line_start == "V:":
-                    lst_vi.append(re.sub(" +", " ", vi).strip())
+                    lst_vi.append(re.sub(" +", " ", vi).strip().lower())
 
                 elif last_line_start == "T:":
-                    lst_cn.append(re.sub(" +", " ", cn).strip())
+                    lst_cn.append(re.sub(" +", " ", cn).strip().lower())
 
                 last_line_start = line[:2]
 
@@ -43,10 +43,10 @@ class DataFormatter:
                     vi = vi + " " + line
         # Last sentences save
         if last_line_start == "V:":
-            lst_vi.append(re.sub(" +", " ", vi).strip())
+            lst_vi.append(re.sub(" +", " ", vi).strip().lower())
 
         elif last_line_start == "T:":
-            lst_cn.append(re.sub(" +", " ", cn).strip())
+            lst_cn.append(re.sub(" +", " ", cn).strip().lower())
         # print(lst_cn[238])
         # print(lst_vi[238])
         # print(len(lst_vi))
@@ -72,13 +72,25 @@ class DataFormatter:
                     tmp = " ".join(x.split("\n"))
 
                     if i == 0:
-                        lst_vi.append(re.sub(" +", " ", tmp).strip())
+                        lst_vi.append(re.sub(" +", " ", tmp).strip().lower())
                     else:
-                        lst_cn.append(re.sub(" +", " ", tmp).strip())
+                        lst_cn.append(re.sub(" +", " ", tmp).strip().lower())
                     i += 1
         return (lst_vi, lst_cn)
 
-    def check(self, data: str) -> tuple:
+    def preprocess_format_bai_hat(self, data: str) -> tuple:
+        xs = re.split("\n\s*\n", data)
+        lst_vi = []
+        lst_cn = []
+        for x in xs:
+            x = x.split("\n")
+            # print(x)
+            lst_cn.append(x[0].strip().lower())
+            lst_vi.append(x[1].strip().lower())
+
+        return (lst_vi, lst_cn)
+
+    def check_pdf(self, data: str) -> tuple:
         # print(data)
         xs = re.split("\n\s*\n", data)
         i = 0
@@ -108,6 +120,42 @@ class DataLoader:
             data = data.decode("utf-8")
         return data
 
+    def process_duplicate(
+        self, lst_vi_old: str, lst_vi_new: list, lst_cn_old: str, lst_cn_new: list
+    ) -> tuple:
+        lst_vi_old = self.np_load(lst_vi_old)
+        # for i in lst_vi_old:
+        #     print(i)
+        # print("-----------------------------------------")
+        lst_cn_old = self.np_load(lst_cn_old)
+        # for i in lst_cn_old:
+        #     print(i)
+        assert len(lst_vi_new) == len(lst_cn_new), "New pairs not match length!"
+        assert len(lst_vi_old) == len(lst_cn_old), "Old pairs not match length!"
+
+        lst_vi = np.array(lst_vi_new + lst_vi_old)
+        lst_cn = np.array(lst_cn_new + lst_cn_old)
+
+        # num = 1233
+        # print(lst_vi[num])
+        # print(lst_cn[num])
+        tmp = np.unique(lst_vi, return_counts=True, return_index=True)
+
+        ind = tmp[1][tmp[2] == 2]
+
+        lst_duplicate = lst_vi[ind]
+        res_vi = []
+        res_cn = []
+        for i, val in enumerate(lst_vi_new):
+            if val in lst_duplicate:
+                continue
+            res_vi.append(val)
+            res_cn.append(lst_cn_new[i])
+        num = 12
+        # print(res_vi[num])
+        # print(res_cn[num])
+        return res_vi, res_cn
+
     def np_save(self, data: list, name: str, update=True) -> None:
         """Save list
         Args:
@@ -133,37 +181,53 @@ if __name__ == "__main__":
 
     formatter = DataFormatter()
     loader = DataLoader()
-    """
+
     # 999letters
-    data = loader.load_txt(os.path.join(ROOT_DIR, "datasets/999letters.txt"))
-    lst_vi, lst_cn = formatter.preprocess(data)
-    loader.np_save(lst_cn, "lst_cn", update=False)
-    loader.np_save(lst_vi, "lst_vi", update=False)
-    print(len(loader.np_load("lst_cn")))
-    print(len(loader.np_load("lst_vi")))
+    # data = loader.load_txt(os.path.join(ROOT_DIR, "datasets/999letters.txt"))
+    # lst_vi, lst_cn = formatter.preprocess(data)
+    # loader.np_save(lst_cn, "lst_cn", update=False)
+    # loader.np_save(lst_vi, "lst_vi", update=False)
+    # print(len(loader.np_load("lst_cn")))
+    # print(len(loader.np_load("lst_vi")))
 
     # 3k datasets
-    for name in os.listdir("datasets/"):
-        if name.startswith("PDF"):
-            print(name)
-            path = os.path.join("datasets", name)
-            data = loader.load_txt(path)
-            lst_vi, lst_cn = formatter.preprocess_3k(data)
-            loader.np_save(lst_cn, "lst_cn")
-            loader.np_save(lst_vi, "lst_vi")
-            print(len(loader.np_load("lst_cn")))
-            print(len(loader.np_load("lst_vi")))
-    """
-    # 1001letters
-    path = "datasets/1001letters_original.txt"
+    # for name in os.listdir("datasets/"):
+    #     if name.startswith("PDF"):
+    #         print(name)
+    #         path = os.path.join("datasets", name)
+    #         data = loader.load_txt(path)
+    #         lst_vi, lst_cn = formatter.preprocess_3k(data)
+    #         loader.np_save(lst_cn, "lst_cn")
+    #         loader.np_save(lst_vi, "lst_vi")
+    #         print(len(loader.np_load("lst_cn")))
+    #         print(len(loader.np_load("lst_vi")))
+    # 3k augment
+    path = "datasets/dataset/3000cau_final.txt"
     data = loader.load_txt(path)
-    lst_cn, lst_vi = formatter.preprocess_3k(data)
-    print(len(lst_cn))
-    print(len(lst_vi))
-    print(len(loader.np_load("lst_cn_1000_original")))
-    print(len(loader.np_load("lst_vi_1000_original")))
-    loader.np_save(lst_cn, "lst_cn_1000_original")
-    loader.np_save(lst_vi, "lst_vi_1000_original")
-    print(len(loader.np_load("lst_cn_1000_original")))
-    print(len(loader.np_load("lst_vi_1000_original")))
+    lst_vi, lst_cn = formatter.preprocess_format_bai_hat(data)
+    lst_vi, lst_cn = loader.process_duplicate("lst_vi", lst_vi, "lst_cn", lst_cn)
+
+    # 1001letters
+    # path = "datasets/1001letters_original.txt"
+    # data = loader.load_txt(path)
+    # lst_cn, lst_vi = formatter.preprocess_3k(data)
+    # print(len(lst_cn))
+    # print(len(lst_vi))
+    # print(len(loader.np_load("lst_cn_1000_original")))
+    # print(len(loader.np_load("lst_vi_1000_original")))
+    # loader.np_save(lst_cn, "lst_cn_1000_original")
+    # loader.np_save(lst_vi, "lst_vi_1000_original")
+    # print(len(loader.np_load("lst_cn_1000_original")))
+    # print(len(loader.np_load("lst_vi_1000_original")))
+
+    # format bai hat
+    # path = "datasets/format_bai_hat_Yeu_cau_chang_can_ly_do.txt"
+    # data = loader.load_txt(path)
+    # lst_vi, lst_cn = formatter.preprocess_format_bai_hat(data)
+    # print(len(lst_vi))
+    # print(len(lst_cn))
+    # print(lst_vi[0])
+    # print(lst_cn[0])
+    # print(lst_vi[-1])
+    # print(lst_cn[-1])
 
