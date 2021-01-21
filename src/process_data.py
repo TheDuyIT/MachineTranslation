@@ -1,5 +1,8 @@
 import os
+from os import path
 import re
+import numpy as np
+from numpy.lib.npyio import load
 
 
 class DataFormatter:
@@ -18,10 +21,10 @@ class DataFormatter:
 
             if line_start == "T:" or line_start == "V:":
                 if last_line_start == "V:":
-                    lst_vi.append(re.sub(" +", " ", vi))
+                    lst_vi.append(re.sub(" +", " ", vi).strip())
 
                 elif last_line_start == "T:":
-                    lst_cn.append(re.sub(" +", " ", cn))
+                    lst_cn.append(re.sub(" +", " ", cn).strip())
 
                 last_line_start = line[:2]
 
@@ -38,11 +41,17 @@ class DataFormatter:
                     cn = cn + " " + line
                 elif v_flag:  # vi
                     vi = vi + " " + line
-        num = 237
-        print(lst_vi[num])
+        # Last sentences save
+        if last_line_start == "V:":
+            lst_vi.append(re.sub(" +", " ", vi).strip())
+
+        elif last_line_start == "T:":
+            lst_cn.append(re.sub(" +", " ", cn).strip())
+        # print(lst_cn[238])
+        # print(lst_vi[238])
+        # print(len(lst_vi))
         # print(len(lst_cn))
-        print("-------------------------")
-        print(lst_cn[num])
+        return (lst_vi, lst_cn)
 
     def preprocess_3k(self, data: str) -> tuple:
         # print(data)
@@ -63,15 +72,11 @@ class DataFormatter:
                     tmp = " ".join(x.split("\n"))
 
                     if i == 0:
-                        lst_vi.append(re.sub(" +", " ", tmp))
+                        lst_vi.append(re.sub(" +", " ", tmp).strip())
                     else:
-                        lst_cn.append(re.sub(" +", " ", tmp))
+                        lst_cn.append(re.sub(" +", " ", tmp).strip())
                     i += 1
-        print(len(lst_vi))
-        print(len(lst_cn))
-        # print(lst_vi)
-        # print("---------------------")
-        # print(lst_cn)
+        return (lst_vi, lst_cn)
 
     def check(self, data: str) -> tuple:
         # print(data)
@@ -103,6 +108,25 @@ class DataLoader:
             data = data.decode("utf-8")
         return data
 
+    def np_save(self, data: list, name: str, update=True) -> None:
+        """Save list
+        Args:
+            data (list): [list to save]
+            name (str): [name to save]
+            update (bool, optional): [If true, file will be updated. if false, file will be replaced]. Defaults to True.
+        """
+        path_save = os.path.join("outputs/", name + ".npy")
+        if update:
+            if os.path.exists(path_save):
+                data = self.np_load(name) + data
+                np.save(path_save, np.array(data))
+                return
+        np.save(path_save, np.array(data))
+
+    def np_load(self, name: str) -> list:
+        path = os.path.join("outputs/", name + ".npy")
+        return np.load(path).tolist()
+
 
 if __name__ == "__main__":
     ROOT_DIR = os.getcwd()
@@ -110,8 +134,20 @@ if __name__ == "__main__":
     formatter = DataFormatter()
     loader = DataLoader()
 
-    # data = loader.load_txt(os.path.join(ROOT_DIR, "../datasets/999letters.txt"))
-    # dic = formatter.preprocess(data)
-    data = loader.load_txt(os.path.join(ROOT_DIR, "../datasets/100_07.txt"))
-    dic = formatter.preprocess_3k(data)
+    data = loader.load_txt(os.path.join(ROOT_DIR, "datasets/999letters.txt"))
+    lst_vi, lst_cn = formatter.preprocess(data)
+    loader.np_save(lst_cn, "lst_cn", update=False)
+    loader.np_save(lst_vi, "lst_vi", update=False)
+    print(len(loader.np_load("lst_cn")))
+    print(len(loader.np_load("lst_vi")))
+    for name in os.listdir("datasets/"):
+        if name.startswith("PDF"):
+            print(name)
+            path = os.path.join("datasets", name)
+            data = loader.load_txt(path)
+            lst_vi, lst_cn = formatter.preprocess_3k(data)
+            loader.np_save(lst_cn, "lst_cn")
+            loader.np_save(lst_vi, "lst_vi")
+            print(len(loader.np_load("lst_cn")))
+            print(len(loader.np_load("lst_vi")))
 
