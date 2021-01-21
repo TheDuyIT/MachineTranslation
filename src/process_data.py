@@ -133,13 +133,16 @@ if __name__ == "__main__":
 
     formatter = DataFormatter()
     loader = DataLoader()
-
+    """
+    # 999letters
     data = loader.load_txt(os.path.join(ROOT_DIR, "datasets/999letters.txt"))
     lst_vi, lst_cn = formatter.preprocess(data)
     loader.np_save(lst_cn, "lst_cn", update=False)
     loader.np_save(lst_vi, "lst_vi", update=False)
     print(len(loader.np_load("lst_cn")))
     print(len(loader.np_load("lst_vi")))
+
+    # 3k datasets
     for name in os.listdir("datasets/"):
         if name.startswith("PDF"):
             print(name)
@@ -150,4 +153,17 @@ if __name__ == "__main__":
             loader.np_save(lst_vi, "lst_vi")
             print(len(loader.np_load("lst_cn")))
             print(len(loader.np_load("lst_vi")))
+    """
+    # 1001letters
+    path = "datasets/1001letters_original.txt"
+    data = loader.load_txt(path)
+    lst_cn, lst_vi = formatter.preprocess_3k(data)
+    print(len(lst_cn))
+    print(len(lst_vi))
+    print(len(loader.np_load("lst_cn_1000_original")))
+    print(len(loader.np_load("lst_vi_1000_original")))
+    loader.np_save(lst_cn, "lst_cn_1000_original")
+    loader.np_save(lst_vi, "lst_vi_1000_original")
+    print(len(loader.np_load("lst_cn_1000_original")))
+    print(len(loader.np_load("lst_vi_1000_original")))
 
