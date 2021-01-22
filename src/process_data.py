@@ -182,31 +182,36 @@ if __name__ == "__main__":
     formatter = DataFormatter()
     loader = DataLoader()
 
+    lst_vi_name = "lst_vi_all_except_1001"
+    lst_cn_name = "lst_cn_all_except_1001"
     # 999letters
-    # data = loader.load_txt(os.path.join(ROOT_DIR, "datasets/999letters.txt"))
-    # lst_vi, lst_cn = formatter.preprocess(data)
-    # loader.np_save(lst_cn, "lst_cn", update=False)
-    # loader.np_save(lst_vi, "lst_vi", update=False)
-    # print(len(loader.np_load("lst_cn")))
-    # print(len(loader.np_load("lst_vi")))
+    data = loader.load_txt(os.path.join(ROOT_DIR, "datasets/999letters.txt"))
+    lst_vi, lst_cn = formatter.preprocess(data)
+    loader.np_save(lst_cn, lst_cn_name, update=False)
+    loader.np_save(lst_vi, lst_vi_name, update=False)
+    print(len(loader.np_load(lst_cn_name)))
+    print(len(loader.np_load(lst_vi_name)))
 
     # 3k datasets
-    # for name in os.listdir("datasets/"):
-    #     if name.startswith("PDF"):
-    #         print(name)
-    #         path = os.path.join("datasets", name)
-    #         data = loader.load_txt(path)
-    #         lst_vi, lst_cn = formatter.preprocess_3k(data)
-    #         loader.np_save(lst_cn, "lst_cn")
-    #         loader.np_save(lst_vi, "lst_vi")
-    #         print(len(loader.np_load("lst_cn")))
-    #         print(len(loader.np_load("lst_vi")))
+    for name in os.listdir("datasets/"):
+        if name.startswith("PDF"):
+            print(name)
+            path = os.path.join("datasets", name)
+            data = loader.load_txt(path)
+            lst_vi, lst_cn = formatter.preprocess_3k(data)
+            loader.np_save(lst_cn, lst_cn_name)
+            loader.np_save(lst_vi, lst_vi_name)
+            print(len(loader.np_load(lst_cn_name)))
+            print(len(loader.np_load(lst_vi_name)))
     # 3k augment
     path = "datasets/dataset/3000cau_final.txt"
     data = loader.load_txt(path)
     lst_vi, lst_cn = formatter.preprocess_format_bai_hat(data)
-    lst_vi, lst_cn = loader.process_duplicate("lst_vi", lst_vi, "lst_cn", lst_cn)
-
+    lst_vi, lst_cn = loader.process_duplicate(lst_vi_name, lst_vi, lst_cn_name, lst_cn)
+    loader.np_save(lst_cn, lst_cn_name)
+    loader.np_save(lst_vi, lst_vi_name)
+    print(len(loader.np_load(lst_cn_name)))
+    print(len(loader.np_load(lst_vi_name)))
     # 1001letters
     # path = "datasets/1001letters_original.txt"
     # data = loader.load_txt(path)
@@ -221,6 +226,17 @@ if __name__ == "__main__":
     # print(len(loader.np_load("lst_vi_1000_original")))
 
     # format bai hat
+    for name in os.listdir("datasets/"):
+        if name.startswith("format_bai_hat"):
+            print(name)
+            path = os.path.join("datasets", name)
+            data = loader.load_txt(path)
+            lst_vi, lst_cn = formatter.preprocess_format_bai_hat(data)
+            loader.np_save(lst_cn, lst_cn_name)
+            loader.np_save(lst_vi, lst_vi_name)
+            print(len(loader.np_load(lst_cn_name)))
+            print(len(loader.np_load(lst_vi_name)))
+
     # path = "datasets/format_bai_hat_Yeu_cau_chang_can_ly_do.txt"
     # data = loader.load_txt(path)
     # lst_vi, lst_cn = formatter.preprocess_format_bai_hat(data)
@@ -230,4 +246,8 @@ if __name__ == "__main__":
     # print(lst_cn[0])
     # print(lst_vi[-1])
     # print(lst_cn[-1])
+    # loader.np_save(lst_cn, lst_cn_name)
+    # loader.np_save(lst_vi, lst_vi_name)
+    print(loader.np_load(lst_vi_name)[-1])
+    print(loader.np_load(lst_cn_name)[-1])
 
