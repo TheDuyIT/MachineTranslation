@@ -1,0 +1,5466 @@
+sốt nhẹ 低热
+sốt cao 高热
+rét run 寒战
+đau đầu 头痛
+mất ngủ 失眠
+hồi hộp 心悸
+ngất 昏迷
+sốc 休克
+đau răng 牙疼
+đau dạ dày 胃痛
+đau khớp 关节痛
+đau lưng 腰痛
+tức ngực 胸痛
+đau ngực 胸痛
+đau bụng cấp tính 急腹痛
+toàn thân đau nhức 全身疼痛
+chán ăn 食欲不振
+buồn nôn 恶心
+nôn mửa 呕吐
+chướng bụng 腹胀
+tiêu chảy mãn tính 慢性腹泻
+táo bón mãn tính 慢性便泌
+gan to 肝肿大
+sốt 发烧
+đầu váng mắt hoa 头昏眼花
+ù tai 耳鸣
+thở gấp 气促
+phát lạnh 发冷
+viêm họng 嗓子疼
+ho khan 干咳
+rêu lưỡi 舌苔
+chảy nước mũi 流鼻涕
+nôn khan 干呕
+rã rời 没精神
+uể oải 没精神
+ủ rũ 没精神
+đổ mồ hôi ban đêm 盗汗
+tiêu hóa kém 消化不良
+đánh rắm 放屁
+mạch nhanh 脉速
+mạch yếu 脉弱
+loạn nhịp tim 心杂音
+huyết áp cao 血压高
+trường đoan trong dạ dày nhiều 胃酸过多
+chuột rút 抽筋
+ngất xỉu 惊厥
+xuất huyế t出血
+xuất huyết nội 内出血
+xuất huyết ngoại 外出血
+xuất huyết dưới da 皮下出血
+nôn ra máu 呕血
+âm đạo xuất huyết 阴道出血
+đi ngoài phân đen 拉黑便
+vết thương chảy mủ 伤口流脓
+ngứa khắp người 全身发痒
+nổi ban đỏ 出疹子
+mủ 脓
+hôn mê 昏厥
+bệnh vàng da vàng mắt do viêm gan a 黄疸
+thủy sũng 水肿
+phù thủng 浮肿
+tê dại 麻木
+bệnh ghẻ 疖子
+tuyến hạch sưng to 淋巴结肿大
+ảo thị 幻视
+ảo thính 幻听
+ảo giác 幻觉
+bơm không khí 空气泵
+ảnh chụp từ không trung 航拍照片
+vòng bi 滚珠轴承
+pin 电池
+xích xe đạp 自行车链条
+dây cáp 电缆
+cuộn dây cáp 电缆卷筒
+máy ảnh 相机
+băng cassette 录音带
+bộ nạp điện 充电器
+buồng lái 驾驶舱
+bánh răng 齿轮
+ổ khoá số 密码锁
+máy tính 计算机
+cần cẩu 起重机
+case máy tính để bàn 电脑主机
+giàn khoan 钻机
+tài xế 驱动器
+động cơ điện 电动马达
+năng lượng 能量
+máy đào 挖掘机
+máy fax 传真机
+máy quay phim 胶片相机
+đĩa mềm 磁盘
+kính bảo hộ 护目镜
+đĩa cứng 硬盘
+cần điều khiển 操纵杆
+phím 键
+hạ cánh 登陆
+máy tính xách tay 笔记本电脑
+máy xén cỏ 剪草机
+ống kính 镜头
+máy 机器
+chân vịt tàu thủy 船用螺旋桨
+hầm mỏ 矿山
+ổ cắm nhiều lỗ 多个插座
+máy in 打印机
+chương trình 程序
+cánh quạt 推进器
+máy bơm 泵
+máy quay đĩa hát 唱机
+điều khiển từ xa 遥控器
+người máy 机器人
+ăng-ten vệ tinh 卫星天线
+máy may 缝纫机
+phim hình chiếu slide 幻灯片
+công nghệ năng lượng mặt trời 太阳能技术
+tàu con thoi vũ trụ 航天飞机
+xe lăn chạy hơi nước 蒸气压路机
+treo 悬挂
+công tắc 开关
+thước dây 卷尺
+công nghệ 技术
+điện thoại 电话
+Ống kính tele 长焦镜头
+kính viễn vọng 望远镜
+ổ đĩa flash usb 闪存驱动器
+van 阀门
+máy quay video 摄像机
+điện áp 电压
+guồng nước 水轮
+tuabin gió 风力发电机组
+cối xay gió 风车
+cụ ông 曾祖父
+cụ bà 曾祖母
+ông nội 祖父爷爷
+bà nội 祖母奶奶
+ông ngoại 外公
+bà ngoại 外婆
+bố vợ 岳父
+mẹ vợ 岳母
+chú 姑丈
+bác 姑丈
+cô 姑姑
+bác 伯父
+chú 叔叔
+bác gái 伯母
+thím 婶婶
+bố 父亲爸爸
+mẹ 母亲妈妈
+dượng 姨丈
+chú 姨丈
+dì 阿姨
+cậu 舅父
+cậu 舅舅舅父
+bố vợ 岳父
+mẹ vợ 岳母
+chị gái chồng 大姑
+cô 小姑
+anh chồng 大伯
+em chồng 小叔
+chồng 丈夫
+vợ 妻子
+anh rể 姐夫
+em rể 妹夫
+chị em gái 姐妹
+anh em trai 兄弟
+chị dâu 大嫂嫂嫂
+em dâu 弟妹
+anh họ 表哥
+em họ 表弟
+chị họ 表姐
+em gái họ 表妹
+chồng 老公
+vợ 老婆
+chị vợ 大姨子
+em vợ 小姨子
+anh vợ 大舅子
+chồng em vợ 小舅子
+con rể 女婿
+con gái 女儿
+con trai 儿子
+cháu trai 外甥
+cháu gái 外甥女
+cháu trai 侄子
+cháu gái 侄女
+anh họ 堂兄
+anh em họ 堂弟
+chị họ 堂姐
+em họ 堂妹
+cháu gái 孙女
+cháu trai 孙子
+chắt trai 曾孙子
+chắt gái 曾孙女
+một thế hệ 一代人
+họ hàng 亲戚
+bố dượng 继夫后父
+mẹ kế 继母后母
+mẹ ghẻ 继母后母
+con trai riêng 继子
+con gái riêng 继女
+đoàn xiếc lưu động 巡回马戏团
+lều xiếc lớn 大帐篷马戏篷
+lều 帐篷
+sân bãi 场地
+khán đài 看台
+mc 节目主持人司仪
+cuộc biểu diễn 列队行进
+tiết mục 节目
+tiết mục xiếc 马戏节目
+diễn viên xiếc 马戏演员
+thủ thuật cưỡi ngựa 马术
+diễn viên cưỡi ngựa 马术演员
+ảo thuật gia 魔术师
+nghệ sĩ tung hứng 变戏法者
+người nói tiếng bằng bụng 腹语术者
+người làm trò uốn mình 柔术演员
+người biểu diễn nhào lộn trên dây 杂技演员
+người biểu diễn kỹ năng giữ thăng bằng 表演平衡技巧的人
+diễn viên đu xà treo 荡秋千演员
+người đi trên dây thừng 走绳索者
+người đi trên dây thép 走钢丝者
+người tung hứng 耍把戏者
+người nuốt kiếm 吞剑者
+người nuốt lửa 吞火者
+người dụ rắn 耍蛇者
+diễn viên bay trên không 空中飞人
+thằng hề 小丑
+người khổng lồ 巨人
+thằng lùn 侏儒
+huấn luyện viên ngựa 驯马师
+huấn luyện viên sư tử 驯狮者
+dã thú 野兽
+lồng 笼子
+roi da 鞭子
+động vật thuần hóa 驯服的动物
+quần áo nịt 紧身衣
+đấu nhào lộn 翻筋斗
+đấu nhào lộn đôi 翻双筋斗
+hình chóp la hán 叠罗汉
+kỹ năng thăng bằn 平衡技巧
+tổng cục hải quan 海关总署
+nhân viên hải quan 海关人员
+kiểm tra hải quan 海关检查
+khai báo hải quan 海关报关
+đăng ký hải quan 海关登记
+giấy phép thông quan 海关放行
+giấy phép hải quan 海关结关
+kiểm tra hải quan 海关验关
+quy định thuế hải quan 海关税则
+giấy thông hành hải quan 海关通行证
+giấy chứng nhận hải quan 海关证明书
+tờ khai hải quan 海关申报表
+trạm kiểm tra biên phòng 边防检查站
+quản lý xuất nhập cảnh 出入境管理
+thủ tục nhập cảnh 入境手续
+visa nhập cảnh 入境签证
+visa tái nhập cảnh 再入境签证
+visa quá cảnh 过境签证
+visa xuất cảnh 出境签证
+visa đã đăng ký 登记签证
+visa khách đến thăm 访问签证
+kéo dài thời hạn visa 签证延期
+hộ chiếu 护照
+hộ chiếu ngoại giao 外交护照
+hộ chiếu công chức 官员护照
+hộ chiếu công vụ 公事护照
+tờ khai báo ngoại tệ 外币申报表
+tờ khai hành lý 行李申报表
+giấy chứng nhận sức khỏe 健康证书
+giấy xét nghiệm bệnh giang mai và aids 艾滋病梅毒检测报告单
+ngày lấy máu 采血日期
+phương pháp xét nghiệm 检验方法
+kết quả 结果
+quốc tịch 国籍
+tiêu bản kiểm nghiệm 检验标本
+người kiểm nghiệm 检验人
+xác nhận 兹证明
+hoàn thành tiêm chủng sơ bộ 初种完成
+tiêm chủng lại 复种
+thời gian có hiệu lực của giấy xác nhận 证书有效期
+giấy chứng nhận được miễn xét nghiệm 免验证
+tờ khai vật dụng mang theo của người nhập cảnh 入境旅客物品申报表
+hải quan 海关
+black friday 黑色星期五
+black friday 黑五
+lễ tạ ơn 感恩节
+mua sắm 采购
+giảm giá 打折
+hoạt động ưu đãi 优惠活动
+thúc đẩy tiêu dùng 促销
+lợi nhuận 盈利
+hàng giá rẻ 便宜货
+người tiêu dùng 消费者
+khoảng thời gian vàng 黄金时刻
+giảm giá 降价
+người cuồng mua sắm 购物狂
+tín đồ shopping 购物狂
+khách hàng 顾客
+mua sắm trực tuyến 网购
+cửa hàng trực tuyến 网店
+chữ tín 信誉
+khoản tiền giao dịch 交易额
+hàng bán chạy 畅销货
+mùa mua sắm dịp giáng sinh ở mỹ thường bắt đầu từ sau lễ tạ ơn 美国圣诞节大采购一般是从感恩节之后开始
+vào ngày này, các của hàng đều tiến hành hàng loạt các hoạt động giảm giá và ưu đãi, thực hiện đợt thúc đẩy tiêu dùng quy mô lớn cuối cùng trong năm. 在这一天商场都会推出大量的打折和优惠活动以在年底进行最后一次大规模的促销
+việc người ta mua sắm điên cuồng góp phần làm tăng lợi nhuận của các trung tâm mua sắm. 人们疯狂的抢购使得商场利润大增
+các doanh nghiệp kỳ vọng thu được nhiều lợi nhuận nhất thông qua đợt mua sắm lớn mùa giáng sinh này. 商家期望通过以这一天开始的圣诞大采购为这一年获得最多的盈利
+vào ngày black friday, phần lớn các của hàng mở cửa lúc 5 hoặc 6 giờ sáng, thậm chí là sớm hơn. 在黑色星期五这天绝大多数商店都会清晨五六点钟就开门有的甚至更早
+các nhà bán hàng cũng sẽ tiến hành các hoạt động quảng cáo trên báo chí một vài ngày trước lễ tạ ơn để thu hút khách hàng. 商家更会采取提前在感恩节几天前的报纸上刊登广告措施来吸引顾客
+rất nhiều người tiêu dùng cho rằng đây là thời điểm vàng để chuẩn bị quà giáng sinh hoặc mua được đồ với giá rẻ 很多消费者把这一天看作准备圣诞礼物或买到便宜货的黄金时刻
+thuế quan 关税
+thuế 税
+cục thuế 税务局
+cơ quan thuế vụ 税务机关
+cục thuế quan và thuế hàng tiêu dùng 关税与消费税局
+nhân viên thuế vụ 税务员
+luật thuế 税法
+khoản thuế 税款
+thuế suất 税率
+biểu thuế 税目
+chính sách thuế 税收政策
+thất thoát trong thu thuế 税收漏洞
+thuế 税收
+quy định thuế 税则
+thu nhập sau thuế 税后所得
+nhân viên kiểm tra 检查人员
+tính thuế 估税
+ấn định thuế 估税
+nhân viên tính thuế 估税员
+thẻ thu thuế 收税卡
+đường thu thuế 收税路
+thuế chu chuyển 周转税
+thuế quay vòng 周转税
+thuế vào cảng 入港税
+thuế con niêm 印花税
+tem lệ phí 印花税票
+thuế quan tài chính 财政关税
+thuế thu hoạch năm 岁入税
+thuế doanh nghiệp 营业税
+thuế nhập khẩu 进口税
+thuế xuất khẩu 出口税
+thuế lũy tiến 累进税
+thuế lũy thoái 累退税
+tính thuế lùi lại liên tục 累退税
+thuế danh lợi 盈利税
+thuế tiền lãi 盈利税
+thuế thu nhập 收入税
+thuế tài sản 财产税
+thuế di sản 遗产税
+thuế giao dịch 交易税
+tờ khai thuế thu nhập 所得税申报表
+thuế đặc chủng 特种税
+thuế hàng hóa 商品税
+thuế giấy phép 牌照税
+thuế tiêu dùng 消费税
+thuế hàng hóa trong nước 国内货物税
+thuế thuốc lá 烟税
+thuế rượu 酒税
+thuế hàng xa xỉ 奢侈品税
+đàm phán giá cả 价格谈判
+đơn đặt hàng 订单
+đơn đặt hàng dài hạn 长期订单
+đơn đặt hàng tơ lụa 丝绸订货单
+hợp đồng mua hàng 购货合同
+hợp đồng tiêu thụ 销售合同
+hợp đồng bán 销售合同
+hợp đồng tương hỗ 互惠合同
+ký kết hợp đồng 合同的签定
+vi phạm hợp đồng 合同的违反
+đình chỉ hợp đồng 合同的终止
+tờ khai hàng hóa 货物清单
+danh sách hàng hóa 货物清单
+bảng kê khai hàng hóa 舱单
+vận chuyển hàng hóa bằng container 集装箱货运
+giao hàng tại xưởng 工厂交货
+giao dọc mạn tàu 启运港船边交货
+giao hàng trên tàu 船上交货
+giao cho người vận tải 货交承运人指定地点
+giao hàng tại kho 仓库交货
+giao tai biên giới 边境交货
+giao hàng vào thời gian gần 近期交货
+chuyển giao hàng 远期交货
+giao hàng định kỳ 定期交货
+thời gian giao hàng 交货时间
+địa điểm giao hàng 交货地点
+phương thức giao hàng 交货方式
+phí vận chuyển hàng hóa 货物运费
+phí bảo quản hàng hóa 货物保管费
+vận đơn 提货单
+vận đơn liên hiệp 联运提单
+phiếu vận chuyển 承运人的发货通知书托运单
+chứng nhận bảo hiểm 保险单保单
+chứng nhận xuất xứ 产地证书原产地证明书
+chứng nhận chất lượng 货物品质证明书
+danh sách đóng gói 装箱单包装清单花色码单
+đòi bồi thường 索赔
+thời hạn đòi bồi thường 索赔期
+kỳ hạn đòi bồi thường 索赔期
+phiếu đòi bồi thường 索赔清单
+kết toán 结算
+phương thức kết toán 结算方式
+kết toán tiền mặt 现金结算
+kết toán song phương 双边结算
+kết toán đa phương 多边结算
+kết toán quốc tế 国际结算
+tiền đã kết toán 结算货币
+phương thức chi trả 支付方式
+chi trả bằng tiền mặt 现金支付
+chi trả bằng tín dụng 信用支付
+chi trả bằng đổi hàng 易货支付
+tiền đã chi trả 支付货币
+hóa đơn 发票发单装货清单
+hóa đơn thương mại 商业发票
+chi trả 支付
+hóa đơn tạm 临时发票
+hóa đơn chính thức 确定发票
+hóa đơn chiếu lệ 形式发票
+hóa đơn lãnh sự 领事发票
+hối phiếu 汇票
+hối phiếu có kỳ hạn 远期汇票
+hối phiếu trơn 光票
+hối phiếu kèm chứng từ 跟单汇票
+ký hậu hối phiếu 背书批单
+nức nở 抽泣
+tức tưởi 抽泣
+gào khóc 痛哭
+mỉm cười 微笑
+cười nhạt 冷笑
+cười ngây ngô 傻笑
+cười ngặt nghẽo 狂笑
+cười lăn lộn 狂笑
+nhíu mày 皱眉头
+cau mày 皱眉头
+nhướn mày 竖眉毛
+giương mắt 瞪眼
+trợn mắt 瞪眼
+che mặt 捂脸
+bịt mặt 捂脸
+nháy mắt 挤眼睛
+véo mũi 捏鼻子
+nháy mắt ra hiệu 递眼色
+bịt miệng 捂嘴
+làm mặt hề 做鬼脸
+bịt tai 捂耳朵
+thè lưỡi 伸舌头
+mặt khó đăm đăm 板脸
+nhắm mắt 闭眼
+lắc đầu 摇头
+gật đầu 点头
+nhìn ngược nhìn xuôi 东张西望
+ghen tị 眼红
+toát mồ hôi lạnh 冒冷汗
+nhíu mắt nhíu mày 挤眉弄眼
+thuỗn mặt 拉长脸
+dài mặt 拉长脸
+đỏ mặt tía tai 面红耳赤
+mặt tái xanh 脸色铁青
+tím mặt 脸色铁青
+giương mắt ếch 目瞪口呆
+đỏ mặt 脸红
+nghiến răng nghiến lợi 咬牙切齿
+nhổ nước bọt 吐口水
+liếc 瞟
+mặt mày hớn hở 眉开眼笑
+mặt mày rạng rỡ 眉开眼笑
+bĩu môi 撅嘴
+nheo mắt 眯眼睛
+lim dim 眯眼睛
+mím môi 抿嘴
+mắt trợn ngược 翻白眼
+cắn răng cắn lợi 龇牙咧嘴
+rầu rĩ 愁眉苦脸
+mặt mày nhăn nhó 愁眉苦脸
+ngao ngán 垂头丧气
+quầy tiếp tân 接待处
+giám đốc khách sạn 宾馆经理
+nhân viên phục vụ 服务员
+nhân viên trực ban 值班服务员
+hầu bàn 餐厅服务员
+phòng tiếp đón của khách sạn 宾馆接待厅
+nhân viên tiếp tân 接待员
+nhân viên bốc vác 搬运工
+valy 箱子
+cửa lớn 大门口
+tiền sảnh 门厅
+phòng lớn 大堂
+phòng nghỉ ngơi 休息室
+hành lang 走廊
+hành lang ngoài 外廊
+phòng khách 客厅
+cầu thang 楼梯
+thang máy 电梯
+quầy hàng trong khách sạn 小卖部
+nơi cung cấp thông tin 温询处
+sổ đăng ký của khách 旅客登记簿
+mẫu đăng ký 登记表
+số phòng 房间号码
+chìa khóa phòng 房间钥匙
+tủ giữ đồ 衣帽间
+phòng ăn nhỏ 小餐厅
+phòng café 咖啡室
+quầy bán báo 售报处
+thảm cỏ 草坪
+bể phun nước 喷水池
+sân 院子
+vườn hoa trên nóc nhà 屋顶花园
+phòng đơn 单人房间
+phòng đôi 双人房间
+phòng hai giường 双床房间
+phòng ở cao cấp 豪华套间
+phòng tổng thống 总统套房
+gian chái 套间
+phòng sinh hoạt 起居室
+ban công 阳台
+bệ cửa sổ 窗台
+buồng tắm 浴室
+buồng tắm có vòi hoa sen 淋浴
+bồn tắm 浴盆
+vòi phun 喷头
+vòi hoa sen 莲蓬头
+chậu rửa mặt 脸盆
+khăn tắm 浴巾
+áo tắm 浴衣
+giá treo khăn mặt 毛巾架
+bàn trang điểm 梳妆台
+tủ trang điểm 梳妆台
+gương 镜子
+mắc áo 衣钩
+giá áo 衣架
+tủ đứng 壁柜
+tủ bát đĩa 餐具柜
+phòng rửa mặt 盥洗室
+khăn tay 手纸
+khăn tay phòng rèn luyện thân thể 健身房
+phòng chơi bida 弹子房
+rèm cửa sổ 窗帘
+cửa sổ tấm chớp 百叶窗
+tủ áo 依柜
+giá sách 书架
+tủ đầu giường 床头柜
+bức bình phong 屏风
+ghế tay ngai 扶手椅
+ghế bành 扶手椅
+ghế xích đu 摇椅
+sofa 沙发
+salông 沙发
+ghế đệm dài 长沙发
+ghế salông nệm 长沙发
+giá treo mũ 帽架
+giá treo áo 衣架
+bàn trà 茶几
+ống nhổ 痰盂
+đệm giường 床垫
+gối đệm 床垫
+khăn trải giường 床罩
+thảm 毯子
+gối 枕头
+áo gối 枕套
+vỏ chăn 被单
+chăn bông 棉被
+thảm nhỏ 小地毯
+thảm chùi chân 小地毯
+thảm trải nền 地毯
+phích nước nóng 热水瓶
+đồng hồ điện 电钟
+quạt điện 电扇
+quạt trần 吊扇
+quạt bàn 台扇
+quạt thông gió 通风机
+thiết bị sưởi 暖气设备
+máy điều hòa không khí 空调
+đèn tường 壁灯
+đèn bàn 台灯
+đèn sàn 落地灯
+chao đèn 灯罩
+bóng đèn tròn 灯泡
+nhiệt kế 气温表
+lọ hoa 花瓶
+đế lọ hoa 花瓶架
+giá lọ hoa 花瓶架
+cắm hoa 插花
+chìa khóa 钥匙
+cái gạt tàn thuốc lá 烟灰缸
+ngân hàng quốc gia 国家银行
+ngân hàng thương mại 商业银行
+ngân hàng trung ương 中央银行
+ngân hàng đầu tư 投资银行
+ngân hàng thương mại 贸易银行
+ngân hàng thác quản 信托银行
+ngân hàng dự trữ 储备银行
+ngân hàng tiết kiệm 储蓄银行
+ngân hàng đại lý 代理银行
+chi nhánh ngân hàng  分行
+ngân hàng tiết kiệm 储蓄所
+quỹ tín dụng 信用社
+hợp tác xã tín dụng 信用社
+quỹ tín dụng nông nghiệp 农业信用社
+hợp tác xã tín dụng nông nghiệp 农业信用社
+quỹ tín dụng thành phố 城市信用社
+máy rút tiền tự động 自动提款机
+chủ ngân hàng 银行家
+chủ tịch ngân hàng 银行总裁
+giám đốc ngân hàng 银行经理
+trợ lý giám đốc ngân hàng 银行襄理
+nhân viên cao cấp ngân hàng  银行高级职员
+nhân viên ngân hàng  银行职员
+nhân viên điều tra tín dụng 信用调查员
+trưởng thủ quỹ ngân hàng 出纳主任
+thủ quỹ 出纳员
+nhân viên thu ngân 出纳员
+người thu tiền 收帐员
+người xét duyệt 审核员
+người được trả tiền 收款人
+người chi tiền 支付人
+người trả tiền 支付人
+khách hàng 顾客
+nhân viên bảo vệ 警卫人员
+thời gian làm việc của ngân hàng 银行营业时间
+quầy gửi tiền 存款柜台
+rào chắn 柜自格栅
+phòng chờ 等候厅
+kho bạc 金库
+két sắt 安全信托柜
+máy báo động 报警器
+séc 支票
+chi phiếu 支票
+séc còn hạn 有效支票
+séc để trống 空白支票
+séc khống chi 空白支票
+séc thiếu tiền bảo chứng 空头支票
+séc bị trả lại 空头支票
+séc tiền mặt 现金支票
+séc du lịch 旅行支票
+séc lữ hành 旅行支票
+séc cá nhân 个人用支票
+séc bị từ chối 拒付支票
+séc đã được trả tiền 付讫支票
+bản phiếu 本票
+séc thanh toán 本票
+sổ séc 支票簿
+sổ chi phiếu 支票簿
+card séc 支票保付限额卡
+card bảo đảm mức chi của séc 支票保付限额卡
+tiền dự trữ 储备货币
+tiền dự trữ của ngân hàng 银行储备金
+phiếu chuyển tiền ngân hàng  银行承兑汇票
+phong tỏa tiền gửi ở ngân hàng  银行存款冻结
+thẻ ngân hàng  银行信用卡
+đồng tiền cơ bản 基本货币
+đồng tiền thông dụng 通用货币
+tiền phụ trợ 辅助货币
+đồng tiền quốc tế 国际货币
+tiền giấy 纸币钞票
+tiền giấy ngân hàng 纸币钞票
+tiền kim loại 金属货币
+ngoại tệ 外币
+tiền kim loại 硬币
+tiền giả 假钞
+tiền cũ 旧币
+ngân phiếu định mức 银行票据
+tiền mặt 现金
+đồng tiền mạnh 硬通货
+lãi suất ngân hàng  银行利率
+lãi suất tiền mặt 现金利率
+tỉ giá ngoại tệ 外汇汇率
+tỉ giá 汇率
+lãi suất năm 年息
+lãi suất tháng 月息
+lãi suất cố định 定息
+lãi suất không cố định 不固定利息
+lãi suất thấp 低息
+lãi ròng 纯利息
+trương mục ngân hàng 银行存款
+khoản tiền gửi ở ngân hàng 银行存款
+khoản tiền gửi tiết kiệm 储蓄存款
+sổ tiết kiệm 储蓄存折
+sổ dư 储蓄额
+sổ tiết kiệm đóng dấu đặc biệt 贴花储蓄簿
+tiền gửi định kỳ 定期存款
+tiền gửi hoạt kỳ 活期存款
+tài khoản tiết kiệm không kỳ hạn dưới hình thức séc 支票活期存款帐户
+tài khoản hoạt kỳ 活期存款帐户
+tài khoản vãng lai 往来帐户
+người gửi tiết kiệm 存款人
+chủ sổ tiết kiệm chung 共同户头
+tài khoản bị phong tỏa 冻结帐户
+người vay 借款人
+gửi vào 存款
+rút ra 取款
+mở tài khoản 开户头
+trả cả vốn lẫn lãi 还本付息
+đổi ngang 平价兑换货币
+sổ tiết kiệm ngân hàng 银行存折
+giấy gửi tiển 存款单
+phiếu gửi tiền 存款单
+biên lai tiền gửi 存款单
+giấy lĩnh tiền 取款单
+ngày đáo hạn thanh toán 存款到期
+ngày hết hạn thanh toán 存款到期
+thông báo mất sổ tiết kiệm 存折挂失
+chen nhau đổi tiền mặt 挤兑
+tiền khấu đổi 银行贴现
+báo cáo ngân hàng 银行结单
+tiền vay ngân hàng 银行信贷
+tín dụng ngân hàng 银行信贷
+tiền vay bằng ngân phiếu 支票贷款
+khoản tiền vay không lãi 无息贷款
+khoản vay không được bảo đảm 无担保贷款
+khoản vay tiền dài hạn 长期贷款
+tiền vay ngắn hạn 短期贷款
+tín dụng tiền vay 信用信贷
+chuyển khoản 银行转帐
+thẻ tín dụng 信用卡
+người buôn bán văn phòng phẩm 文具商
+văn phòng phẩm 文具
+bút chì 铅笔
+bút máy 钢笔
+bút lông 毛笔
+bút vẽ 画笔
+bút nến màu 蜡笔
+bút sáp 蜡笔
+bút màu 彩色笔
+bút bi 圆珠笔
+bút chì bấm 活动铅笔
+bút để ký 签名笔
+bút chấm mực 蘸水笔
+bút dạ quang 荧光笔
+bút lông ngỗng 鹅管笔
+bút kiểu ngòi pháo 芯式笔
+phấn viết 粉笔
+chổi quét sơn 排笔
+quét vôi 排笔
+bút than 炭笔
+mực 墨水
+mực các bon 炭素墨水
+mực tàu 墨汁
+hộp mực 墨盒
+nghiên 砚台
+giá bút 笔架
+ống bút 笔筒
+bốn vật quí trong thư phòng 文房四宝
+giấy 纸
+giấy vẽ 画纸
+giấy màu 彩纸
+giấy có nếp nhăn 绉纹纸
+giấy bản 毛边纸
+giấy nến 蜡光纸
+giấy tuyên thành 宣纸
+giấy viết thư 信纸
+phong bì 信封
+giấy đánh máy 打字纸
+giấy than 复写纸
+giấy in 复印纸
+cái chặn giấy 镇纸
+sách chữ mẫu để tập viết 习字帖
+sách bài tập 练习本
+sách làm văn 作文本
+vở ghi 笔记本
+sổ ghi 笔记本
+sổ nhật ký 日记本
+sổ giấy rời 活页本
+kẹp giấy rời 活页夹
+tập giấy rời 活页簿纸
+bút xóa 改正笔
+mực xóa 改正液
+thước kẻ thẳng 直尺
+ê ke 三角尺
+thước đo độ 量角器
+cục tẩy 像皮
+gôm 像皮
+lưỡi lam 刀片
+đồ chuốt chì 卷笔刀
+dao rọc giấy 裁纸刀
+hồ keo 浆糊
+compa 圆规
+bàn tính 算盘
+máy tính 计算器
+máy tính điện tử 电子计算器
+hộp đồ dùng học tập 文具盒
+cặp sách 书包
+ghim  回形针
+cái kẹp giấy 回形针
+đinh ghim 大头针
+đinh mũ 图钉
+giấy dán 黏贴纸
+keo trong suốt 透明胶
+keo dán hai mặt 双面胶
+cái cặp kẹp tài liệu 文件夹
+túi đựng tài liệu 文件袋
+bản thép để khắc chữ 刻字钢板
+bút sắt 铁笔
+giấy nến 蜡纸
+ruy băng 色带
+mực in 油墨
+ghim đóng sách 订书钉
+máy đóng sách 订书机
+máy đục lỗ 打孔机
+máy đánh chữ 打字机
+máy in ronéo 油印机
+máy photocopy 复印机
+máy vi tính 计算机
+bàn tính dùng để dạy học 教学算盘
+tiêu bản côn trùng 昆虫标本
+bản đồ treo tường 教学挂图
+bản đồ 地图
+tấm bản đồ 地图板
+bản đồ ba chiều 立体地图
+quả địa cầu 地球仪
+sổ ghi thông tin 通讯录
+album tem 集邮本
+album ảnh 相册
+sổ ký tên 签名册
+dụng cụ hội họa 绘画仪器
+chất liệu màu 颜料
+chất liệu màu nước 水彩颜料
+vải để vẽ 油画布
+bảng pha màu 调色板
+dao trộn thuốc màu 调色刀
+bàn trộn thuốc màu 调色碟
+bảng vẽ 画板
+giá vẽ 画架
+tượng thạch cao 石膏像
+người mẫu 模特儿
+dao điêu khắc 雕刻刀
+hộp mực dấu 印台
+mực dấu 印泥
+hộp đựng con dấu 印盒
+mực in 印油
+mực màu 彩色油墨
+mực tàu màu đỏ 珠墨
+bát rửa bút 洗笔盂
+dao khắc chữ triện 篆刻刀
+cái kéo 剪刀
+khung gương 镜框
+ga tàu 火车站
+phòng chờ tàu 候车室
+đường để lên xuống tàu 上下车道
+thềm ga 站台
+sân ga 站台
+thềm 下客站台
+bục xuống tàu 下客站台
+sân ga 发车站台
+thang truyền tự động 自动人行道
+cầu thang có tay vịn tự động 自动扶梯
+hành lý 行李
+hành lý xách tay 手提轻便行李
+hành lý mang theo người 随身行李
+hành lý quá trọng lượng quy định 超重行李
+hành lý gửi theo xe 托运的行李
+ê-ti-két hành lý 行李标签
+nơi gửi hành lý 行李寄存处
+phòng hành lý 行李房
+giấy gửi hành lý 行李寄存正
+hóa đơn hành lý 行李票
+xe vận chuyển hành lý 行李运送车
+nơi hỏi thông tin 问询处
+bảng thời gian tàu chạy 行车时刻表
+bảng thời gian 时刻表
+bảng thông báo của nhà ga 车站布告栏
+nơi trả đồ thất lạc 失物招领处
+phòng trà trong nhà ga 车站茶点室
+quầy bar trong nhà ga 车站酒吧
+biển báo trong nhà ga 车站指示牌
+căng tin 小卖部
+người bán hàng rong trong nhà ga 车站小贩
+quầy bán vé 售票处
+máy bán vé tự động 自动售票机
+người bán vé 售票员
+vé tàu 车票
+vé hành khách thường 普通客票
+vé một lượt 单程票
+vé khứ hồi 往返票
+vé tàu nhanh 快车票
+vé giường nằm 卧铺票
+vé tàu định kỳ 定期车票
+vé vào ga 站台票
+sổ vé tàu 火车票簿
+thẻ số tàu điện ngầm 地铁筹码
+kiểm vé 检票
+soát vé 检票
+cửa soát vé 检票口
+nhân viên soát vé 检票员
+kiểm tra vé 查票
+nhân viên kiểm tra vé 查票员
+trưởng ga 站长
+công nhân viên chức đường sắt 铁路职工
+nhân viên điều độ xe hỏa 列车调度员
+nhân viên sân bãi 车场工作人员
+chủ nhiệm chạy tàu 行车主任
+công nhân kiểm tra sửa chữa tàu 车辆检修工
+công nhân bảo vệ đường sắt 铁路护路工
+công nhân bẻ ghi 扳道工
+nhân viên báo tín hiệu 信号工
+nhân viên quản lý kho hành lý 行李寄存处管理员
+nhân viên bốc vác 搬运工
+công nhân bốc vác ở nhà ga 红帽子
+người lái tàu 火车司机
+trưởng tàu 列车长
+nhân viên trên tàu 列车员
+nhân viên phục vụ trên tàu 乘务员
+cảnh sát trên tàu 乘警
+rú còi 鸣笛
+kéo còi 鸣笛
+vào ga 进站
+khởi hành 发车
+chạy vào ga 开进车站
+chạy ra khỏi ga 开出车站
+thời gian đến 到达时间
+thời gian tàu chuyển bánh 开车时间
+đúng giờ 准点
+muộn giờ 晚点
+ga đến 到达站
+ga cuối cùng 终点站
+đặt vé ghế cứng 订硬席票
+đặt vé nằm 订卧铺票
+kịp chuyến tàu 赶上火车
+nhỡ tàu 误车
+xin mời đi tàu 欢迎乘坐
+say xe 晕火车
+trốn vé đi tàu 乘火车逃票
+người đi tàu trốn vé 乘火车逃票者
+tàu chệch bánh 火车出轨
+đường sắt bị gián đoạn 铁路交通的中断
+đường sắt 铁路
+đường tàu chạy 铁路车道
+đường ray 铁轨
+gối đường ray 轨座
+thanh ray 轨头
+khoảng cách đường ray 轨距
+đường ray khổ rộng 宽轨
+đường ray khổ hẹp 窄轨
+khoảng cách đường ray chuẩn 标准轨距
+tà vẹt gỗ 枕木
+đèn tín hiệu 信号灯
+đèn xanh 绿灯
+khung đèn tín hiệu 信号灯灯框
+máy báo chỗ rẽ 道口信号机
+nền đường 路基
+máy quang trắc tự động phát hiện sự cố nền đường 路基故障自动侦测器
+đường sắt trên cao 高架铁路
+cầu đường sắt 铁路桥
+chỗ giao nhau trên đường sắt 铁路交叉点
+chỗ rẽ 道口
+ghi tàu 道岔
+cần bẻ ghi 道岔连接杆
+đèn hiệu chỗ có ghi tàu 道岔标志灯
+đinh tà vẹt 铁路道钉
+bãi ghi tàu 编组场
+ga đầu mối 枢纽站
+tuyến đường sắt chính 铁路干线
+bãi điều độ 调车场
+sân điều độ 调车场
+trưởng bãi điều độ 调车场场长
+bãi tàu xuất phát 发车场
+tàu hỏa 火车
+tàu liên vận quốc tế 国际列车
+tàu bưu chính 邮政专列
+tàu hàng nhỏ chở bưu kiện 邮件小货车
+tàu quân sự 军列
+xe chở hàng 货车
+tàu chở hàng 货物列车
+toa chở hàng không có mui 敞棚货车
+toa chở hàng 货车车厢
+tàu chở dầu 油槽车
+xe chở hàng theo kiểu dốc ngược thùng xe 底卸式车
+xe chở conterner 集装箱车
+đoàn tàu conterner 集装箱列车
+xe chở hàng có mui 棚车
+toa đông lạnh 冷藏车
+buồng lái tàu 列车司机室
+máy kéo 牵引车
+toa xe chở nhân viên phục vụ trên tàu 乘务员车
+đầu máy không toa 单机
+đầu máy xe lửa trong khu vực ga 调车机车
+đầu máy diesel 内燃机车
+đầu máy đốt trong 内燃机车
+đầu máy hơi nước 蒸汽机车
+đầu máy diesel 柴油汽车
+đầu máy chạy điện 电气机车
+ván nạo tuyết 扫雪板
+móc toa tàu 车钩
+xi lanh 气缸
+bánh đà 主动轮
+ống khói 烟囱
+đèn trước 前灯
+toa than toa nước 煤水车
+nhóm đoàn tàu 列车组
+tàu khách 客车
+tàu chậm 慢车
+tàu nhanh 快车
+tàu tốc hành 特快列车
+tàu suốt 直达列车
+tàu hỏa chạy quanh thành phố 市郊往返列车
+tàu hỏa cao tốc 高速列车
+tàu hỏa chuyên biệt 专列
+tàu điện ngầm 地铁
+toa xe 车厢
+toa xe cấm hút thuốc 无烟车厢
+toa thường 普通车厢
+hành lang 过道
+giá để hành lý 行李架
+ghế cứng 硬席
+chỗ ngồi sát lối đi 靠通道的座位
+chỗ ngồi cạnh cửa sổ 靠窗座位
+xe có chỗ nằm 卧车
+giường nằm 铺位
+giường trên 上铺
+giường dưới 下铺
+giường nằm 卧铺
+ghế cứng 硬席卧铺
+giường cứng 硬席卧铺
+giường mềm 软卧
+giường hạng nhất 头等卧铺
+phòng đơn có giường nằm 卧铺单间
+xe có chỗ nằm tạm 简易卧车
+toa ăn 餐车
+toa ăn nhẹ 便餐餐车
+toa ăn nhanh 快餐餐车
+phòng vui chơi giải trí 娱乐室
+toa hành lý 行李车
+nơi vui chơi giải trí 娱乐场
+phòng giải trí 娱乐厅
+câu lạc bộ vui chơi giải trí 游乐宫
+nơi giải trí 游乐场
+vũ trường 舞厅
+vũ hội 舞会
+khiêu vũ 跳舞
+người khiêu vũ 跳舞者
+vũ nữ 舞女
+sàn nhảy 舞池
+nhạc nhảy 舞曲
+bước nhảy 舞步
+liên hoan được tổ chức trong công viên 游园会
+rạp xiếc thú ngoài trời 露天马戏场
+nơi vui chơi giải trí ngoài trời 露天游乐场
+bơi thuyền 划船
+du thuyền 游艇
+du thuyền 游船
+đi săn 打猎
+săn bắn 打猎
+bắn bia 打靶
+trường bắn 打靶场
+thả diều 放风筝
+cà kheo 高跷
+đi cà kheo 踩高跷
+chiếc cà kheo 跷跷板
+chơi cà kheo 玩跷跷板
+nhảy dây 跳绳
+quay ngựa gỗ 旋转木马
+ghế quay 旋转飞椅
+ghế quay feris 费里斯转椅
+xe trượt vòng tròn 环滑列车
+đường sắt mini 观景小铁路
+đường sắt ngắm cảnh 观景小铁路
+cái đu quay 秋千
+đu quay hình thuyền 船形秋千
+chơi đu quay 荡秋千
+thùng chiếu phim 西洋景箱
+hòm chiếu phim 西洋景箱
+máy đo lực đẩy 测力机
+máy đánh bạc 吃角子老虎
+ôtô đụng 碰碰车
+xe đụng 碰碰车
+phòng soi gương dị dạng 哈哈镜室
+gương lõm 凹镜
+gương lồi 凸镜
+biểu diễn ôtô húc tường 飞车走壁表演
+trò chơi ném vòng 掷环套桩游戏
+bãi biểu diễn cưỡi ngựa 马术表演场
+triển lãm động vật dị dạng 畸形动物展览
+trò chơi bánh xe gió 玩具风车
+phòng billiard 台球房
+trò chơi billiard 台球戏
+trò chơi pun 彩色台球戏
+viên billiard 台球
+bàn billiard 台球台
+dạ xanh trải trên bàn billiard 台球盘面绿呢
+vải lót đàn hồi ở mặt trên bàn billiard 台球台四周的弹性衬里
+người chơi billiard 打台球者
+người ghi điểm trong cuộc chơi billiard 台球记分员
+máy ghi điểm chơi billiard 台球记分器
+đồng hồ chơi billiard 台球计时钟
+máy ghi giờ chơi billiard 台球计时器
+gậy chơi billiard 台球的击球
+chọc ngang 平击球
+chọc thẳng 顶击球
+chọc nghiêng 侧击球
+chọc xoáy 旋转球
+chọc xoáy ngang 横向旋转球
+bắn trúng nhiều hòn billiard cùng một lúc 双球连击
+cú chọc đưa billiard vào lỗ 撞球进袋的一击
+gậy chơi billiard 台球的球杆
+giá để gậy chơi billiard 球杆架
+người sử dụng gậy chơi billiard 用球杆者
+viên billiard chính 主球
+billiard màu đỏ 红球
+billiard trắng đốm đen 黑点白球
+trò chơi bowling 保龄球戏
+người chơi bowling 玩保龄球戏的人
+sân chơi bowling 保龄球场
+đường lăn của quả bowling 保龄球戏球道
+trụ cầu trong trò chơi bowling 保龄球中的球柱
+trò chơi ky 9 con 九柱戏
+trò chơi ky 10 con 十柱戏
+trò chơi bóng gỗ 草地滚木球戏
+bãi đánh bóng gỗ 草地滚木球场
+bóng gỗ dùng trong trò chơi bowling 草地滚木球戏中用的木球
+phòng chơi bài 玩牌室
+con bài 纸牌
+một bộ bài 一副纸牌
+trò chơi đánh bài 纸牌戏
+chơi bài 玩牌
+bài hoa cao cấp 高级花色
+bài hoa cấp thấp 低级花色
+con pích 黑桃
+con cơ 红桃
+con hoa rô 方块
+quân nhép 草花
+con chuồn 草花
+xếp bài cùng hoa 同花
+cùng hoa suốt 同花顺子
+cùng hoa thuận 同花大顺
+con bài to 大牌
+con bài nhỏ 小牌
+trên tay toàn con bài kém 一手小牌
+át chủ bài 王牌
+chủ bài nhỏ nhất 最小的王牌
+người chơi bài được điểm kém nhất 最低得分的牌手
+người thắng cuộc 赢家
+xáo bài 洗牌
+đảo cỗ bài 切牌
+chia bài 发牌
+hộp chia bài 发牌盒
+phía bên trái của người chia bài 发牌者的左手方
+4 người chia 2 phe chơi bài tú lơ khơ 桥牌
+chơi bài tú lơ khơ 打桥牌
+gọi lấy bài trong trò chơi tú lơ khơ 桥牌戏中的叫牌
+mánh khóe trong trò chơi tú lơ khơ 桥牌中的飞牌
+tranh nhau gọi 争叫
+gọi nhảy cóc 跳叫
+đi đầu 率先出牌
+bãi cắm trại 露营园
+bãi cắm trại quốc gia 国家露营园
+bãi cắm trại công cộng 公共露营园
+bãi cắm trại thu tiền 营利性露营园
+cắm trại 露营
+cắm trại viên 露营者
+trại 营地
+bữa cơm ở trại 野餐
+lửa trại 篝火
+bao ngủ 睡袋
+ba lô 背包
+lều bạt 帐篷
+vải chống ẩm trải trên nền đất 铺地防潮布
+sân đấu bò 斗牛场
+đấu bò 斗牛
+võ sĩ đấu bò 斗牛士
+dũng sĩ cưỡi ngựa đấu bò 骑马斗牛士
+dũng sĩ đi bộ đấu bò 徒步斗牛土
+nơi nghỉ mát ở bờ biển 海滨度假胜地
+khách sạn trên bãi biển 海滨旅馆
+trang phục tắm biển 海滨服装
+túi đi biển 海滨袋
+bãi tắm biển 海滨浴场
+ô che nắng 大遮阳伞
+phòng đánh cờ 棋室
+người chơi cờ 下棋者
+cờ vua 国际象棋
+quân cờ vua 国际象棋棋子
+quân trắng 白子
+quân đen 黑子
+bàn cờ 国际象棋棋盘
+ô cờ quân trắng 棋盘上的白方格
+ô cờ quân đen 棋盘上的黑方格
+chơi một ván cờ 下一盘棋
+đang chơi cờ 在下棋
+cờ tướng trung quốc 中国象棋
+cờ nhảy 跳棋
+cờ quốc tế 国际跳棋
+quân cờ quốc tế 国际跳棋棋子
+bàn cờ quốc tế 国际跳棋棋盘
+cờ nhảy tây dương 西洋跳棋
+quân cờ nhảy tây dương 西洋跳棋棋子
+bàn cờ nhảy tây dương 西洋跳棋棋盘
+cờ nhảy trung quốc 中国跳棋
+cờ năm quân 五子棋
+cờ tào cáo 十五子棋
+bàn cờ cờ tào cáo 十五子棋棋盘
+trò chơi đôminô 多米诺骨牌戏
+trò chơi súc sắc 掷骰游戏
+chơi trò chơi súc sắc 玩掷骰游戏
+một bộ súc sắc 一副骰子
+các điểm chấm trên con súc sắc 骰子上的点
+thả súc sắc 掷骰子
+mạt chược 麻将
+chơi mạt chược 打麻将
+người chơi mạt chược 打麻将者
+một quân bài trong mạt chược 麻将中的一张牌
+một vòng trong trò chơi mạt chược 打麻将中的一圈
+bàn mạt chược 麻将桌
+xôi 糯米饭
+bánh mỳ  面包
+bánh bao 包子
+bánh mỳ trứng 越南面包和鸡蛋
+bánh mỳ kẹp thịt 越南面包和肉
+bánh trôi 汤圆
+bánh chay 汤圆
+bánh cuốn 卷筒粉
+bánh rán 炸糕
+bánh chuối 香蕉饼
+trứng vịt lộn 毛蛋
+bún riêu cua 蟹汤米线
+bún ốc 螺蛳粉
+bún cá 鱼米线
+bún chả 烤肉米线
+cơm rang 炒饭
+cơm chiên 炒饭
+sữa chua 酸奶
+sữa tươi 鲜奶
+mì ăn liền 方便面
+hamburger 汉堡包
+sandwich 三明治
+thư viện thành phố 城市图书馆
+thư viện làng 农村图书馆
+thư viện tỉnh 省图书馆
+thư viện khu 区图书馆
+thư viện huyện 县图书馆
+thư viện nhà máy 厂图书馆
+thư viện nhà trường 学校图书馆
+thư viện trường đại học 大学图书馆
+thư viện khoa học xã hội 文科图书馆
+thư viện khoa học tự nhiên 理科图书馆
+thư viện công cộng 公共图书馆
+thư viện tư nhân 私人图书馆
+thư viện gia đình 家庭图书馆
+thư viện học thuật 学术图书馆
+thư viện văn bản 版本图书馆
+thư viện lưu động 流动图书馆
+thư viện cho mượn 巡回图书馆
+thư viện cho thuê sách 收费的租书图书馆
+thư viện nhi đồng 儿童图书馆
+thư viện nông nghiệp 农业图书馆
+thư viện tự chọn 开架图书馆
+văn phòng 办公室
+phòng biên tập thư mục 采编部
+phòng bổ sung 采集部
+phòng thư mục 编目部
+phòng biên mục 编目部
+phòng tạp chí 报刊部
+phòng công tác bạn đọc 流通部
+phòng mượn sách 借书部
+phòng thông tin tư liệu 情报资料部
+phòng thông tin thư viện 图书情报部
+phòng đọc tham khảo 参考阅览部
+phòng sách quý hiếm 珍本部
+phòng đóng và tu bổ sách 装订部
+trung tâm tư liệu 资料中心
+phòng mục lục 目录室
+phòng thư mục 目录室
+quầy cho mượn sách 借书服务台
+kho sách 书库
+phòng đọc sách khoa học xã hội 文科阅览室
+phòng đọc sách khoa học tự nhiên 理科阅览室
+phòng đọc sách khoa học kỹ thuật 科技阅览室
+phòng đọc dành cho giáo viên 教师阅览室
+phòng đọc báo tạp chí 报刊阅览室
+phòng đọc báo 阅报室
+phòng đọc tạp chí 期刊阅览室
+phòng đọc dành cho người khiếm thị 盲人阅览室
+đọc giả 读者
+công tác phục vụ và mượn thư tịch 图书借阅服务
+nhãn sách 标签
+phiếu tra tên sách 书名卡
+ký hiệu phân loại 类号
+hướng dẫn tra cứu thư mục 目录索引
+mục lục văn hiến 文献目录
+hướng dẫn tra cứu tên sách 书名索引
+bạn đọc 借书人
+người mượn sách 借书人
+thẻ mượn 借书证
+người có thẻ mượn 持有借书者
+phiếu yêu cầu 借书单
+phiếu mượn sách 借书单
+thời hạn đọc và mượn sách 借阅期限
+trả sách 书的归还
+đến hạn 到期的
+quá hạn 逾期的
+giấy báo quá hạn 逾期通知单
+mượn tiếp 续借
+gia hạn 续借
+tiền phạt quá hạn 过期罚款
+bồi thường 赔偿
+phạt tiền do làm hỏng sách 损坏罚款
+thư viện liên hoàn 馆际互借
+thông báo sách mới 新书预告
+triển lãm sách 书展
+câu lạc bộ đọc sách 读书俱乐部
+câu lạc bộ bạn đọc 读书俱乐部
+người lấy trộm sách 偷书人
+mục lục theo fix 卡片目录
+tủ mục lục theo fix 卡片目录柜
+phát hành thư tịch 图书馆版
+tem thư tịch 图书馆章
+ngăn nhỏ trong kho sách thư viện 图书馆书库的小单间
+thư viện học 图书馆学
+giám đốc thư viện 图书馆馆长
+chủ nhiệm thư viện 图书馆馆长
+phó giám đốc thư viện 图书馆副馆长
+thủ thư 图书馆理员
+người soạn thư mục 编目员
+người làm fix 打卡员
+người phân loại thư tịch 图书分类员
+phòng photocopy 复印室
+máy photocopy 复印机
+máy photocopy tĩnh điện 静电复印机
+máy in chụp trực tiếp 直接影印机
+thang máy chuyển sách 运书电梯
+xe chuyển sách 运书小车
+nhân viên mua sắm thư tịch 图书采购员
+tạp chí đang còn hạn 当期杂志
+báo chí quá hạn 过期报纸
+tập san hằng kỳ quá hạn 过期期刊
+bìa bọc 护封
+nắp túi bọc sách 书的护封的内折变
+trang sách 书页
+trang tên sách 书名页
+trang bản quyền 版权页
+thẻ đánh dấu trang sách 书签
+nhãn sách của người giữ sách 藏书者标签
+kệ sách 书立
+giá sách 书架
+giá sách nhiều tầng 多层书架
+giá sách hai mặt 双面书架
+tủ sách 书橱
+giá xem sách 看书架
+giá để đọc sách 阅览架
+giá sách xoay 旋转阅览架
+giá để sách quí hiếm 珍本书架
+giá để sách tham khảo 参考书书架
+giá để thư tịch 图书上架
+tủ bày thư tịch 书籍陈列柜
+đọc tự chọn 开架阅览
+thẻ vào đọc tại kho sách 入书库阅览证
+cái kẹp báo 报夹
+cái kẹp tạp chí 杂志夹
+giá báo 报架
+giá tập san 期刊架
+thẻ từ 磁卡
+máy đọc micro phim 显微阅读器
+máy đục lỗ fix 卡片穿孔机
+đóng cửa sách 装订
+cất giữ sách 藏书
+sách quý 珍本
+sách độc bản 孤本
+sách quý hiếm 秘本
+sách hướng dẫn 索引本
+sách đã sửa đổi 删改本
+bản in chụp trực tiếp 直接影印本
+sách in ôp-set 照相平版胶印本
+bản in ôp-set 照相平版胶印本
+sách hợp đính 合订本
+sách biểu 赠阅本
+sách dùng chữ giản thể 简写本
+sách viết lại 改写本
+sách chú thích 注释本
+sách in thành tập đặc biệt 单行本
+sách trích đoạn 节选本
+sách in nhỏ lại 缩印本
+sách mẫu 新书样本
+sách đóng bìa cứng nạm vàng 豪华精装本
+sách độc bản 绝版书
+sách đóng bìa mềm 平装书
+sách đóng bìa cứng 精装书
+sách bìa bọc vải 布面书
+sách đóng buộc chỉ 线装书
+bản mới 新版
+nguyên bản 原版
+xuất bản lần đầu 初版
+tái bản 再版
+bản in thử 试用版
+sách in thử 试用版
+sách đã chỉnh lý 修订版
+sách đã bổ sung 增订版
+sách bỏ túi 袖珍版
+sách phổ cập 普及版
+bản quốc tế 国际版
+bản hải ngoại 海外版
+bản in lậu 盗印版
+bìa ngoài 封面
+bìa sau 内封面
+trang bìa bốn 封底
+mục lục 目录
+sách đọc có âm thanh 有声读物
+sách đọc tham khảo 预约的书
+sách có tranh minh họa 有插图的书
+sách giới thiệu 推荐的书
+bách khoa toàn thư 百科全书
+từ điển 词典
+tranh ảnh 图片
+bản thảo 手稿
+bản đồ 地图
+tập bản đồ 地图集
+tác phẩm chuyên ngành 专著
+tập thơ 诗集
+tập ca khúc 歌曲集
+sách giáo khoa 教科书
+sổ tay 手册
+tập sách nhỏ 小册子
+sách ngữ pháp 语法书
+kịch 戏剧
+tản văn 散文
+văn xuôi 散文
+thơ ca 诗歌
+tiểu thuyết 小说
+bình luận 评论
+bình luận ngắn 短评
+bình luận sách 书评
+bình luận kịch 剧评
+bình luận tin tức 新闻评论
+phê bình văn nghệ 文艺评论
+xã luận 社论
+tùy bút 随笔
+biên niên sử 编年史
+lịch ghi chép những sự kiện lớn 大事记
+toàn tập 全集
+tuyển tập 选集
+tập hợp và biên tập 汇编
+văn tuyển 文选
+sách lịch 历书
+phim đèn chiếu 幻灯片
+băng hình 录像带
+sách tham khảo 参考书籍
+sách khoa học kỹ thuật 科技书籍
+sách phổ cập khoa học 科普书籍
+sách nông nghiệp 农业书籍
+sách tôn giáo 宗教书籍
+sách nghệ thuật 艺术书籍
+sách cấm 禁书
+báo tạp chí 报刊
+báo chí 报刊
+báo chí mang tính toàn quốc 全国性报刊
+báo chí địa phương 地方报刊
+báo chí nước ngoài 外国报刊
+báo 报纸
+nhật báo 日报
+báo chí đại chúng 通俗报刊
+báo tuần 周报
+báo chí ngoại văn 外文报纸
+báo chí nhà nước 官方报纸
+báo cơ quan chính phủ 政府机关报
+báo của cơ quan đảng và chính quyền 政党机关报
+báo quân đội 军报
+tạp chí 杂志
+tập san theo kỳ 定期刊物
+tập san không theo kỳ 不定期刊物
+tạp chí tổng hợp 综合性杂志
+tạp chí kinh tế 经济杂志
+tạp chí học thuật 学术性刊物
+tạp chí văn học 文学杂志
+học báo 学报
+tạp chí giáo dục 教育杂志
+tạp chí phổ thông 通俗杂志
+tạp chí thể dục thể thao 体育杂志
+tạp chí nhi đồng 儿童杂志
+tạp chí phụ nữ 妇女杂志
+tạp chí thời trang 时装杂志
+tạp chí hài 幽默杂志
+tạp chí quân sự 军事杂志
+tạp chí tin tức 新闻杂志
+tạp chí tiếng nước ngoài 外文杂志
+tập san của đảng 党刊
+sách tranh 画册
+họa báo 画报
+báo ảnh 画报
+tập san tranh 画刊
+truyện tranh 连环漫画册
+phụ trương báo 增刊
+báo tăng phụ trương ngày chủ nhật 星期日增刊
+niên giám 年鉴
+sổ ghi cảm tưởng 来宾留言簿
+quần áo 服装
+đồ lót 内衣
+nội y 内衣
+áo lót của nữ 女式内衣
+áo lót viền đăng ten ren của nữ 女式花边胸衣
+áo yếm 金胸女衬衣
+áo lót của nữ 金胸女衬衣
+áo lót rộng không có tay của nữ 女式无袖宽内衣
+áo may ô rộng mặc ngoài của nữ 女式宽松外穿背心
+áo may ô mắt lưới 网眼背心
+áo lót bên trong 衬里背心
+áo gi-lê 西装背心
+áo cánh 上衣
+áo jacket 茄克衫
+áo cộc tay của nam 男式便装短上衣
+áo cổ đứng 立领上衣
+áo thể thao 运动上衣
+áo hai mặt 双面式商议
+áo veston hai mặt 双面式茄克衫
+áo ngắn bó sát người 紧身短上衣
+áo cụt tay kiểu rộng 宽松短上衣
+áo thụng 宽松短上衣
+áo khoác ngoài bó hông 束腰外衣
+áo khoác ngoài kiểu thụng 宽松外衣
+áo choàng 卡曲衫
+áo kiểu thể thao 运动衫
+áo kiểu cánh dơi 蝙蝠衫
+áo kiểu cánh bướm 蝴蝶山
+áo thun t 恤衫
+áo bành-tô 大衣
+áo khoác ngắn 轻便大衣
+áo khoác dày 厚大衣
+áo khoác bằng nỉ dày 厚呢大衣
+áo khoác siêu dày 特长大衣
+áo ba đờ xuy dài bằng gấm của nữ 女式织锦长外套
+áo tơi 斗蓬
+tấm khoác vai 披肩
+áo gió 风衣
+áo khoác 罩衫
+áo choàng 罩衫
+áo dài của nữ 长衫
+áo khoác ngoài của nữ mặc sau khi tắm 晨衣
+sườn xám 旗袍
+áo khoác thụng 宽松罩衣
+áo sơ mi nữ phỏng theo kiểu của nam 仿男士女衬衫
+áo sơ mi cộc tay 短袖衬衫
+áo sơ mi dài tay 长袖衬衫
+áo sơ mi vải dệt lưới 网眼衬衫
+áo sơ mi bó 紧身衬衫
+quần áo thường ngày 家常便服
+quần áo mặc ở nhà của nữ 女式家庭便服
+thường phục của nữ 女式便服
+quần áo ngủ 睡衣裤
+pyjamas 睡衣裤
+áo ngủ 睡衣
+váy ngủ 睡衣
+quần pyjamas 睡裤
+áo ngủ dài kiểu sơ mi 衬衫式长睡衣
+áo ngủ của trẻ con 儿童水衣
+áo jacket da 皮茄克
+áo jacket dày liền mũ 带风帽的厚茄克
+bộ quần áo chẽn 紧身衣裤
+quần cộc 短裤
+quần đùi 短裤
+quần dài 长裤
+quần liền áo 连衫裤
+quần rộng 宽松裤
+quần thụng dài 宽松长裤
+quần ống loe 喇叭裤
+quần vải oxford 牛津裤
+quần ống túm 灯笼裤
+quần váy 裙裤
+quần váy liền áo 连衫裙裤
+quần thụng của nữ 宽松式女裤
+quần ống chẽn 瘦腿紧身裤
+quần ống bó 瘦腿紧身裤
+quần ống chẽn lửng của nữ 紧身半长女裤
+quần bò 牛仔裤
+quần jean 牛仔裤
+quần cưỡi ngựa 马裤
+quần lót ngắn 短衬裤
+quần xẻ đũng 开裆裤
+quần thun 弹力裤
+quần lót 三角裤
+quần liền tất 连袜裤
+quần nhung kẻ 灯心绒裤子
+quần ka ki 卡其裤
+quần nhung sợi bông 棉绒裤子
+quần vải bạt 帆布裤
+quần vải thô 帆布裤
+quần áo vải dầu 油布衣裤
+váy 裙裤
+váy liền áo 连衣裙
+váy nhiều nếp gấp 褶裥裙
+váy ngắn vừa 中长裙
+váy ngắn 超短裙
+váy siêu ngắn 超超短裙
+váy liền áo ngắn 超短连衣裤
+váy liền áo hở ngực 大袒胸式连衣裙
+váy nữ hở lưng 裸背女裙
+váy dài chấm đất 拖地长裙
+váy quây 围裙
+váy lót dài 衬裙
+váy liền áo kiểu sơ mi 衬衫式连衣裙
+váy ống thẳng 直统裙
+váy có dây đeo 背带裙
+váy dài 旗袍裙
+váy đuôi cá 鱼尾裙
+váy hula 呼拉舞裙
+váy lá sen 荷叶边裙
+váy thêu hoa 绣花裙
+váy liền áo không tay 无袖连衣裙
+váy liền áo bó người 紧身连衣裙
+bộ váy nữ 女裙服
+áo hai lớp 夹袄
+quần hai lớp 夹裤
+áo có lớp lót bằng bông 棉袄
+áo khoác có lớp lót bông tơ 丝棉袄
+áo khoác có lớp lót da 皮袄
+áo bông 棉衣
+áo khoác bông 棉大衣
+quần bông 棉裤
+áo may ô bông 棉背心
+áo trấn thủ 棉背心
+bộ quần áo liền quần 裤套装
+bộ quần áo thường ngày 便服套装
+bộ quần áo jean 牛仔套装
+áo đuôi nhạn 燕尾服
+lễ phục 礼服
+quần áo dạ hội 夜礼服
+lễ phục buổi sớm của nam 男士晨礼服
+lễ phục của nữ 女式礼服
+lễ phục thường của nữ 女士常礼服
+lễ phục đuôi tôm 无尾礼服
+lễ phục quân đội 军礼服
+quần áo cưới 婚礼服
+quần áo công sở 工作服
+bộ làm việc áo liền quần 连衫裤工作服
+đầm bầu 孕妇服
+quần áo trẻ sơ sinh 婴儿服
+đồng phục học sinh 学生服
+trang phục hải quân 海军装
+trang phục lính dù 伞宾服
+áo bơi 游泳衣
+áo bơi kiểu váy 裙式泳装
+áo tắm nữ có dây đeo 有肩带的女式泳装
+quần áo ăn 餐服
+tang phục 丧服
+áo thọ 寿衣
+âu phục 西装
+com lê 西装
+âu phục một hàng khuy 单排纽扣的西服
+âu phục hai hàng khuy 双排纽扣的西服
+âu phục thường ngày 日常西装
+y phục trung quốc 中装
+thường phục 便装
+bộ quần áo săn 猎装
+trang phục kiểu tôn trung sơn 中山装
+áo khoác ngoài 马褂
+áo mặc trong kiểu trung quốc 中式小褂
+áo kimono 和服
+trang phục truyền thống 传统服装
+trang phục dân tộc 民族服装
+quần áo vải sợi bông 毛巾布服装
+quần áo da 皮革服装
+áo có tay 有袖服装
+áo không có tay 无袖服装
+quần áo may sẵn 现成服装
+quần áo đặt may 钉制的服装
+quần áo cắt may bằng máy 机器缝制的衣服
+quần áo may bằng thủ công 手工缝制的衣服
+quần áo da lông 毛皮衣服
+áo khoác da lông 毛皮外衣
+quần áo thêu hoa 绣花衣服
+trang phục lễ hội 节日服装
+trang phục nông dân 农民服装
+quần áo biển 海滨服装
+áo hở lưng 裸背式服装
+quần áo vải mỏng 透明的衣服
+quần áo vải hoa 花衣服
+quần áo một màu 单色衣服
+quần áo trơn 单色衣服
+kiểu quần áo 服装式样
+kiểu 款式
+thời trang 时装
+quần áo mùa xuân 春装
+quần áo mùa hè 夏服
+quần áo mùa thu 秋服
+quần áo mùa đông 冬装
+quần áo trẻ con 童装
+quần áo nữ ống thẳng kiểu túi 袋式直统女装
+vải vóc 衣料
+vải sợi bông 棉布
+vai ka ki 咔叽布
+pô pơ lin 毛葛
+tơ lụa 丝绸
+lụa thê phi tơ 塔夫绸
+vải pô pơ lin 府绸
+lụa tơ tằm 茧绸
+vải nhung 绒布
+nhung 法兰绒
+vải crepe blister 泡泡纱
+vải kếp hoa 乔其纱
+da lộn 绒面革
+da thuộc 绒面革
+nhung lông vịt 鸭绒
+nhung tơ 丝绒
+nhung kẻ 灯心绒
+nhung mịn 平绒
+sợi terylen 涤纶
+terylen 绉丝
+sợi dacron 的确凉
+sợi len tổng hợp 毛的确凉
+vải bạt 帆布
+hàng len dạ 毛料呢子
+vải nỉ có hoa văn kẻ sọc 花呢
+vải gabardin 花达呢
+dạ melton 麦尔登呢
+dạ hoa văn dích dắc 人字呢
+vải xéc 哔叽
+thợ may 裁缝
+đường khâu 线缝
+viền 折边
+cuốn biên 金银花边
+viền vàng 金银花边
+túi 口袋
+vái túi 袋布
+túi phụ 插袋
+túi ngực 上衣胸带
+túi trong 暗袋
+túi có nắp 有盖口袋
+nắp túi 口袋盖
+túi quần 裤袋
+túi sau của quần 裤子后袋
+túi để đồng hồ 表袋
+túi sau của váy 裙子后袋
+lót vai 垫肩
+đệm vai 垫肩
+ống tay áo 袖子
+tay áo nắp 装袖
+bao tay áo 套袖
+cổ tay 领子
+cổ áo 领口
+khuy cổ 领扣
+cổ chữ v 字领
+cổ chữ u 字领
+cổ thìa 汤匙领
+cổ tròn nhỏ 小圆领
+cổ nhọn 尖领
+cổ tàu 旗袍领
+cổ thuyền 船领
+cổ vuông 方口领
+cổ bẻ 翻领
+cổ mềm 软领
+cổ cứng 硬领
+vạt áo 下摆
+ống quần 裤腿
+phần dưới của ống quần 裤腿下部
+chiều dài áo 腰身
+vòng eo 腰围
+vòng ngực 胸围
+vòng mông 臀围
+dây đeo tạp dề 围裙带
+mũ liền áo 风帽
+khuy áo 纽扣
+khuyết áo 扭襻
+phec mơ tuya 拉链
+phec mơ tuya quần 裤子拉链
+măng sét 袖口
+ống tay 袖孔
+tay áo 衬袖
+vải ngoài 衬布
+vải lót 衬里
+miếng vải lót ống ta 袖衬
+miếng vải lót cổ áo 领衬
+lót ngực của áo sơ mi 衬衫的硬前胸
+đường chân kim 针脚
+chiều dài tay áo 袖长
+chiều dài váy 裙长
+chiều rộng của vai 肩宽
+nhà máy điện 发电站
+nhà máy nhiệt điện 火力发电厂
+nhà máy thủy điện 水力发电厂
+nhà máy nhiệt điện 热电厂
+nhà máy điện hạt nhân 核电站
+nhà máy điện dùng năng lượng mặt trời 太阳能发电站
+điện hạt nhân 核电力
+năng lượng hạt nhân 核动力
+năng lượng hạt nhân 核能
+năng lượng nguyên tử 原子能
+nhiên liệu hạt nhân 核燃料
+lò phản ứng hạt nhân 核反应堆
+tính phóng xạ hạt nhân 核放射性
+lò phản ứng động lực 动力反应堆
+tính năng gia tốc 加速性能
+công nhân nhà máy điện 发电厂工人
+nhà máy phát điện chính 主发电机室
+máy phát điện 发电机
+máy phát điện một chiều 直流发电机
+máy phát điện xoay chiều 交流发电机
+máy phát điện motor 电动发电机
+máy phát điện đồng bộ 同步发电机
+máy phát điện không đồng bộ 异步发电机
+máy phát điện gia đình 自用发电机
+máy phát điện xoay chiều một pha 单相交流发电机
+máy phát điện xoay chiều ba pha 三相交流发电机
+tuabin phát điện 涡轮发电机
+than thô 原煤
+máy chuyển than 输煤机
+máy nghiền than 碎煤机
+kho than 煤仓
+lò đun 锅炉
+phòng đặt đun 锅炉房
+phụ kiện lò hơi 锅炉附件
+đế lò đun 锅炉底座
+ghi lò 炉条
+xà ngang ghi lò 炉条横梁
+vỉ lò 炉排
+khung giá vỉ lò 炉排框架
+vòi phun nhiên liệu 燃料喷嘴
+đổ nguyên liệu vào 填料
+chịu lửa 耐火的
+bịt kín 密封性
+lò hơi kiểu ống nước 水管锅炉
+lò hơi hơi nước 蒸气锅炉
+lò đốt dầu 燃油锅炉
+lò để sưởi 供暖锅炉
+lò đun cao áp 高压锅炉
+lò nước nóng 热水锅炉
+lò đun công nghiệp 工业锅炉
+lò cỡ lớn 大型锅炉
+lò loại nhỏ 小型锅炉
+lò động lực 动力锅炉
+lò hình tháp 塔式锅炉
+lò kiểu đứng 立式锅炉
+bụng lò 锅炉炉膛
+cặn nước trong lò 锅炉水垢
+tấm thép trong lò 锅炉钢板
+ống khói 烟囱
+ống dẫn khói 烟道
+hệ thống ống dẫn khói 烟道系统
+điểm hỏa trước 点火提前
+nạp khí hữu hiệu 有效进气
+nạp khí trước thời hạn 提前进气
+thải khí 排气
+thải khí trước thời hạn 提前排气
+khí thải 废气
+máy thông gió 鼓风机
+cửa thông gió 通风口
+bảng tốc độ thông hơi 气流速度表
+ảnh hưởng của khí động lực 气动力影响
+hiệu ứng thông gió 鼓风效应
+tự hút gió 自引封
+tác dụng của sức gió 风力作用
+phun không khí 空气喷射
+không khí nén 压缩空气
+không khí trợ đốt 助燃空气
+nguồn điện 电源
+dòng điện 电流
+điện trở 电阻
+điện áp 电压
+ampere 安培
+ampere kế 安培计
+volt 伏特
+volt kế 伏特表
+watt 瓦特
+watt kế 瓦特计
+watt giờ 瓦时
+kilowatt 千瓦
+kwh 千瓦时
+điện xoay chiều 交流电
+điện một chiều 直流电
+khởi động dòng điện 起动电流
+dòng điện cảm ứng 感应电流
+mắc nối tiếp 串联
+mắc song song 并联
+một pha 单相的
+dòng điện một pha 单相电流
+mạch điện một pha 单相电路
+hai pha 二相的双相的
+dòng điện hai pha 双相电流
+mạch điện hai pha 双相电路
+động cơ điện hai pha 双相电动机
+ba pha 三相的
+dòng điện ba pha 三相电流
+mạch điện ba pha 三相电路
+cáp điện 电缆
+lõi cáp điện 电缆芯
+cáp điện một lõi 单芯电缆
+rãnh cáp điện 电缆沟
+tháp cáp điện 电缆塔
+cuộn dây 线圈
+cuộn dây sơ cấp 初级线圈
+cuộn dây thứ cấp 次级线圈
+cuộn dây nam châm điện 电磁线圈
+đường ống 管道
+hệ thống đường ống 管道系统
+phụ kiện của đường ống 管道附件
+ống nước 水管
+ống nước tuần hòan 循环水管
+ngăn đốt nhiên liệu 燃烧室炉膛
+bụng lò 燃烧室炉膛
+thiết bị khoan lò 炉膛设备
+khoan lò đốt than 燃煤炉膛
+nước sôi 炉水
+diện tích hữu hiệu của ghi lò 炉排有效面积
+diện tích đốt cháy 燃烧表面积
+diện tích ngọn lửa 火焰面积
+lò đốt 燃烧炉
+lò phản xạ 反射炉
+lò mang tính acid 酸性炉
+lò kiềm tính 碱性炉
+máy hâm nóng sơ bộ 预热器
+máy hâm nóng không khí 空气预热器
+máy hâm nóng sơ bộ áp thấp 低压预热器
+máy hâm nóng cao áp 高压预热器
+lò hâm nước nóng 水预热器
+bộ phận làm nóng 过热器
+làm nóng già hơi nước 蒸汽过热
+thiết bị đông lạnh 冷凝器
+làm lạnh 冷却
+làm lạnh thêm 再次冷却
+thiết bị làm nguội 冷却设备
+tháp làm nguội 冷却塔
+máy làm nguội 冷却器
+máy làm lạnh không khí 空气冷却器
+máy làm lạnh nước 水冷却器
+máy làm lạnh hydro 氢冷却器
+nước làm lạnh 冷却水
+diện tích làm lạnh 冷却面积
+máy làm lạnh dầu 冷油器
+két nước 水箱
+thùng nước 水箱
+két cung cấp nước 给水箱
+két tích trữ nước 贮水箱
+hệ thống cấp nước 供水系统
+vật cách điện 绝缘体
+đường ống ngắt điện 绝缘套管
+thiết bị ngắt điện 断路器
+máy ghép nối 按合器
+máy điều tiết 调节器
+thiết bị điều chỉnh công suất 功率调节器
+máy điều chỉnh điện áp 电压调节器
+thiết bị điều chỉnh lưu lượng 流量调节器
+thiết bị điều chỉnh nhiên liệu 燃料调节器
+thiết bị điều chỉnh mức nước 水位调节器
+thiết bị điều chỉnh nhiệt độ 温度调节器
+thiết bị điều chỉnh tự động 自动调节器
+thiết bị điều chỉnh tốc độ 调速器
+máy ổn áp 稳压器
+van 阀
+van điều chỉnh 调节阀
+dây dẫn cao áp 高压导线
+cần cẩu hình khung cửa 龙门起重机
+dàn cần cẩu 起重龙门架
+máy bơm 泉
+máy bơm tua bin 涡轮泵
+máy bơm cấp nước cho lò hơi 锅炉给水泵
+máy bơm áp thấp 低压泵
+máy bơm trung áp 中压泵
+máy bơm cao áp 高压泵
+máy bơm dầu 油泵
+máy bơm không khí 空气泵
+máy bơm tuần hoàn 循环泵
+máy bơm phụ trợ 辅助泵
+máy bơm dự phòng 备用泵
+máy thử oxy 脱氧器
+máy thông gió 鼓风机
+máy hút gió 吸风机
+tua bin 涡轮机
+động cơ chạy bằng hơi nước 汽轮机
+xilanh 汽缸
+xilanh chính 主汽缸
+xilanh động lực 动力缸
+xilanh áp thấp 低压缸
+xilanh trung áp 中压缸
+xilanh cao áp 高压缸
+thiết bị tăng áp của tua bin 涡轮增压气
+máy biến áp 变压器
+thiết bị biến áp điện lực 电力变压器
+thiết bị biến áp của máy phát điện 发电机变压器
+thiết bị biến áp hạ áp 降压变压器
+thiết bị biến áp tăng áp 升压变压器
+chỗ nối máy biến áp 变压器连接
+cách mắc kiểu tam giác 三角形接法
+cách mắc theo hình sao 星形接法
+máy hổ trợ cảm điện lưu 电流互感器
+bộ phận tiếp xúc 接触器
+điện trở 电阻器
+đường dây trục 母线
+phòng điều khiển 控制室
+bàn điều khiển 控制台
+bánh lái điều khiển 控制盘
+bánh lái điều khiển chính 主控制盘
+nút điều khiển 控制按纽
+tín hiệu 信号盘
+bánh lái 操作盘
+bánh quay khí cụ 仪表盘
+bảng biểu đồ 图表板
+mạch điện 电路
+sơ đồ mạch điện 电路图
+ký hiệu 标记
+ký hiệu báo nguy hiểm 危险标记
+tín hiệu 信号
+tín hiệu khống chế 控制信号
+tín hiệu bằng tia chớp 闪光信号
+đèn tín hiệu 信号灯
+thiết bị phát điện 发电装置
+thiết bị giám sát điều hành 监控装置
+thiết bị điều khiển từ xa 遥控装置
+thiết bị an toàn 安全装置
+thiết bị tự động 自动装置
+thiết bị hút hơi 抽气装置
+thiết bị hút tro 除灰装置
+thiết bị hút bụi 除尘装置
+thiết bị báo động 报警装置
+thiết bị đồng bộ 同步装置
+thiết bị công tắc điện 开关装置
+công tắc 按钮开关
+công tắc điều khiển 控制开关
+công tắc điều khiển từ xa 遥控开关
+công tắc điểm hỏa 点火开关
+công tắc ngắt mạch 切断开关
+công tắc điều khiển áp lực 压力操纵开关
+công tắc bảo hộ áp lực 压力保护开关
+thiết bị phân phối điện 配电设备
+thiết bị dự phòng 备用设备
+cặn bã nhiên liệu 燃料残渣
+tro 燃料灰
+muội than 煤灰
+xỉ than 炉渣
+tác dụng của xỉ than 炉渣作用
+xỉ than 熔渣
+hố tro 灰坑
+nước cặn 冲渣水
+mức độ ô nhiễm 污染程度
+luợng bốc hơi 蒸发量
+nhiệt lượng 热量
+nhiệt năng 热能
+cân bằng nhiệt 热平衡
+trao đổi nhiệt 热交换
+thiết bị trao đổi nhiệt 热交换器
+diện tích tăng nhiệt 加热面积
+hấp nhiệt 吸热
+cung cấp nhiệt 供热
+nhiệt thừa 余热
+tính toán sức nóng 热力计算
+bộ quốc phòng 国防部
+bộ trưởng bộ quốc phòng 国防部长
+tổng cục chính trị 总政治部
+bộ tổng tham mưu 总参谋部
+tổng cục hậu cần 总后勤部
+bộ tư lệnh quân khu 军区司令部
+bộ tư lệnh cảnh bị 警备司令部
+bộ tư lệnh hiến binh 宪兵司令部
+tổng tư lệnh 总司令
+tư lệnh 司令官
+sĩ quan chỉ huy 指挥官
+tham mưu trưởng 参谋长
+tham mưu 参谋
+phó quan 副官
+lục quân 陆军
+hải quân 海军
+không quân 空军
+sĩ quan 军官
+sĩ quan lục quân 陆军军官
+sĩ quan hải quân 海军军官
+sĩ quan không quân 空军军官
+binh lính 士兵
+lính thủy 水兵
+phi công 飞行员
+kế hoạch quốc phòng 国防计划
+ngân sách quốc phòng 国防预算
+chi tiêu quốc phòng 国防开支
+mục tiêu quân sự 军事目标
+can thiệp quân sự 军事干涉
+căn cứ quân sự 军事基地
+huấn luyện quân sự 军事训练
+diễn tập quân sự 军事演习
+ngân sách quân sự 军事预算
+kinh phí quân sự 军事拨款
+học viện quân sự 军事学院
+quân vụ 军务
+quân nhạc 军乐队
+nhạc tiến quân 军队进行曲
+quân pháp 军法
+kiểm soát quân nhân 宪兵队
+tiền vốn của quân đội 军队资金
+quân bị 军备
+hàng quân nhu 军需品
+xí nghiệp quân nhu 军需工厂
+nhà máy quốc phòng 兵工厂
+vũ khí 军火
+kho vũ khí 军火库
+quân lương 军粮
+quân mã 军马
+chó nghiệp vụ của quân đội 军犬
+xe quân đội 军车
+quân hiệu 军号
+quân trang 军装
+kỷ luật quân đội 军纪
+chi phí quân sự 军费
+gia đình quân nhân 军属
+tuyển quân 征兵
+luật nghĩa vụ quân sự 征兵法
+chế độ nghĩa vụ quân sự 征兵制
+nghĩa vụ quân sự 兵役
+nghĩa vụ quân sự 义务兵役
+chế độ nghĩa vụ quân sự 义务兵役制
+cán bộ tuyển quân 征兵人员
+tuyển chọn tân binh 选拔征兵
+tòng quân 服兵役
+điều kiện tòng quân 服役条件
+tuổi quân 兵役年龄
+thời hạn phục dịch 服役期限
+tham gia quân đội 参军
+đang làm nghĩa vụ quân sự 现役
+đang làm nghĩa vụ quân sự 正服现役
+ngạch quân dịch dự bị 预备役
+doanh trại quân đội 士兵营房
+câu lạc bộ sĩ quan 军官俱乐部
+câu lạc bộ chiến sĩ 士兵俱乐部
+đạn 子弹
+đạn pháo 炮弹
+lưỡi lê 刺刀
+dao găm 匕首
+dao quân dụng 军刀
+bom 炸弹
+thuốc nổ 炸药
+hơi ngạt 毒气
+hơi cay 催泪毒气
+mìn 地雷
+thủy lôi 水雷
+xe tăng 坦克
+xe tăng hạng nặng 重型坦克
+xe tăng hạng nhẹ 轻型坦克
+xe bọc thép 装甲车
+tàu sân bay 航空母舰
+tuần dương hạm 巡洋舰
+khu trục hạm 驱逐舰
+tàu hộ tống 护卫舰
+tàu đổ bộ 登陆艇
+tàu ngầm 潜艇
+tàu vận tải 运输舰
+tàu chở quân 运兵船
+tàu quân nhu 军需船
+tàu cứu viện 救援艇
+tàu tuẫn tiễu 巡逻艇
+ngư lôi 鱼雷
+máy bay quân sự 军用飞机
+máy bay tác chiến 作战飞机
+máy bay chiến đấu 战斗机
+máy bay phản lực chiến đấu 喷气式战斗机
+máy bay hộ tống 护航战斗机
+máy bay ném bom 轰炸机
+máy bay cường kích 截击机
+máy bay săn tàu ngầm 反潜飞机
+máy bay trinh sát 侦察机
+máy bay trinh sát không người lái 无人驾驶侦察机
+máy bay vận tải 运输机
+máy bay trực thăng 直升机
+máy bay trực thăng bọc thép 装甲直升机
+tàu lượn 滑翔机
+dù 降落伞
+vệ tinh trinh sát 侦察卫星
+tư lệnh tập đoàn quân 集团军司令
+chính ủy 政委
+tư lệnh hạm đội 舰队司令
+hạm trưởng 舰长
+đại đội không quân 空军大队长
+quân đoàn trưởng 军长
+sư đoàn trưởng 师长
+lữ đoàn trưởng 旅长
+trung đoàn trưởng 团长
+tiểu đoàn trưởng 营长
+đại đội trưởng 连长
+trung đội trưởng 排长
+tiểu đội trưởng 班长
+hạm đội 舰队
+hạm đội tác chiến 作战舰队
+hạm đội liên hợp 联合舰队
+hạm đội hộ tống 护卫舰队
+hạm đội chủ lực 主力舰队
+hạm đội hỗn hợp đặc biệt 特混舰队
+hạm đội đặc phái 特遷舰队
+hạm đội huấn luyện 训练舰队
+lính thủy đánh bộ 海军陆战队
+quân y 军医
+bệnh viện lục quân 陆军医院
+bệnh viện hải quân 海军医院
+bệnh viện không quân 空军医院
+bệnh viện chung 总医院
+bệnh viện dã chiến 野战医院
+bệnh viện hậu phương 后方医院
+bệnh viện hành quân 随军医院
+bệnh viện nơi đóng quân 驻地医院
+vũ khí 武器
+súng trường 步枪
+súng trường tự động 自动步枪
+súng carbine 卡宾枪
+súng trọng liên 重机枪
+súng tiểu liên 冲锋枪
+súng lục 手枪
+lựu đạn 手榴弹
+đại pháo 大炮
+súng cối 迫击炮
+pháo dã chiến 野战炮
+súng cao xạ 高射炮
+phục viên 复员
+quân chính quy 正规军
+quân không chính quy 非正规军
+quân thường trực 常备军
+quân dự bị 后备军
+quân chính phủ 政府军
+quân tình nguyện 志愿军
+quân đánh thuê 雇佣军
+quân viễn chinh 远征军
+quân đảo chính 叛军
+quân thảo phạt 讨伐军
+quân trừng trị 讨伐军
+bộ đội 部队
+bộ đội tác chiến 作战部队
+bộ đội xung kích 突击部队
+bộ đội đi chi viện 支援部队
+bộ đội nước ngoài 外国部队
+vận chuyển quân đội 部队的运送
+tàu thủy chở quân 部队运输船
+quân nhân 军人
+phong cách quân nhân 军人风度
+sĩ khí 士气
+quân tịch 军籍
+tuổi quân 军龄
+mũ lính 军帽
+nghi lễ quân đội 军礼
+quân kỳ 军旗
+quân lệnh 军令
+quân cảng 军港
+quân khu 军区
+quân khu của tỉnh 省军区
+phân khu của quân độ 军分区
+quân chủng 军种
+binh chủng 兵种
+bộ đội hàng không 航空兵
+bộ binh 步兵
+bộ binh nhẹ 轻步兵
+bộ binh mô tô 摩托化步兵
+bộ binh cơ giới 机械化步兵
+bộ đội cơ giới 机械化部队
+kỵ binh 骑兵
+kỵ binh nặng 重骑兵
+kỵ binh nhẹ 轻骑兵
+pháo binh 炮兵
+pháo binh hạng nặng 重炮兵
+pháo binh hạng nhẹ 轻炮兵
+lính cao su 高射炮兵
+pháo binh dã chiến 野战炮兵
+lính thiết giáp 装甲兵
+lính quân giới 军械兵
+lính vận tải 运输兵
+công binh 工兵
+công binh nhẹ 轻工兵
+lính thông tin 通信兵
+lính đường sắt 铁道兵
+lính y tế 卫生兵
+lính trinh sát 侦察兵
+bộ đội chiến đấu 战斗部队
+bộ đội tinh nhuệ 精锐部队
+bộ đội chủ lực 主力部队
+bộ đội địa phương 地方部队
+bộ đội độc lập 独立部队
+bộ đội mặt đất 地面部队
+bộ đội công binh 工兵部队
+bộ đội xe tăng 坦克部队
+bộ đội thiết giáp 装甲部队
+bộ đội nhảy dù 伞兵部队
+bộ đội đổ bộ 登陆部队
+bộ đội hỗn hợp 混合部队
+bộ đội phòng ngự 防御部队
+bộ đội thông tin 通信部队
+bộ đội vận tải 运输部队
+bộ đội đặc biệt 特遷部队
+bộ đội trinh sát 侦察部队
+bộ đội ra đa 雷达部队
+bộ đội tên lửa 火箭部队
+bộ đội đường sắt 铁道部队
+bộ đội hậu cần 后勤部队
+bộ đội trị an 治安部队
+bộ đội phòng thủ 卫戍部队
+bộ đội biên phòng 边防部队
+tập đoàn quân 集团军
+quân đoàn 军团
+quân đoàn 军
+binh đoàn 兵团
+sư đoàn 师
+lữ đoàn 旅
+trung đoàn 团
+tiểu toàn 营
+đại đội 连
+trung đội 排
+tiểu đội 班
+ra đa 雷达
+cáng 担架
+tên lửa 火箭
+hỏa tiễn chống tên lửa 反导弹火箭
+tên lửa vũ trụ 宇宙火箭
+tên lửa chống tăng 反坦克火箭
+tên lửa một tầng 单级火箭
+tên lửa hai tầng 两级火箭
+tên lửa ba tầng 三级火箭
+đạn đạo 导弹
+tên lửa đất đối không 地对空导弹
+tên lửa đất đối đất 地对地导弹
+tên lửa đất đối hạm 地对舰导弹
+tên lửa hạm đối hạm 舰对舰导弹
+tên lửa tầm xa 远程导弹
+tên lửa tầm trung 中程导弹
+tên lửa tầm gần 近程导弹
+tên lửa chiến lược 战略导弹
+tên lửa chiến thuật 战术导弹
+tên lửa bắn chặn 截击导弹
+tên lửa phòng không 防空导弹
+tên lửa vũ trụ 航天导弹
+tên lửa hành trình 巡航导弹
+tên lửa chống tăng 反坦克导弹
+tên lửa đạn đạo 弹道导弹
+tên lửa đầu đạn hạt nhân 核弹头导弹
+bom nguyên tử 原子导弹
+tên lửa tầm thấp 低空导弹
+tên lửa patriot 爱国者导弹
+tên lửa send 飞毛腿导弹
+tên lửa rắn đuôi kêu 响尾蛇导弹
+vũ khí thông thường 常规武器
+vũ khí hóa học 化学武器
+vũ khí sinh học 生物武器
+vũ khí vi trùng 细菌武器
+vũ khí nguyên tử 原子武器
+vũ khí hạt nhân 核武器
+quân hàm 军衔
+nguyên soái 元帅
+tướng quân 将军
+đại tướng 大奖
+thượng tướng 上将
+thượng tướng hải quân 海军上将
+trung tướng 中将
+thiếu tướng 少将
+đại tá 大校
+thượng tá 上校
+trung tá 中校
+thiếu tá 少校
+đại úy 大尉
+thượng úy 上尉
+trung úy 中尉
+thiếu úy 少尉
+thượng sĩ lục quân 陆军上士
+trung sĩ lục quân 陆军中士
+hạ sĩ lục quân 陆军下士
+binh nhất lục quân 陆军一等兵
+binh nhì lục quân 陆军二等兵
+tân binh lục quân 陆军新兵
+thượng sĩ hải quân 海军上士
+trung sĩ hải quân 海军中士
+hạ sĩ hải quân 海军下士
+thủy binh bậc cao 上等水兵
+thủy binh bậc 1 一等水兵
+thủy binh bậc 2 二等水兵
+binh nhất hải quân 海军一等兵
+binh nhì hải quân 海军二等兵
+thượng sĩ không quân 空军上士
+trung sĩ không quân 空军中士
+hạ sĩ không quân 空军下士
+binh nhất không quân 空军一等兵
+binh nhì không quân 空军二等兵
+tân binh không quân 空军新兵
+bao 包
+cốc 杯
+bản 本
+phim 部
+chăn 床
+mũ 顶
+tường 堵
+ắc quy 电池
+âm li 扩音机
+ấn kéo keo nhỏ 小胶机
+áo bảo trì may 针保工作服
+áo cán bộ 干部工作服
+áo công nhân 员工工作服
+áo công vụ 工务工作服
+áo giám đốc 经理工作服
+áo yếm 围裙
+bách khoa toàn thư 百科全书
+bàn chải đánh răng 牙刷
+bàn chải quét keo 擦胶刷
+bản đồ 地图
+bàn đội 撑台胶盘
+bàn keo 撑台胶盘
+bản in 台板
+bàn là 熨斗
+bàn làm việc 办公桌
+bàn lừa 送金万能车
+bàn lừa nhựa 胶牙齿
+bàn phím 键盘
+bàn thớt to 大斩板
+băng casset 录音带
+bảng đen 黑板
+băng dính 胶带
+băng keo 胶带
+bảng giấy cứng vải mịn 硬纸板细布
+băng keo 胶带
+băng keo hai mặt 双面胶双面胶带
+băng keo trong nhỏ 小透明胶
+bảng kẹp tạm bìa cứng 夹式书写板
+bảng màu 色卡
+băng tải 输送带
+băng tải thùng sấy 烘箱机输送带
+bảng tên 厂卡
+bảng thông báo 布告栏
+băng truyền 输送带
+băng video 录像带
+bảng viết 写字板
+băng xóa đánh chữ 擦字盒
+báo biểu 报表
+bao đựng rác 垃圾袋
+bao nilong pe 透明胶袋
+bao nylon đen 黑塑胶袋
+bao tay cao su 橡胶手套
+bao tay da 皮手套
+bao tay len 保护手套
+bao tay nylon 尼龙手套
+bao tay vải 布手套
+bao thư công ty 公司信封
+bao thư vàng nhỏ 黄色小信封
+bảo vệ kim 护针
+bị liệu 备料
+bìa acoat 硬塑胶夹
+bìa còng 公文夹
+bìa càng cua 公文夹
+bìa cứng 西卡纸
+bìa ép 塑胶套
+bìa lá 材料夹
+bìa lò xo 资料夹
+biến thế 变压器
+bình ắc qui 电瓶
+bình cứu hỏa 灭火机
+bình keo lớn 白色大胶瓶
+bình keo xanh nhỏ 小胶壶
+bình thủy tinh 玻璃瓶
+bộ ngắt hơi 电磁阀
+bộ nhớ chỉ đọc 和内存
+bộ sạc điện thoại di động 手机充电器
+bồn cầu 马桶
+bông cách nhiệt 隔热棉
+bóng đèn 电灯泡灯管
+bóng đèn 1m2 日光灯
+bóng đèn kiểu 装饰灯
+bóng đèn tròn 灯泡
+bu lon 螺丝
+búa 锤子
+bút bạc 银笔
+bút bay hơi 水解笔
+bút bi 圆珠笔
+bút chì 铅笔
+bút chì máy 自动铅笔
+bút dạ đen lớn 大头笔
+bút dạ quang 荧光笔
+bút lông 毛笔
+bút lông 毛笔
+bút mực 钢笔
+bút máy 钢笔
+bút sáp 蜡笔
+bút thử điện 试电笔
+bút viết bảng 记号笔
+bút đánh dấu 记号笔
+bút xóa 改正液排笔修正液
+cái bấm giấy 订书机
+cái bấm lỗ 打孔器
+cái bào 刨子
+cái bay 抹子
+cái búa 锤子
+cái cưa 锯
+cái cuốc 锄
+cái đục 凿子
+cái êtô 台虎钳
+cái giá đỡ băng keo 胶带分割器
+cái giũa 銼刀
+cái gọt bút chì 卷笔刀
+cái hộp 箱子
+cái hòm 箱子
+cái kéo 剪刀
+cái kẹp giấy 曲别针
+cái khoan 钻子
+cái phích cắm điện 插头
+cái rìu 斧头
+cái thư mục 文件夹
+cần gạt nước bồn cầu 厕所雨刷
+cánh quạt nhựa 风扇翼
+cao su 橡胶
+cáp âm thanh 音频线
+cáp hình ảnh 视频线
+cáp màn hình 电缆监控器
+cáp mạng 有线网
+cáp nguồn 电力电缆
+cặp sách 书包
+cặp sách 书包
+cát 沙砂
+cầu chì 保险丝
+cầu dao 电闸
+cầu dao tự động 自动断路器
+câu lau kiếng 擦镜具
+cây gia nhiệt 加热管
+cây lâu nhà 拖把
+cây nhọn 锥仔
+chao đèn 灯罩
+chất chống ẩm 干燥剂
+chất chống bạc 消泡剂
+chất xử lý 处理剂
+chén keo 碗胶
+chỉ bóng 珠光线
+chỉ cotton 棉线
+chỉ may 车线
+chỉ ny long 尼龙线
+chỉ vắt sổ 拷克线
+chìa khoá 关键
+chứng từ gửi hàng 出货文件
+chuột đèn 光管起动器
+chuôt may tinh 滑鼠
+cọ 1 in 毛刷
+cọ bù sơn 补漆毛笔
+cọ chà nhà vệ sinh 厕所刷
+cọ đũa 筷子毛笔
+co nhựa 塑胶弯头
+cọ quét keo loại lớn 大刷子
+cọ quét keo nhỏ 小刷子
+bàn chải 刷子
+compa 圆规
+con chuột máy tính 鼠标
+con dấu 印章
+công cụ 工具
+công tắc 开关
+công tắc điện 电源开关
+công tắc thiết bị đo nhiệt độ 温度量测器警报
+công tắc tơ 电磁接触器
+công ten nơ 20 thước 呎的出货柜
+cổng usb 端口
+contener 货柜
+cưa gỗ 手锯
+cưa sắt 钢锯
+cục chà keo 生胶
+cục nhựa đỏ 红柱胶
+cục cách điện 红柱胶
+cục tẩy 橡皮擦
+cước xanh 菜瓜布
+đa mai 磨刀石铲皮大机
+đá mài dao 磨刀石
+da nhân tạo 人造皮
+da giả 人造皮
+da pu ép hoa mềm 柔软压花
+da thuộc 熟皮
+da tổng hợp 合成皮
+da vụn 碎皮料
+da bò 牛皮
+đai dệt ny long 尼龙织带
+dán 贴合
+dán nhãn hợp 贴内盒标
+danh bạ điện thoại 电话本
+danh sách địa chỉ 通讯录
+dao cạo 刮刀
+dao cắt chỉ 剪线刀片
+dao cắt giấy bản lớn 纸工刀片大
+dao dọc giấy 切纸刀
+dao doc giây 纸工刀小
+dao lang da 残皮刀
+dao rọc giấy 美工刀裁纸刀
+dầu diesel 擦油
+đầu máy video 录像机
+đầu nối hơi 气管接头
+dầu tẩy bẩn 去清油
+đầu vít bake 十字起子头
+dây buộc 手索胶针
+dây buộc kéo 绳子绑剪刀
+dây cáp điện 电缆
+dây chun 橡皮筋松紧带
+dây curoa 皮带
+dây dán 么术贴
+dây điện 电线
+dây điện chịu nhiệt 高温电线
+dây điện sạc cân 电线秤机
+dây đồng 铜线
+dây hàn 焊线
+dây kéo 拉练
+dây nilon 尼龙袋
+dây rút treo card 手索胶针白色
+dây sâu card 手索胶针
+dây thun 橡皮筋
+dây treo 子母扣
+dây viền 滚边带
+đèn bàn 台灯
+đèn bàn 台灯
+đèn đọc sách 台灯
+đèn máy may 电车灯泡
+đèn tuýp 灯管
+đĩa quang 光盘
+đĩa cd 光盘
+đĩa dvd 光盘
+đĩa vi tính 磁片
+đĩa xích 齿轮
+điện thoại bàn 电话
+điện thoại di động 手机
+điện trở ống 电热管
+đinh bấm giấy 订书钉
+đinh đục lỗ 冲孔钉
+đinh ghim 大头针
+đinh ghim 大头针
+đinh ghim bảng thông báo 工字钉
+đồ cắt băng keo 剪胶带具
+đồ tháo kim 拔订具
+đơn đặt hàng 採购单
+đơn đặt hàng 定购单
+đơn giá 单价
+đơn vị xử lý trung tâm 中央处理单元
+cpu máy tính 中央处理单元
+đơn xin lanh vât tư 物料领用申请单
+đơn xin phép 请假单
+đồng hồ 时钟
+đồng hồ đeo tay 手表
+đục lỗ 冲孔
+dụng cụ đo góc 量角器
+đựng danh thiếp 名片夹
+đường dây mạng 网路线
+ê ke 角尺
+file trong 透明夹
+gạch 砖
+gạch bông 花砖
+gạch cách âm 隔音砖
+gạch men sứ 磁砖
+gạch ống 空心砖
+gạch tàu 方砖
+găng tay 手套
+găng tay len 布手套
+ghế 椅子
+ghim bấm 别针
+ghim giấy 回形针
+giá đựng tài liệu 桌上文件柜
+giá quần áo 衣服架
+giá sách 书架
+giấy 纸
+giấy 300g 2 mặt xám 双灰卡纸
+giấy a4 纸
+giấy bao gói 招贴指
+giấy da bò 牛皮纸
+giấy đánh chữ 打字纸
+giấy đề can 彩色纸
+giấy đóng gói 23x41 包装纸迅丰
+giấy đóng gói bọc ngoài 包装纸
+giấy dùng để ghi chú 记事本
+giấy ghi nhớ 便笺
+giấy nhám 砂纸
+giấy nhám vải 砂纸布
+giấy nhét 土包纸
+giấy nhét túi 23x41 包装纸塞袋用
+giấy notes 便写纸
+giấy phô tô 复印纸
+giấy than 复写纸復印纸
+giấy tự dán 上自粘
+giấy vệ sinh 卫生纸
+giấy viết thư 纸
+gỗ 木头
+gương soi 镜子
+hồ nước 胶水
+hóa đơn mua nguyên liệu 物品请购单
+hòm sấy 烤箱机器
+hòm thư 邮箱
+hộp biến tầng 变频器
+hộp cắm bút 笔筒
+hộp cứu thương 急救箱
+hộp đựng bút 笔盒
+hộp đựng nước xà phòng 装洗碗精盒
+hộp nhựa đựng đồ 盒子
+hộp nhựa tròn 圆塑胶盒
+hộp nhựa vuông 四方塑胶盒
+hộp tâm bông 章台
+hộp trong 内盒
+hủ nhựa 塑胶盒
+inox 白铁
+kệ hồ sơ 3 ngăn 三层文件夹
+kéo 剪刀
+keo 胶水
+kéo bấm 棉线剪刀
+kéo bấm chỉ 剪刀线
+kéo cắt chỉ 小剪刀
+kéo cắt vải 剪布刀
+keo chiu nhiêt 防火胶
+keo dán 胶
+keo dán hai mặt 双面胶
+keo dán khô 固体胶
+keo dán nước 文教胶水
+keo dán sắt 胶水
+keo giấy 10mm 胶纸
+keo hai mặt 7mm trắng 白色双面胶
+keo hai mặt vàng 双面胶黄色
+kéo lớn 大剪刀
+kéo lớn cán đỏ 红大剪刀
+keo nhật 2mm 日胶
+keo nhiệt dung hạt 热熔胶粒
+keo sống 生胶片
+kéo to 大剪刀
+kéo nhỏ 小剪刀
+keo trắng 2 mặt 白色双面胶
+keo trong 12mm 分透明胶
+kéo văn phòng 小剪刀
+keo vàng 2 mặt 3mm 黄色双面胶
+kẹp bướm 长尾夹大小中
+kẹp bướm 长尾夹
+kẹp gỗ 木夹
+kẹp nhựa 塑胶夹
+kẹp thép 铁夹子
+khăn hộp 纸巾
+khăn giấy 纸巾
+khăn lau 毛巾
+khăn mặt 面巾
+khẩu trang 口罩
+khóa 锁头
+khuôn đồng 铜模
+khuôn gỗ 木框
+khuôn nhôm 铝框
+khuy 环扣
+khuy lổ dây 眼扣华司
+khuy nhựa 塑胶扣
+kiềm cắt 剪钳
+kìm 钳子
+kim bấm 钉书针
+kìm bằng 平头钳
+kim đầu dẹp 扁头针
+kim đầu tròn 圆头针
+kim đơn 单针头
+kim kép 双针头
+kim kẹp 回形针
+ghim cài 回形针
+kim may 车针
+kìm nhọn 老虎钳尖嘴钳
+kim nhựa 10mm 枪胶针
+kim tay 手针
+kim tròn 圆针俭尾针
+kim dẹt 圆针俭尾针
+kim vàng #16 mũi tròn 高头车圆嘴金
+kính đeo mắt 眼镜
+lịch để bàn 办公桌日历
+lịch làm việc trong ngày 日程表
+linh kiện máy bàn 平车双针零件
+lò xò 弹簧
+loa 扬声器
+loa cầm tay (micro) 麦克风
+loa máy tính 电脑音箱
+lõi trục cuộn chỉ 捲线的轴心
+long não 冰片
+lưới b40 铁丝网
+lưỡi cưa 锯片
+mác treo 吊牌
+màn hình 桌面
+mắt kiếng bhlđ 保护眼镜
+mặt nguyệt 2 kim 平车针板
+mặt nguyệt b28 针板
+màu bạc mạ điện 电镀银色
+máy ảnh 相机
+máy bàn 平车
+máy bàn 1 kim cắt chỉ 平车单针针车自动切线
+máy băng chuyền 输送带机器
+máy bằng hai kim 平双机
+máy băng viền 滚边针
+máy cán 混炼
+máy cao 1 kim 高单车
+máy cao 2 kim 高双车
+máy cắt chỉ 自动切线针车
+máy dập kim tự lực 钉书机
+máy điện thọai 电话机
+máy điện thư 传真机
+máy điều hoà không khí 空调
+máy đóng tắckê 油压内座机
+máy đục lỗ 冲孔机
+máy ép đế 压底机
+máy ép phẳng 平面压底机
+máy gấp hộp 折内合机
+máy ghim giấy 订书机
+máy giặt 洗衣机
+máy in 打印机
+máy mài biên 磨边机器
+máy may zích-zắc 万能车
+máy pha cà phê 咖啡机
+máy photocopy 复印机
+máy quạt 电风扇
+máy rà kim 验针机
+máy sấy tóc 电吹发器
+máy scan 扫瞄器
+máy scan 扫描器
+máy sinh tố 果汁机
+máy tính 计算器
+máy tính bỏ túi 计算器
+máy tính nhỏ 小计算机
+máy tính xách tay 手提电脑
+máy trụ hai kim 高单真高双针
+máy vạn năng 万能机
+máy vi tính 电脑
+máy xé vụn giấy 碎纸机
+máy xếp hộp 褶内盒机
+miếng chống mốc 防霉片
+mika-mica 压克力板
+mỡ bò 黄油
+mỏ lết 活动板子
+mơ tơ 马达
+móc phơi áo 晒衣架
+mũ bảo hiểm 头盔
+mực 墨水
+mực bạc 银墨水
+mực đóng dấu 印泥
+dầu đóng dấu 印泥
+mực in hp 列表机碳粉
+mực lông bảng 异奇墨水
+mực lông dầu 油性墨水
+mực máy fax 传真墨水
+mực nước 墨水
+mực photo 碳粉
+mực tam pong 油印墨水
+mực to 18 墨水
+mũi khoan 钻头
+mũi khoan bê tông 墻壁锯头
+mũi khoét 锯头
+mút 3mm 海绵
+nhám vải 砂布
+nhãn 标签
+nhiệt độ kế 温度计
+nhớt 机油
+nhựa 塑胶
+nilong mỏng pe 纸
+nón công nhân 员工帽子
+nước rửa 药水
+nước rửa kiếng 玻璃清洁剂
+nước rửa tay 洗手液
+nước tẩy wc 清洁剂
+nước uống đóng chai 瓶装水
+nước xịt phòng 喷香剂
+nút chống ồn 耳塞耳机
+nylon cuộn 尼龙卷
+ổ cắm điện 插座插口
+ổ cắm nhiều đường 多路插座
+ổ cứng máy tính 电脑硬盘
+ổ khóa 锁头
+ốc hãm kim 螺丝针
+ốc tán 螺丝螺帽
+ốc vít 螺丝
+ổn áp 稳压器
+ống chỉ 线管
+ống kẽm 镀锌管
+ống nhựa 塑胶管
+ống thủy tinh đo độ 玻棒温度计
+ống tiếp 圆铁管
+pallet 垫板
+phích cắm 插头
+phích cắm 3 chấu 向插座
+phiếu gia công 原物料托外加工单
+phiếu lĩnh nguyên liệu 正批领料单
+phiếu lĩnh nguyên liệu bổ sung 捕制领料单
+phiếu lĩnh vật liệu 领料单
+phiếu nhập kho 入库单
+phiếu phái công 派工单
+phiếu ra xưởng 出厂单
+phiếu trả keo 退库单
+phiếu xuất kho 出料单
+phiếu xuất xưởng 料品出厂单
+phong bì 信封
+pin 电池
+pin tiểu 小电池
+ắc quy 电池
+quả địa cầu 地球仪
+quần zin 牛仔裤
+quạt điện 电风扇
+quạt gió 风扇
+quạt thông gió 排风扇
+quạt trần 吊扇
+que hàn 焊条
+radio 收音机
+radio casset 收录机
+răng cưa 锯号
+rèm cửa sổ 窗帘
+rổ nhựa 塑胶筐
+rong giấy 垫片
+ruột viết chì 铅笔心
+sách 书
+sách thuyết minh 説明书
+sáp trắng 白腊
+sắt chữ u 槽钢
+sắt chữ v 角铁
+sắt hộp 角钢
+sim nhỏ 胶圈喷胶机头用
+sổ bù hàng 补数申请表
+sổ caro nhỏ 小格小纪本
+sổ đựng card 装名片笔纪本
+sổ nhật kí 日记本
+sổ tay 笔记本
+sợi nhỏ 细线
+dây nhỏ 细线
+sọt 箩筐
+suốt hai kim 线芯两个针头
+suốt nhỏ 线心平头车
+suốt to 线心高头车
+tắc kê 壁虎
+tắc kê nhựa 塑胶壁虎
+tách 杯子
+chén 杯子
+tài liệu 文件夹
+tai nghe 头戴式耳机
+tăng phô 整流器
+tập 100 trang 页纪本
+tạp chí 期刊报纸
+báo 期刊报纸
+tập tin 文件
+tài liệu 文件
+tẩy chì 橡皮
+tay kéo keo lớn 大胶机
+tem 标签
+tem dán 贴标
+tem decal 空白标
+tem giá cả 价格标
+tem mã vật 条码标
+tem mác 商标
+tem mũi tên 剪头标
+tem số 流水标
+tên vật tư 材料名称
+thanh nhôm 铝条
+thẻ đeo 装卡袋
+thẻ mã số 工号卡
+thẻ mấm 考勤表
+thẻ nhân viên 员工卡
+thẻ nhớ 记忆棒
+thẻ sim điện thoại di động 卡手机
+thẻ vi tính 刷卡片
+thiết bị bảo hộ cá nhân 个人防护装备
+thiết bị chữa cháy 灭火器
+thớt đục lỗ 冲孔针板
+thùng keo thiếc 胶水铁桶
+thùng ngoài 外箱
+thùng phuy 大油桶
+thùng sấy 烤箱
+thước cuốn 卷尺
+thước dây 绳子尺
+thước đo độ cứng 硬度计
+thước kẻ 尺子
+thước sắt 铁尺
+thước tam giác 角尺
+thước thẳng 直尺
+thuyền máy bàn 线栓平头车
+thuyền máy cao đầu 线栓高头车
+ti vi màu 彩色电视机
+tô vít 螺丝起子
+tole lạnh 波浪铁板
+toto yqh-6-7 车床电脑车
+trọng lượng cả bì 毛重
+tủ có ngăn 橱柜
+tủ lạnh 冰箱
+túi bóng 塑胶袋
+túi đựng bút 笔袋
+túi đựng đồ viết lách 文具盒
+túi đựng rác 垃圾袋
+túi đựng tài liệu 文件袋
+túi hồ sơ 档案袋
+túi nhựa 塑料包装袋
+túi nilon đựng liệu 放料胶袋
+vải 布
+vải can lót 干衣布裡
+vải chữ thập 十字布
+vải lưới 沙绸
+vải visa 布
+vải vụn 碎布
+van 水龙头
+vận đơn đường biển 海运提单
+van hơi điện 电磁阀
+vật tư 材料
+viết chì kim 自动铅笔
+viết chì thường 铅笔
+viết dạ quang 营光笔
+viết kim tuyến 签字笔
+viết lông 2 đầu 油性笔
+viết lông bảng 白板笔
+viết lông dầu 油异笔
+viết lông kim 水性笔
+viết sáp đen 黑蜡笔
+viết sáp trắng 白蜡笔
+viết xóa 修正液
+vít 1 phân 分螺丝
+vịt dầu 油壶
+vỏ máy tính 电脑机箱
+vòi tắm hoa sen 莲蓬头
+vòi xịt nước bồn cầu 厕所喷头
+xà bông bột 洗衣粉
+xà bông cục 肥皂
+xà bông nước 洗碗精
+xăng 汽油
+xi măng 水泥
+xích 鍊条
+xích 4mm inox 铁链
+xô inot 不锈钢水桶
+xô thiếc 水桶
+xốp nổi 高发泡
+thuế tiêu dùng 消费税
+thuế hàng hóa trong nước 国内货物税
+thuế thuốc lá 烟税
+thuế rượu 酒税
+thuế hàng xa xỉ 奢侈品税
+thuế hoạt động dịch vụ vui chơi giải trí 娱乐税
+thuế giáo dục 教育税
+thuế nhà nước 国税
+thuế địa phương 地税
+lệ phí bảo dưỡng đường 养路费
+lệ phí thông hành 通行费
+thuế hai lần 双重课税
+thuế nhiều lần 多重税
+thuế phức hợp 复合税
+sưu cao thuế nặng 苛捐杂税
+giảm thuế 减税
+giảm thuế cá nhân 个人减税
+giảm thuế nói chung 一般减税
+giảm thuế đặc biệt 特殊减税
+phân chia thu nhập năm 岁入分享
+người nộp thuế 纳税人
+người trốn thu 逃税人
+tốt  好
+xấu 坏
+nhẹ 轻
+nặng 重
+khô  干
+ướt 湿
+thơm 香
+thối 臭
+mềm 软
+cứng 硬
+mạnh 强
+yếu 弱
+lỏng  松
+chặt 紧
+xa  远
+gần 近
+nhanh  快
+chậm 慢
+sống 生
+chết 死
+rõ ràng  清楚
+mơ hồ 模糊
+dễ chịu  舒服
+khó chịu 难受
+thông minh  聪明
+đần 笨
+ngốc 笨
+chăm chỉ 勤快
+lười 懒
+rẻ  便宜
+đắt 贵
+sạch sẽ 干净
+bẩn 脏
+thô 粗
+tỉ mỉ 细
+nam 男
+nữ 女
+vào 进
+ra 出
+đến 来
+tới 来
+đi 去
+lùi lại 后退
+tiến lên 前进
+mặc 穿
+cởi 脱
+mở 开
+đóng 关
+đẩy 推
+kéo 拉
+nuốt 吞
+nhổ 吐
+gập lại 合上
+mở ra 打开
+thẳng 直
+cong 弯
+thẳng 正
+ngay ngắn 正
+nghiêng 斜
+dày 厚
+mỏng 薄
+rộng 宽
+hẹp 窄
+mịn màng 光滑
+bóng 光滑
+thô ráp 粗糙
+to 大
+nhỏ 小
+dài 长
+ngắn 短
+yên tĩnh 安静
+ồn ào 吵
+hoảng hốt 慌张
+luống cuống 慌张
+bình tĩnh 镇定
+đơn giản 简单
+phức tạp 复杂
+bẹp 扁
+xì hơi 扁
+phồng 鼓
+xấu xí 难看
+xinh đẹp 漂亮
+xe trẻ em 童车
+xe đạp 自行车
+xe đạp điện 电动车
+xe ba gác 三轮车
+xe ba bánh 三轮车
+xe gắn máy 摩托车
+xe mô tô 摩托车
+ô tô mui kín 小轿车
+xe hơi hai cửa mui kín 小轿车
+xe mui trần 敞篷车
+xe đua 跑车
+xe jeep 吉普车
+xe thương vụ 商务车
+xe công vụ 商务车
+taxi 出租车
+xe cảnh sát 警车
+xe 16 chỗ 面包车
+xe nhà trường 校车
+xe khách 客车
+xe buýt công cộng 公交车
+xe buýt 巴士
+xe buýt 公共汽车
+xe cấp cứu 急救车
+xe cứu hỏa 消防车
+xe quét đường 环卫车
+xe môi trường 环卫车
+xe tải 卡车
+xe chở hàng 卡车
+máy cày 拖拉机
+máy đào 挖掘机
+máy xúc 装载机
+máy xếp dở 装载机
+xe lu 压路机
+xe nâng 叉车
+xe cẩu 叉车
+máy ủi 推土机
+xe ủi đất 推土机
+xe lửa 火车
+tàu hỏa 火车
+tàu thủy 轮船
+máy bay 飞机
+phi cơ 飞机
+trực thăng 直升飞机
+xe tăng 坦克
+bưu chính 邮政
+cục trưởng bưu chính 邮政局长
+bộ trưởng bưu chính 邮政部长
+tổng cục bưu chính 邮政总局
+bưu cục 邮政支局
+bộ bưu chính 邮政部
+nhân viên bưu điện 邮政人员
+bưu tá 邮递员
+quầy bán tem 售邮票处
+máy bán tem tự động 邮票自动出售机
+sổ sưu tập tem 集邮簿
+người chơi tem 集邮爱好者
+người chơi tem 集邮家
+sưu tầm tem 集邮
+chơi tem 集邮
+tem kỷ niệm 纪念邮票
+một bộ tem kỷ niệm 一套邮票
+dán tem 贴邮票
+nơi gửi thư bảo đảm 寄挂号信处
+bưu kiện bảo đảm 挂号邮件
+cước phí bảo đảm 挂号费
+gửi thư bảo đảm 奇挂号信
+nơi gửi gói bưu kiện 奇包裹处
+gói bưu kiện 邮包
+gói hàng 包裹
+nơi đóng gói 包裹间
+gói nhỏ 小包
+gói bưu kiện trong nước 国内邮包
+gói bưu kiện quốc tế 国际邮包
+gói bưu kiện bảo đảm 挂号邮包
+cân trọng lượng gói hàng 称包裹的磅秤
+quá cân 超重
+cước phí bưu điện 邮费
+giấy gửi gói hàng 奇包裹单
+giấy biên nhận gói hàng 包裹收据
+cước phí bảo hiểm 保险费
+giấy báo gói hàng đã đến nơi 包裹到达通知单
+giấy gửi bưu kiện đi 包裹发递单
+tờ khai hải quan 海关申报单
+vải gói bọc 包裹布
+giấy bao xi măng 牛皮纸
+thùng gỗ 木箱
+dễ vỡ 易碎
+cẩn thận đặt nhẹ 小心轻放
+chú ý đặt nhẹ 小心轻放
+đầu này hướng lên trên 此头向上
+nơi gửi tiền đi 汇款处
+khoản tiền gửi đi 汇款
+giấy gửi tiền 汇款单
+người gửi tiền 汇款人
+người nhận tiền 收款人
+phiếu chuyển tiền 汇票
+mạng lưới gửi tiền 汇兑网
+máy tính bưu phí 邮资机
+ngân hàng dự trữ bưu điện 邮政储蓄银行
+xe bưu chính 邮车
+túi bưu điện 邮袋
+tàu bưu điện 邮政船
+nơi đặt mua báo 订报处
+giấy đặt báo tạp chí 报刊订阅单
+báo chí địa phương 本地报刊
+báo chí nước ngoài 外国报刊
+tập san theo kỳ 期刊
+kỳ mới nhất 最新一期
+phòng thông tin 问询处
+nơi hỏi thông tin 问询处
+một 一
+hai 二
+ba 三
+bốn 四
+năm 五
+sáu 六
+bảy 七
+tám 八
+chín 九
+mười 十
+mười một 十一
+mười hai 十二
+mười ba 十三
+mười bốn 十四
+mười lăm 十五
+mười sáu 十五
+mười bảy 十七
+mười tám 十八
+mười chín 十九
+hai mươi 二十
+hai mươi mốt 二十一
+hai mươi hai 二十二
+hai mươi lăm 二十五
+một trăm 一百
+một nghìn 一千
+cv cá nhân 个人简历
+khái quát tình hình cá nhân 个人概况
+họ tên 姓名
+giới tính 性别
+tỉnh 省市
+thành phố 城市
+huyện 县
+quận 郡
+ngày tháng năm sinh 出生日期
+ngày tháng năm sinh 出生年月
+số chứng minh thư 身份证号
+sô chứng minh nhân dân 身份证号
+số chứng minh thư 身份证号码
+sô chứng minh nhân dân 身份证号码
+dân tộc 民族
+diện mạo chính trị 政治面貌
+chiều cao 身高
+cân nặng 体重
+hệ học 学制
+quá trình học 学历
+tuổi 年龄
+quốc tịch 国籍
+trình độ ngoại ngữ 外语等级
+trình độ máy tính 计算机水平
+trình độ máy tính 计算机等级
+năng lực ứng dụng máy tính 计算机应用能力
+chuyên ngành 专业
+thời gian 时间
+đơn vị 单位
+kinh nghiệm từng trải 经历
+kỹ năng 技能
+sở trường 特长
+sở thích 爱好
+sở thích cá nhân 个人爱好
+lý lịch 履历
+thông tin địa chỉ 通讯地址
+thông tin địa chỉ chi tiết 详细通信地址
+địa chỉ liên lạc 联系地址
+điện thoại liên lạc 联系电话
+phương thức liên hệ 联系方式
+số điện thoại di động 手机号
+email 电子邮箱
+địa chỉ gia đình 家庭住址
+tự đánh giá bản thân 自我评价
+yêu cầu của bản thân 本人要求
+tình trạng hôn nhân 婚姻状况
+thời gian công tác 工作时间
+do 由
+cơ quan công an thành phố cấp 市公安局发证
+cơ quan công an tỉnh cấp 省公安局发证
+tên chức vị kỹ thuật 技术职称
+địa chỉ nơi ở 住址
+trình độ văn hóa 文化程度
+năng lực cá nhân 个人能力
+chuyên ngành chính 主修专业
+trình độ ngoại ngữ 外语水平
+trường học tốt nghiệp 毕业学校
+thời gian tốt nghiệp 毕业时间
+trình độ tiếng anh 英语水平
+trình độ tiếng trung 汉语水平
+yêu cầu mức lương 薪水要求
+yêu cầu mức lương 薪金要求
+công việc hiện tại đang làm 现从事工作
+nghành nghề hiện tại đang làm 从事行业
+công việc mong muốn 欲从事工作
+đơn vị ứng tuyển 应聘单位
+chức vụ ứng tuyển 应聘职位
+thực tiễn công tác xã hội 社会实践
+mã bưu chính 邮政编码
+bằng cấp 证书
+giấy chứng nhận 证书
+sở thích 兴趣爱好
+sở thích ngoài giờ làm việc 业余爱好
+lý lịch công tác 工作简历
+tên công ty 公司名称
+tên chức vụ 职位名称
+thuộc bộ môn 所属部门
+thuộc ban ngành 所属部门
+năng lực ngôn ngữ 语言能力
+trình độ giáo dục 教育情况
+nền tảng giáo dục 教育背景
+quá trình bồi dưỡng 培训经历
+quá trình đào tạo 培训经历
+thời gian bồi dưỡng 培训时间
+thời gian đào tạo 培训时间
+cơ quan bồi dưỡng 培训机构
+cơ quan đào tạo 培训机构
+nội dung bồi dưỡng 培训内容
+nội dung đào tạo 培训内容
+kỹ năng nghề nghiệp 职业技能
+khen thưởng cá nhân 个人荣誉
+bằng cấp liên quan 相关证书
+chú thích 备注
+trình độ chuyên ngành 专业水平
+trình độ máy tính 电脑水平
+thể trạng sức khỏe 健康状况
+quý công ty 贵公司
+giám đốc 经理
+thư ký 秘书
+người viết đơn 申请人
+năm tháng ngày 年月日
+kinh nghiệm làm việc 工作经验
+họ tên tiếng việt 越文姓名
+họ tên tiếng trung 中文姓名
+chức vụ xin tuyển 申请职位
+mong muốn đãi ngộ 希望待遇
+thời gian học tập 就读时间
+từ năm 2003 đến năm 2011 自 2003年至 2011 年
+tình hình chi tiết đã công tác trước đây 以往就业详情
+chức vị 职位
+chức vụ 职位
+sở trường cá nhân 个人专长
+người viết đơn ký tên 申请人签名
+trình độ tiếng trung phổ thông 汉语普通话水平
+một tý 一下
+thử xem 一下
+bỗng chốc  一下
+một ít 一些
+một số 一些
+hơi 一些
+một chút  一些
+một cái 一个
+một  一个
+tất cả 一切
+hết thảy 一切
+toàn bộ  一切
+chính xác 一定
+cần phải 一定
+nhất định  一定
+giống nhau 一样
+cũng thế  一样
+thẳng 一直
+luôn luôn 一直
+liên tục  一直
+cùng nơi 一起
+cùng 一起
+tổng cộng  一起
+một chút 一点
+một ít 一点
+chút xíu 一点
+chút ít  一点
+chồng  丈夫
+thượng đế 上帝
+chúa trời  上帝
+bên trên 上面
+phía trên  上面
+xuống 下来
+lại 下来
+tiếp  下来
+xuống 下去
+đi xuống 下去
+tiếp nữa  下去
+phía dưới 下面
+bên dưới  下面
+không lặp lại  不再
+không có lần thứ hai  不再
+không giống 不同
+không cùng  不同
+không tốt  不好
+không cần  不用
+cho dù 不管
+bất luận 不管
+mặc kệ 不管
+bỏ mặc  不管
+không thể 不能
+không được  不能
+không được  不行
+đừng 不要
+không được 不要
+chớ  不要
+cực kỳ 不过
+nhất trên đời 不过
+nhưng 不过
+nhưng mà 不过
+có điều  不过
+đúng 不错
+đúng vậy 不错
+không tệ  不错
+thế giới 世界
+vũ trụ 世界
+trái đất  世界
+đồng thời 并且
+hơn nữa 并且
+vả lại  并且
+chủ kiến  主意
+chủ định  主意
+trước 之前
+trước khi 之前
+sau 之后
+sau khi 之后
+giữa  之间
+có lẽ 也许
+e rằng 也许
+biết đâu 也许
+hiểu rõ 了解
+biết rõ 了解
+hỏi thăm 了解
+sự việc 事儿
+sự thực 事实
+sự việc 事情
+sự tình  事情
+mọi người 人们
+người ta  人们
+loài người 人类
+nhân loại  人类
+cái gì 什么
+hả  什么
+ngày hôm nay 今天
+hôm nay 今天
+hiện tại 今天
+trước mắt  今天
+tối nay  今晚
+để ý 介意
+để bụng 介意
+lưu tâm  介意
+bọn họ  他们
+đại biểu 代表
+đại diện  代表
+trước đây 以前
+trước kia 以前
+ngày trước  以前
+và 以及
+cùng  以及
+sau đó 以后
+về sau 以后
+sau này  以后
+tin tưởng 以为
+cho rằng  以为
+bất luận cái gì  任何
+nhiệm vụ  任务
+nghỉ ngơi 休息
+nghỉ  休息
+người cộng tác 伙计
+bạn cùng nghề 伙计
+làm thuê 伙计
+người làm mướn  伙计
+nhưng 但是
+mà  但是
+hành vi 作为
+làm được 作为
+với tư cách  作为
+bọn họ  你们
+đến từ  来自
+mà nói  来说
+duy trì 保持
+gìn giữ  保持
+bảo đảm  保证
+bảo hộ 保护
+bảo vệ  保护
+tín nhiệm  信任
+tin tức 信息
+thông tin  信息
+cá nhân  个人
+làm được  做到
+cái thứ 家伙
+thằng cha 家伙
+cái con  家伙
+tổn thương 伤害
+làm hại  伤害
+huynh đệ 兄弟
+anh em  兄弟
+hung thủ  凶手
+thầy 先生
+tiên sinh 先生
+chồng  先生
+con trai 儿子
+người con  儿子
+toàn bộ  全部
+công ty 公司
+hãng  公司
+trong đó  其中
+cái khác 其他
+khác  其他
+kì thực 其实
+thực ra  其实
+tạm biệt 再见
+chào tạm biệt  再见
+vắng vẻ 冷静
+yên tĩnh 冷静
+bình tĩnh  冷静
+đi ra 出来
+ra đây 出来
+xuất hiện 出来
+nảy ra  出来
+ra 出去
+ra ngoài  出去
+xuất hện 出现
+hiện ra  出现
+phút  分钟
+người khác 别人
+người ta  别人
+cái khác  别的
+đến cùng 到底
+rốt cuộc 到底
+tóm lại  到底
+khắp nơi 到处
+mọi nơi 到处
+đâu đâu  到处
+vừa 刚刚
+mới  刚刚
+vừa nãy  刚才
+gia nhập  加入
+cố lên  加油
+nỗ lực 努力
+cố gắng  努力
+tiến sĩ  博士
+nguy hiểm  危险
+cho dù 即使
+dù cho  即使
+nguyên nhân  原因
+tha thứ 原谅
+bỏ qua  原谅
+tham gia 参加
+tham dự  参加
+ngoài ra  另外
+chỉ là 只是
+chẳng qua là 只是
+chỉ 只是
+nhưng  只是
+chỉ có  只有
+chỉ cần 只要
+miễn là  只要
+có thể  可以
+đáng yêu  可爱
+đáng thương  可怜
+nhưng 可是
+thế nhưng 可是
+thật là  可是
+có thể 可能
+khả năng 可能
+chắc là  可能
+các vị  各位
+đồng ý 同意
+đồng tình  同意
+tên 名字
+bằng không 否则
+nếu không  否则
+nói với 告诉
+tố cáo 告诉
+tố giác  告诉
+cà phê  咖啡
+chúng ta  咱们
+anh trai  哥哥
+chỗ nào 哪儿
+đâu  哪儿
+đâu 哪里
+nơi nảo 哪里
+đâu có 哪里
+đâu phải  哪里
+duy nhất  唯一
+vấn đề 问题
+câu hỏi  问题
+thích 喜欢
+vui mừng  喜欢
+trở về 回来
+quay về  回来
+về đến  回到
+trở về 回去
+đi về  回去
+về nhà  回家
+trả lời 回答
+giải đáp  回答
+bởi vì 因为
+bởi rằng  因为
+quốc gia 国家
+đất nước  国家
+địa phương 地方
+bản xứ 地方
+vùng 地方
+miền  地方
+kiên trì  坚持
+báo cáo 报告
+bản báo cáo 报告
+phát biểu  报告
+phía ngoài 外面
+bên ngoài  外面
+bao lâu  多久
+nhiều ít 多少
+bao nhiêu 多少
+mấy  多少
+đại học  大学
+cả nhà 大家
+mọi người  大家
+khoảng 大概
+chừng  大概
+bà lớn 太太
+bà chủ 太太
+bà xã 太太
+bà nhà  太太
+phu nhân  夫人
+mất 失去
+chết  失去
+kì lạ 奇怪
+kì quái  奇怪
+phụ nữ 女人
+đàn bà 女人
+con gái 女儿
+nữ sĩ 女士
+bà 女士
+phu nhân 女士
+cô gái  女孩
+họ 她们
+bọn họ  她们
+hình như 好像
+na ná 好像
+giống như  好像
+vui sướng  好好
+tốt đẹp  好好
+làm sao 如何
+như thế nào 如何
+ra sao  如何
+nếu  如果
+như thế 如此
+như vậy  如此
+vợ  妻子
+cô nương  姑娘
+hôn lễ  婚礼
+mẹ 妈妈
+má 妈妈
+u 妈妈
+bầm 妈妈
+bà già  妈妈
+tồn tại  存在
+trẻ con 孩子
+con cái  孩子
+trường học  学校
+bọn họ 它们
+chúng nó  它们
+an toàn  安全
+sắp xếp 安排
+bố trí 安排
+trình bày  安排
+đầy đủ 完全
+trọn vẹn 完全
+hoàn toàn  完全
+hoàn thành  完成
+hoàn mỹ  完美
+sợ hãi 害怕
+sợ sệt  害怕
+gia đình  家庭
+trong nhà  家里
+dễ dàng 容易
+dễ  容易
+chân thực 实在
+quả thực 实在
+thực ra  实在
+bảo bối 宝贝
+cục cưng 宝贝
+của báu  宝贝
+về 对于
+đối với  对于
+tiểu thư 小姐
+cô  小姐
+người trẻ tuổi 小子
+con trai 小子
+thằng  小子
+trẻ em  小孩
+cẩn thận  小心
+tiếng đồng hồ 小时
+giờ  小时
+nhất định 就是
+đúng 就是
+dù cho  就是
+mông 屁股
+đít  屁股
+thi thể 尸体
+xác chết  尸体
+công việc 工作
+công tác  工作
+đã 已经
+rồi  已经
+mong muốn 希望
+hy vọng 希望
+ước ao  希望
+đem lại  带来
+giúp đỡ 帮助
+viện trợ  帮助
+giúp đỡ  帮忙
+tuổi trẻ 年轻
+thanh niên  年轻
+vận may 幸运
+dịp may  幸运
+làm gì  干吗
+kiến nghị 建议
+đề xuất 建议
+sáng kiến  建议
+em trai  弟弟
+rất nhiều  很多
+rất nhanh  很快
+luật sư  律师
+phía sau 后面
+đằng sau  后面
+đạt được 得到
+nhận được  得到
+chưa hề 从来
+từ trước tới nay  从来
+chưa bao giờ 从没
+không bao giờ  从没
+cần thiết 必要
+thiết yếu  必要
+nhất định phải 必须
+nhất thiết phải  必须
+quên  忘记
+vui vẻ  快乐
+thế nào 怎样
+ra sao  怎样
+thế nào 怎么
+sao 怎么
+như thế  怎么
+tình hình 情况
+tình huống  情况
+tưởng tượng  想像
+nghĩ đến  想到
+nghĩ   想想
+cách nghĩ 想法
+ý nghĩ  想法
+ý 意思
+ý nghĩa  意思
+ý nghĩa  意义
+cảm thấy 感到
+thấy  感到
+cảm giác 感觉
+cảm thấy 感觉
+cho rằng  感觉
+cảm tạ 感谢
+cảm ơn  感谢
+nên 应该
+cần phải  应该
+thành công  成功
+trở thành 成为
+biến thành  成为
+chúng tôi  我们
+có lẽ 或者
+hoặc 或者
+hoặc là  或者
+có thể 或许
+có lẽ 或许
+hay là  或许
+nhà 房子
+cái nhà  房子
+phòng 房间
+gian phòng  房间
+cho nên 所以
+sở dĩ 所以
+nguyên cớ  所以
+sở hữu 所有
+tất cả 所有
+toàn bộ  所有
+điện thoại di động  手机
+phẫu thuật  手术
+dự định 打算
+dự kiến  打算
+mở ra  打开
+tìm thấy  找到
+thừa nhận  承认
+bắt được  抓住
+túm được  抓住
+bỏ phiếu  投票
+không phải 抱歉
+ân hận 抱歉
+có lỗi  抱歉
+xin nhờ 拜托
+kính nhờ  拜托
+tiếp nhận  接受
+tiếp thu 接受
+nhận  接受
+khống chế  控制
+nói dối 撒谎
+bịa đặt  撒谎
+có  拥有
+lo lắng 担心
+không yên tâm 担心
+lo âu  担心
+ủng hộ  支持
+nhận được  收到
+thay đổi 改变
+sửa đổi  改变
+bỏ cuộc 放弃
+từ bỏ  放弃
+thả lỏng 放松
+buông lỏng 放松
+lơ là  放松
+chính phủ  政府
+câu chuyện  故事
+toàn bộ 整个
+tất cả 整个
+cả thay  整个
+tin tức thời sự 新闻
+việc mới xảy ra  新闻
+phương thức 方式
+cách thức 方式
+kiểu  方式
+phương pháp 方法
+cách làm  方法
+buổi sáng  早上
+ngày mai 明天
+mai đây  明天
+rõ ràng 明白
+công khai 明白
+hiểu biết  明白
+tuần lễ 星期
+ngày thứ 星期
+chủ nhật 星期
+hôm qua  昨天
+tối hôm qua  昨晚
+phải chăng 是否
+hay không  是否
+tựa như 是的
+giống như  是的
+thời gian 时候
+lúc 时候
+khi  时候
+thời gian 时间
+khoảng thời gian  时间
+buổi tối 晚上
+ban đêm  晚上
+ngủ ngon  晚安
+trải qua 曾经
+đã trải  曾经
+cuối cùng 最后
+sau cùng  最后
+dạo này 最近
+gần đây  最近
+có một số 有些
+một ít 有些
+vài phần  有些
+có người 有人
+có ai  有人
+có hứng  有趣
+liên quan 有关
+hữu quan  有关
+có chút  有点
+bạn bè 朋友
+bằng hữu  朋友
+mai sau 未来
+sau này 未来
+tương lai  未来
+ban đầu 本来
+trước đây 本来
+lẽ ra 本来
+đáng lẽ  本来
+đông tây 东西
+đồ vật  东西
+căn bản 根本
+chủ yếu 根本
+trước giờ  根本
+bàn 案子
+bàn dài 案子
+vụ án 案子
+án kiện  案子
+rất 极了
+cực  极了
+hình dáng 样子
+dáng vẻ  样子
+cơ hội 机会
+dịp 机会
+thời cơ  机会
+kiểm tra  检查
+hoan nghênh 欢迎
+chào mừng  欢迎
+đang  正在
+thường thường  正常
+vũ khí  武器
+chết 死亡
+tử vong  死亡
+mẹ 母亲
+mẫu thân  母亲
+mỗi cái  每个
+mỗi ngày  每天
+thi đấu 比赛
+đấu  比赛
+tương đối  比较
+vĩnh viễn 永远
+mãi mãi  永远
+quyết định  决定
+không có 没有
+không bằng 没有
+chưa  没有
+trị liệu 治疗
+chữa trị  治疗
+quan tòa  法官
+tòa án  法官
+chú ý  注意
+tin tức 消息
+thông tin  消息
+thằng khốn 混蛋
+khốn nạn  混蛋
+rõ ràng 清楚
+tinh tường 清楚
+hiểu rõ  清楚
+chuẩn bị 准备
+dự định  准备
+đẹp 漂亮
+xinh xắn  漂亮
+để 为了
+vì 为了
+không còn cách nào  无法
+sau đó 然后
+tiếp đó  然后
+bức ảnh 照片
+bức hình  照片
+chăm sóc  照顾
+cha mẹ  父母
+phụ thân 父亲
+bố 父亲
+cha 父亲
+ba  父亲
+bố 爸爸
+cha 爸爸
+ông già  爸爸
+đặc biệt  特别
+phạm tội  犯罪
+phạm lỗi  犯罪
+đùa  玩笑
+bây giờ  现在
+hiện trường  现场
+lý do  理由
+hiểu biết  理解
+thậm chí  甚至
+sinh mệnh 生命
+mạng sống  生命
+buôn bán 生意
+làm ăn 生意
+sức sống 生意
+nảy nở  生意
+sinh nhật  生日
+ngày sinh  生日
+tức giận 生气
+giận dỗi  生气
+đời sống 生活
+cuộc sống 生活
+sinh hoạt  生活
+đàn ông 男人
+nam nhân  男人
+con trai  男孩
+lưu lại  留下
+lúc đó 当时
+khi đó 当时
+lập tức 当时
+ngay  当时
+đương nhiên 当然
+tất nhiên 当然
+dĩ nhiên  当然
+người bệnh  病人
+đau khổ 痛苦
+thống khổ  痛苦
+điên rồ  疯狂
+phát hiện 发现
+tìm ra 发现
+phát giác  发现
+sinh ra 发生
+xảy ra 发生
+sản sinh  发生
+thề 发誓
+lời thề 发誓
+xin thề  发誓
+ngớ ngẩn 白痴
+thằng ngốc  白痴
+đích thực  的确
+nhà tù 监狱
+nhà giam 监狱
+nhà lao  监狱
+mục tiêu  目标
+mãi đến 直到
+cho đến 直到
+tận đến  直到
+trực tiếp  直接
+tin tưởng 相信
+tin  相信
+xem ra  看来
+nhìn thấy  看到
+xem xét 看看
+xem  看看
+thấy 看见
+trông thấy 看见
+nhìn thấy  看见
+rõ là 真是
+thật là 真是
+chân chính  真正
+thật mà  真的
+đôi mắt  眼睛
+ngủ  睡觉
+biết 知道
+hiểu 知道
+rõ  知道
+xác định 确定
+khẳng định  确定
+xác thực 确实
+chính xác  确实
+món quà 礼物
+quà  礼物
+bí mật  秘密
+đột nhiên  突然
+thứ nhất 第一
+hạng nhất 第一
+quan trọng nhất  第一
+thứ hai (chỉ số thứ tự)  第二
+vânvân 等等
+chờ một chút  等等
+tiết mục 节目
+chương trình  节目
+đơn giản  简单
+quả là 简直
+tưởng chừng 简直
+dứt khoát  简直
+tinh thần  精神
+hỏng bét 糟糕
+gay go  糟糕
+hệ thống  系统
+hẹn hò 约会
+hẹn gặp  约会
+new york  纽约
+cuối cùng  终于
+tổ chức  组织
+kết hôn  结婚
+kết thúc 结束
+chấm dứt  结束
+kết quả  结果
+tuyệt đối  绝对
+từng trải 经历
+trải qua 经历
+những việc trải qua  经历
+lo lắng 紧张
+hồi hộp  紧张
+luôn luôn  总是
+lúc nào cũng  总是
+tổng thống  总统
+tiếp tục  继续
+tiếp tục 继续
+kéo dài 继续
+kế thừa 继续
+tiếp nối  继续
+đô la mỹ  美元
+nước mỹ  美国
+anh bạn 老兄
+ông anh  老兄
+giáo viên  老师
+suy nghĩ 考虑
+suy xét 考虑
+cân nhắc  考虑
+mà còn 而且
+với lại  而且
+mà thôi  而已
+liên hệ  联系
+thông minh  聪明
+âm thanh 声音
+tiếng động  声音
+nghe được  听到
+nghe nói  听说
+khẳng định 肯定
+quả quyết 肯定
+chắc chắn  肯定
+năng lực 能力
+khả năng  能力
+đủ  能够
+tự mình 自己
+mình  自己
+tự do  自由
+chí ít 至少
+ít nhất  至少
+hứng thú 兴趣
+thích thú  兴趣
+xử lí 处理
+giải quyết  处理
+hành động  行动
+hành vi  行为
+quần áo 衣服
+trang phục  衣服
+biểu diễn  表演
+thể hiện 表现
+tỏ ra  表现
+bên trong 里面
+trong  里面
+yêu cầu  要求
+nhìn thấy 见到
+gặp mặt  见到
+thân ái 亲爱
+thân thiết 亲爱
+thương yêu  亲爱
+cảm thấy 觉得
+thấy rằng  觉得
+giải quyết  解决
+giải thích  解释
+kế hoạch 计划
+lập kế hoạch  计划
+đáng ghét 讨厌
+ghét  讨厌
+ghi nhớ  记住
+nhớ 记得
+nhớ lại 记得
+còn nhớ  记得
+ghi lại  记录
+ghi chép  记录
+thử  试试
+đáng chết 该死
+chết tiệt  该死
+cho rằng 认为
+cho là  认为
+nhận biết 认识
+biết 认识
+nhận thức  认识
+nói chuyện 说话
+trò chuyện 说话
+lời nói  说话
+điều tra  调查
+bàn về 谈谈
+thảo luận  谈谈
+mưu sát  谋杀
+cám ơn  谢谢
+chứng cứ 证据
+bằng chứng  证据
+chứng minh  证明
+cảnh sát  警察
+biến thành 变成
+trở thành  变成
+phụ trách  负责
+đứng dậy 起来
+nổi dậy 起来
+vùng lên  起来
+nhảy múa  跳舞
+trên cơ thể 身上
+trên người  身上
+bên cạnh 身边
+bên mình  身边
+thân thể 身体
+cơ thể  身体
+cách 办法
+biện pháp  办法
+những…này  这些
+cái này 这个
+việc này  这个
+ở đây 这儿
+chỗ này 这儿
+lúc này 这儿
+bây giờ  这儿
+như vậy 这样
+thế này  这样
+lần này  这次
+kiểu này 这种
+loại này  这种
+ở đây  这里
+bên này  这边
+như thế 这么
+như vậy 这么
+thế này  这么
+thông qua  通过
+gần đây 进来
+vừa qua  进来
+tiến vào 进入
+bước vào 进入
+đi vào  进入
+vào  进去
+tiến hành  进行
+gặp phải 遇到
+bắt gặp  遇到
+trò chơi  游戏
+đủ 过来
+quá 过来
+đến 过来
+qua đây  过来
+đã qua 过去
+đi qua  过去
+nhận lỗi 道歉
+chịu lỗi  道歉
+tuyển thủ 选手
+thí sinh  选手
+lựa chọn 选择
+tuyển chọn  选择
+vẫn 还是
+vẫn còn 还是
+không ngờ 还是
+hoặc  还是
+vẫn còn  还有
+còn muốn 还要
+vẫn muốn  还要
+những ấy 那些
+những đó 那些
+những kia  那些
+cái đó 那个
+việc ấy 那个
+ấy  那个
+chỗ ấy 那儿
+nơi ấy 那儿
+lúc ấy 那儿
+bây giờ  那儿
+hôm đó  那天
+lúc đó 那时
+khi đó  那时
+như vậy 那样
+như thế  那样
+loại đó  那种
+chỗ ấy 那里
+chỗ đó 那里
+nơi ấy  那里
+bên kia 那边
+bên ấy  那边
+như thế  那么
+bộ phận  部分
+bác sĩ 医生
+thầy thuốc  医生
+bệnh viện  医院
+lại lần nữa 重新
+làm lại từ đầu  重新
+trọng yếu 重要
+quan trọng  重要
+sai lầm 错误
+lỗi lầm 错误
+lệch lạc  错误
+chìa khóa  钥匙
+quan trên 长官
+quan lớn  长官
+bắt đầu 开始
+lúc đầu  开始
+vui vẻ  开心
+mở súng  开枪
+quan hệ 关系
+liên quan đến  关系
+quan tâm  关心
+về  关于
+ngăn trở 阻止
+ngăn cản  阻止
+ngoài ra 除了
+trừ ra  除了
+trừ khi 除非
+ngoài ra  除非
+tùy tiện 随便
+tùy 随便
+tùy ý 随便
+bất cứ  随便
+mặc dù  虽然
+rời khỏi 离开
+tách khỏi 离开
+ly khai  离开
+thảo nào 难道
+lẽ nào  难道
+điện ảnh 电影
+phim  电影
+ti vi 电视
+vô tuyến  电视
+máy điện thoại 电话
+điện thoại  电话
+cần 需要
+yêu cầu  需要
+bất thường 非常
+rất 非常
+vô cùng  非常
+âm nhạc  音乐
+tóc  头发
+vui lòng 愿意
+bằng lòng 愿意
+hy vọng  愿意
+hiển nhiên  显然
+máy bay 飞机
+phi cơ  飞机
+đầu tiên  首先
+lập tức 马上
+tức khắc  马上
+vui vẻ 高兴
+vui mừng 高兴
+phấn chấn 高兴
+thích  高兴
+phiền phức 麻烦
+rắc rối  麻烦
+kế toán  会计
+kiến trúc  建筑
+xây dựng  建造
+thương mại  商科
+địa lý  地理
+thiết kế và nghệ thuật  设计和工艺
+luật  法律
+toán học  数学
+hộ lý  护理
+thể thao  体育
+nghệ thuật  艺术
+văn học cổ  古文学
+kịch  戏剧
+mỹ thuật  美术
+lịch sử  历史
+mỹ thuật lịch sử  美术历史
+văn học  文学
+ngôn ngữ hiện đại  现代语言
+âm nhạc  音乐
+triết học  哲学
+thần học  神学
+thiên văn học  天文学
+sinh học  生物
+hóa học  化学
+công nghệ thông tin  计算机科学
+nha khoa  牙医学
+công trình học  工程学
+mỏ địa chất  地质学
+y học  医科
+vật lý  物理
+khoa học tự nhiên  理科
+thú y  兽医
+khảo cổ học  考古学
+kinh tế  经济
+báo chí tuyên truyền  传媒学
+chính trị  政治
+tâm lí học  心理学
+nghiên cứu vấn đề xã hội  社会研究
+xã hội học  社会学
+nghiên cứu tôn giáo  宗教研究
+giáo dục giới tín  性教育
+thức giấc 睡醒
+tỉnh giấc  睡醒
+ngủ dậy  起床
+đi tắm  去浴室
+tắm gội  淋浴
+đánh răng  刷牙
+rửa mặt  洗脸
+mặc quần áo  穿衣服
+nghe nhạc  听
+đọc báo  看报纸
+ăn sáng  吃早餐
+đến trường  去学校
+đi làm  去上班
+ăn trưa  吃午饭
+về nhà  回家
+nấu cơm tối  做晚饭
+gọi điện thoại cho bạn 打电话给朋友
+lên mạng 上网
+chơi game 玩电脑游戏
+thường xuyên 经常
+thông thường 通常
+có lúc 有时
+thỉnh thoảng 有时
+quyết không 决不
+thông thường tôi 7h ngủ dậy. 我一般7点起床。
+vì là chủ nhật, nên tôi 8h30 mới ngủ dậy. 因为是星期天，所以我8:30起床。
+bình thường buổi sáng tôi rửa mặt đánh răng vào 7h15. 我一般在早晨7:15洗脸刷牙。
+tôi thường ăn sáng vào 7h30. 我一般上午7:30吃早餐。
+tôi thường ăn một quả trứng, uống sữa và ăn quýt. 我经常吃1个鸡蛋，牛奶和桔子。
+tôi đi xe buýt đi làm. 我搭巴士上班。
+tôi đi xe buýt đi học. 我搭巴士上学。
+tôi thường lái xe đi làm. 我经常开车去上班。
+sau khi ăn trưa tôi thích ngủ một giấc. 午饭后我喜欢小睡一会儿。
+có lúc tôi không làm gì. 有时候我什么也不做。
+tôi thực sự thích nấu nướng. 我真的很喜欢烹饪。
+lúc tôi nghỉ ngơi thư giãn thường nghe cd nhạc. 我放松休息的时候经常听cd。
+mỗi buổi tối tôi đều đi dạo bộ. 我每天晚上都去散步。
+buổi tối hàng ngày tôi đều xem bản tin thời sự trên đài truyền hình trung ương. 我每天晚上看中央电视台新闻报道。
+tôi tắm vào 9h tối. 我晚上9点洗澡。
+tôi lên mạng đọc tin tức. 我上网看新闻。
+10h tối tôi đi ngủ. 我晚上10点睡觉。
+máy tính điện tử  电子计算机
+máy tính tương tự  模拟计算机
+máy tính số  数字计算机
+máy tính quang học  光学计算机
+máy tính đục lỗ  穿孔计算机
+thiết bị đầu cuối  终端计算机
+máy tính phóng sinh  仿生计算机
+máy tính cỡ lớn  巨型计算机
+siêu máy tính  超级计算机
+máy tính cỡ trung  中型计算机
+máy vi tính  微型计算机
+bộ vi xử lý  微处理机
+máy tính cá nhân  家用计算机
+máy tính xách tay  笔记本电脑移动
+máy server 服务器
+máy chủ  服务器
+máy trợ giúp kỹ thuật số 个人数字助理
+máy pda  个人数字助理
+máy palm-top 掌上电脑
+hand-held  掌上电脑
+ngôn ngữ máy tính  计算机语言
+ngôn ngữ fortran  公式翻译程序语言
+ngôn ngữ nhân tạo  人工语言
+ngôn ngữ thông minh nhân tạo  人工智能语言
+ngôn ngữ toán học 算法语言
+ngôn ngữ algol  算法语言
+thiết bị xử lý số liệu bằng điện tử  电子数据处理机
+máy đục lỗ chữ cái  字母穿孔机
+máy bấm thẻ  打卡机
+trí thức máy tính  计算机知识
+khoa học máy tính  计算机科学
+người làm công tác máy tính  计算机工作者
+chuyên gia máy tính  计算机专家
+người say mê máy tính  计算机迷
+chương trình  程序
+chương trình chính 主程序
+thường trình chính  主程序
+chương trình con 子程序
+thường trình con  子程序
+vi trình  微程序
+lập trình  程序设计
+dữ liệu  资讯
+số liệu 数据
+dữ liệu  数据
+bảng dữ liệu  数据表
+cơ sở dữ liệu 数据库
+ngân hàng dữ liệu  数据库
+tập dữ liệu  数据集
+an toàn dữ liệu  数据安全
+xử lý dữ liệu  数据处理
+ghi chép số liệu  数据登录
+máy ghi chép số liệu  数据记录器
+thông tin 信息
+thông điệp  信息
+mã hóa thông tin  信息编码
+biến đổi thông tin  信息变换
+xử lý thông tin  信息处理
+truyền tin  信息传送
+lưu giữ thông tin  信息存储
+phản hồi thông tin  信息反馈
+thu lượm thông tin  信息检索
+trao đổi thông tin  信息交换
+lượng thông tin  信息量
+hệ thống thông tin  信息系统
+ô 单元
+khối 单元
+ô nhớ  单元
+kênh  通道
+ký tự  字符
+lệnh  指令
+vi lệnh  微指令
+công năng 功能
+chức năng 功能
+hàm  功能
+phím chức năng  功能键
+thiết bị đầu cuối  终端
+đĩa mềm  软磁盘
+đĩa cứng  硬磁盘
+thiết bị điều khiển 控制器
+mạch điều khiển  控制器
+bàn chỉ huy 控制台
+bàn giao tiếp người máy  控制台
+chương trình mồi khởi động 引导装入程序
+chương trình mồi ban đầu  引导装入程序
+lượng bộ nhớ  存储量
+thiết bị lưu trữ  存储设备
+bộ nhớ 存储器
+bộ tích lũy 存储器
+thanh tổng  存储器
+thiết bị tính 计数器
+thiết bị đo thời gian  计时器
+bộ xử lý trung ương 中央处理器
+bộ xử lý trung tâm  中央处理器
+thanh ghi  寄存器
+dung lượng thanh ghi  寄存器容量
+thao tác máy tính  计算机操作
+hệ điều hành  操作系统
+hệ điều hành windows  视窗操作系统
+giao diện người dùng  用户界面
+nút lệnh 按钮
+nút bấm  按钮
+giấy dán tường  墙纸
+desktop 桌面
+bàn làm việc  桌面
+tập tin  文件
+gỡ rối  调试
+nhập liệu  输入
+chương trình nhập liệu  输入程序
+thâu thập thông tin  输入信息
+kết xuất  输出
+chương trình ra 输出程序
+chương trình kết xuất  输出程序
+phần mềm  软件
+chương trình phần mềm  软件程序
+thiết kế phần mềm  软件设计
+phần cứng  硬件
+thiế kế phần cứng  硬件设计
+con chuột  鼠标
+phím mềm  软键
+bàn phím  键盘
+bàn phím mềm  软键盘
+cáp điện máy tính  计算机电缆
+đầu cắm của máy tính  计算机插头
+ổ cắm của máy tính  计算机插口
+mã 代码
+mật mã  代码
+mã big 5 大五码
+đại ngũ mã  大五码
+vi mã  微代码
+mã quốc gia  国家代码
+mã quốc tế  国际号码
+thay đổi 代码转换
+chuyển hoán 代码转换
+đổi mã 代码转换
+chuyển mã  代码转换
+toán tử and  与
+toán tử not  非
+toán tử nand  与非
+toán tử or  或
+trình bày 版面编排
+bố trí 版面编排
+xếp đặt  版面编排
+ký hiệu bách phân  百进位符号
+tỷ lệ phần trăm 百分比
+ký hiệu tỉ lệ phần trăm  百分比符号
+(động tác) gõ phím 按键
+nhấn phím  按键
+thao tác theo từng bước  按步操作
+thiết lập 安排
+cài đặt 安排
+lập biểu  安排
+máy in  打印机
+máy in laser  激瓠
+máy in laser  激光打印机
+máy in phun  彩喷
+máy in phun  针打喷墨打印机
+xử lý từ 文字信息处理
+xử lý văn bản  文字信息处理
+chương trình xử lý văn bản  文字信息处理机
+thiết bị ngoại vi  外围设备
+nguồn điện  电源
+hệ thống nguồn điện  电源系统
+bộ lưu điện 不间断电源
+ups  不间断电源
+giám sát  监督
+chương trình giám sát  监督程序
+máy (thiết bị) giám sát  监测器
+màn hình  显示器
+máy chính 主机
+máy tính lớn  主机
+máy chủ 主机计算机
+máy tính lớn  主机计算机
+đĩa từ  磁盘
+ổ đĩa cd  光驱
+đĩa quang  光盘
+ổ đĩa mềm  软驱
+ổ đĩa mềm  软磁盘驱动器
+đĩa mềm  软盘
+ổ đĩa cứng  硬磁盘驱动器
+đĩa cứng  硬盘
+thẻ nhớ 闪盘
+flash memory  闪盘
+cd-rom  只读光盘
+dvd-rom  高密度只读光盘
+đĩa cd-r  可录光盘
+đĩa cd-rw  可重写光盘
+đĩa cd 音频压缩光盘
+đĩa nhạc  音频压缩光盘
+đĩa vcd 视频压缩光盘
+đĩa hình  视频压缩光盘
+đĩa dvd  数字式激光视频光盘
+băng cassette  磁带
+thẻ từ  磁卡
+phần sụn 固件
+vi chương trình 固件
+chương trình cơ sở  固件
+phần mềm basic  初学者通用符号指令码
+nhãn 标号
+mác  标号
+tiêu đề  标题
+mô phỏng người  人的模拟
+độ thông minh của người  人的智能
+thao tác nhân tạo  人工操作
+trí tuệ nhân tạo  人工智能
+hệ thống người máy  人机系统
+địa chỉ  地址
+mật mã địa chỉ  地址代码
+card 卡片
+thẻ  卡片
+chương trình card  卡片程序
+mật mã card  卡片代码
+phân loại card  卡片分类
+mục lục card  卡片目隶
+hợp ngữ  汇编
+chương trình hợp ngữ  汇编程序
+hợp ngữ  汇编语言
+xử lý theo lô  成批处理
+mạng máy tính  计算机网络
+mạng đô thị 城域网
+man  城域网
+mạng diện rộng 广域网
+wan  广域网
+mạng cục bộ 局域网
+mạng lan  局域网
+mạng internet  因特网
+siêu liên kết 超链接
+hyperlink  超链接
+băng thông  带宽
+thư điện tử 电子函件
+email  电子函件
+thư điện tử 电子邮件
+email  电子邮件
+chữ ký điện tử  电子签名
+thương mại điện tử  电子商务
+sách điện tử  电子图书
+trò chơi điện tử  电子游戏
+đa phương tiện  多媒体
+bức tường lửa  防火墙
+tin tặc 黑客
+hacker  黑客
+virus máy tính  计算机病毒
+phòng tán gẫu trên mạng  聊天室
+trình duyệt 浏览器
+lên mạng  上网
+tải lên 上载
+www 万维网
+world wide web 万维网
+card mạng  网卡
+an toàn trên mạng  网络安全
+điện thoại internet  网络电话
+hội nghị qua mạng  网络会议
+trang web  网页
+website  网站
+địa chỉ mạng  网址
+tải xuống 下载
+tên miền  域名
+trang chủ  王贞
+học  学
+trường học  学校
+hiệu trưởng  校长
+học kỳ  学期
+dạy  教
+sách  书
+dạy học  教书
+đi học 读书
+đọc sách  读书
+thầy giáo 老师
+cô giáo  老师
+giáo viên  教师
+học sinh  学生
+giảng viên  讲师
+giáo sư  教授
+phó giáo sư  副教授
+phòng  室
+bài vở  功课
+thành tích  成绩
+vạn lý trường thành  万里长城
+thiên an môn  天安门
+cố cung 故宫
+di hòa viên  颐和园
+bến thượng hải  上海滩
+vườn dự viên  豫园
+ba lô du lịch  徒步旅行背包
+bản đồ du lịch loại gấp  折叠式旅行地图
+bình nước du lịch  旅行壶
+giày leo núi  登山鞋
+hộ chiếu du lịch  旅游护照
+hộp cấp cứu  急救箱
+đại sảnh  大厅
+đặt phòng đơn  订单间
+đặt phòng theo đoàn  订一个团的房
+đặt phòng trực tiếp  直接订房
+điểm tâm  点心
+điện thoại nội bộ  内线
+điện thoại quốc tế  国际电话
+giảm giá  减价
+lễ tân  柜台
+nhân viên dọn phòng  查房员
+phòng hạng sang  高级间
+thẻ phòng  电脑房门卡
+thương mại đường biển  海运贸易
+cảng tự do  自由港
+cảng nhập khẩu  进口港
+cửa khẩu thông thương 通商口岸
+cửa khẩu thương mại  通商口岸
+thị trường thế giới  世界市场
+hàng xuất khẩu  出口货物
+hàng hóa nhập khẩu  进口商品
+trung tâm mậu dịch thế giới  世界贸易中心
+hội chợ giao dịch hàng hóa  商品交易会
+thuế nhập khẩu  进口税
+thuế xuất khẩu  出口税
+sản xuất trong nướ  本国制造的
+nến giáng sinh  圣诞蜡烛
+ống khói  烟囱
+thiếp chúc mừng giáng sinh  圣诞贺卡
+đồ trang trí giáng sinh  圣诞饰品
+quần áo noel 精灵
+trang phục noel  精灵
+cây tầm gửi  槲寄生
+cây thông noel  槲寄生
+tuần lộc  驯鹿
+vòng hoa giáng sinh  圣诞花环
+gậy kẹo  糖果手杖
+tất giáng sinh  圣诞袜
+đồ uống  饮料
+muỗng  勺
+dao  刀
+nĩa  叉
+ly 杯子
+cốc  杯子
+đĩa  盘子
+đĩa để lót tách  茶碟
+tách trà  茶杯
+lọ tiêu  胡椒摇瓶
+lọ muối  盐瓶
+nướng 烤
+quay  烤
+chiên  油炸的
+valentine  情人节
+sô-cô-la  巧克力
+hẹn hò  约会
+cầu hôn  求婚
+hoa hồng  玫瑰花
+trái tim  心
+nước hoa  香水
+người yêu  爱人
+tình đầu  初恋
+kẹo  糖果
+thần tình yêu cupid  爱神丘比特
+tiếng sét ái tìn  一见钟情
+âm nhạc cổ điển  古典音乐
+bài hát được yêu thích  流行歌曲
+bài hát ru  摇篮曲
+ban nhạc chuyên nghiệp  专业乐队
+ban nhạc jazz  爵士乐队
+ban nhạc rock  摇滚乐队
+bản nhạc cầu siêu  安魂曲
+buổi hòa nhạc  音乐会
+buổi liên hoan 独唱独奏音乐会
+văn nghệ có đơn ca 独唱独奏音乐会
+độc tấu  独唱独奏音乐会
+ca sĩ  歌唱演员
+dạ khúc  夜曲
+dân ca  民歌
+công ty bảo hiểm  保险公司
+loại hình bảo hiểm  保险类别
+bảo hiểm an toàn du lịch  旅行平安保险
+bảo hiểm bãi công  罢工保险
+bảo hiểm bán buôn  批发保险
+bảo hiểm bảo đảm đầu tư  投标保证保险
+bảo hiểm bảo đảm người được ủy thác  受托人保证保险
+bảo hiểm bảo đảm ở toàn án  法庭保证保险
+bảo hiểm bảo đảm thuế quan  关税保证保险
+bảo hiểm bằng 执照保险
+bảo hiểm bệnh tật  疾病保险
+bảo hiểm cháy nổ  爆炸保险
+tuyến xe buýt  公交线路
+xe du lịch  游览车
+taxi  出租车
+xe khách loại nhỏ  小客车
+xe ô tô  轿车
+bến xe taxi  出租车站
+bãi đỗ xe  车场
+bến đỗ xe buýt  公共汽车停靠站
+trạm chờ xe  招呼站
+nơi xuống xe  车下处
+nhân viên bán vé  售票员
+nhân viên soát vé  查票员
+áo khoác nỉ dày  候呢大衣
+áo len cổ chui  羊毛套衫
+áo sơ mi  衬衫
+áo thun  体恤衫
+âu phục  西装
+quần bò  牛仔裤
+váy liền áo bó  紧身连衣裙
+váy yếm  围兜裙
+cà vạt  领带
+thắt lưng  裤带腰带
+găng tay  手套
+khăn quàng cổ  围巾
+ngày lễ  节日
+ngày quốc tế lao động  国际劳动节
+nghỉ lễ  放假
+năm mới  新年
+tết nhi đồng  儿童节
+ngày quốc khánh  国庆节
+tết đoan ngọ  端午节
+tết trung thu  中秋节
+tết nguyên tiêu  元宵节
+tết thanh minh  清明节
+ngày phụ nữ  妇女节
+ngày nhà giáo  教师节
+chào giá  询盘
+hỏi giá  发盘
+người chào giá  实盘
+công ty  公司
+thị trường  市场
+xí nghiệp 企业
+doanh nghiệp  企业
+đầu tư  投资
+ngân hàng  银行
+đô la mỹ  美元
+vốn  资金
+kinh doanh 业务
+nghiệp vụ  业务
+tăng trưởng  增长
+thuốc an thần  镇静剂
+bổ máu  补血药
+cầm máu  止血的
+chữa bệnh lao  治肺病药
+chống viêm  防炎药
+cao dán  糊剂
+dầu khuynh diệp  桉树油
+diệt côn trùng  杀混剂
+đắp vết thương  温布
+đau mắt  眼药
+gây tê  麻醉药
+giảm đau  止痛药
+thuê  租借
+hợp đồng thuê  租约
+người thuê  租户
+thời hạn thuê  租借期
+tăng giá thuê  涨租
+giảm giá thuê  减租
+miễn phí  免租
+chuyển nhà cho người khác thuê  转租
+nợ tiền thuê  欠租
+tiền cược 押租
+tiền thế chấp  押租
+tiền thuê nhà  房租
+trả tiền thuê  付租金
+hà nội  河内市
+đà nẵng  岘港市
+thành phố hồ chí minh  胡志明市
+thừa thiên huế  承天顺化省
+thành phố hải phòng  海防市
+cần thơ  芹苴
+cà mau  金瓯省
+bạc liêu  薄寮省
+vĩnh long  永龙省
+kiên giang  坚江省
+tiền giang  前江省
+bà rịa vũng tàu  巴地头顿省
+biên lai gửi tiền  存款收据
+chế độ tiền tệ quốc tế  国际货币制度
+chi nhánh ngân hàng  银行分行
+chi phiếu 支票
+séc  支票
+chiết khấu ngân hàng  银行贴现
+chu kì kinh tế  经济周期
+chứng thực  背书
+công ty ủy thác  信托公司
+cổ phiếu  股票
+công trái  公债
+đổi tiền mặt  兑现
+đồng tiền tăng giá  货币增值
+áo cứu hộ  救生背心
+bánh lái  驾驶轮
+bay lên cao  爬升
+băng chuyền hành lí  行李传送带
+buồng lái  驾驶舱
+cánh quạt  螺旋桨
+cần lái  驾驶杆
+cất cánh  起飞
+cầu thang lên máy bay  登机梯
+chuyến bay sai giờ  航班不正点
+công ty hàng không  航空公司
+cơ trưởng  机长
+bi hài kịch  悲喜剧
+buổi đọc kịch bản  剧本朗诵会
+chào hạ màn  谢幕礼
+chính kịch  正剧
+diễn thử có hóa trang  彩排
+độc thoại  独白
+hạ màn，bế mạc  落幕
+kéo màn  幕起
+kịch câm  哑剧
+lên sân khấu  登场
+lời thoại kết  收场白
+lời thoại mở màn  开场白
+bán ra  出售
+hợp đồng (khế ước)  契约
+gia hạn khế ước 续约
+vi phạm hợp đồng 违约
+bàn về hợp đồng 洽谈契约
+bên a trong hợp đồng 契约甲方
+bên b trong hợp đồng 契约乙方
+hợp đồng bắt đầu có hiệu lực 契约生效
+hợp đồng 合同
+viết làm hai bản (một kiểu)  一式两份
+hợp đồng viết làm hai bản 一式两份的合同
+viết làm ba bản 一式三分
+hợp đồng viết làm ba bản 一式三分的合同
+bản sao 副本
+quyền sở hữu 所有权
+hiện trạng quyền sở hữu 所有权状
+tài sản nhà nước 国有财产
+tài sản tư nhân 私有财产
+nhân chứng 证人
+người mối lái (môi giới)  经纪人
+người được nhượng 受让人
+người nhận đồ cầm cố 受押人
+người trông giữ nhà 照管房屋人
+giá bán 售价
+tiền đặt cọc 定金
+diện tích thực của căn phòng 房间净面积
+diện tích ở 居住面积
+giá qui định 国营牌价
+không thu thêm phí 不另收费
+xin thứ lỗi vì tôi không bán nữa 恕不出售
+lập tức có thể dọn vào 立可迁入
+chuyển nhượng 转让
+sang tên 过户
+chi (phí) sang tên 过户费
+đăng ký sang tên 过户登记
+không có quyền chuyển nhượng 无转让权
+trả tiền mang tính chuyển nhượng 转让性付款
+giấy chủ quyền nhà 房契
+bất động sản 房产
+chủ nhà 房主
+nền nhà 房基
+thiếu nhà ở 房荒
+thuế bất động sản 房产税
+thế chấp 抵押
+cầm cố 质押
+thế chấp 典押
+đơn xin thế chấp 质押书
+đã thế chấp ngôi nhà 已典押房屋
+bán nhà 变卖房屋
+bồi hoàn trước 先期偿还
+bất động sản 地产
+thuế nhà đất 地产税
+sổ ghi chép đất đai 土地清册的
+trưng mua đất đai 土地征购
+giá đất ở thành phố 都市地价
+tranh chấp nhà cửa 房屋纠纷
+hòa giải tranh chấp  调解纠纷
+một hộ 一户
+đơn nguyên (nhà)  单元
+một phòng một sảnh 一室一厅
+bốn phòng hai sảnh 四室二厅
+một căn hộ 一套房间
+căn hộ tiêu chuẩn 标准套房
+tầng hầm 地下室
+nhà cầu 联立房屋
+địa điểm 地点
+một khoảng đất 地段
+ngoại ô 郊区
+huyện ngoại thành 郊县
+khu vực nội thành 市区
+khu vực trong thành 城区
+trung tâm thành phố 市中心
+thành phố trung tâm 中心城市
+khu dân cư 住宅区
+cư xá 住宅区
+khu biệt thự 别墅区
+khu công viên 花园区
+khu thương mại 商业区
+khu nhà gỗ 木屋区
+khu dân nghèo 贫民区
+khu đèn đỏ (ăn chơi)  红灯区
+khu dân cư mới 新居住区
+vùng đất hoàng kim (vàng)  黄金地段
+khu nhà ở cho công nhân 工人住宅区
+khu nhà tập thể 公共住宅区
+nằm ở 坐落
+ở vào  位于
+hướng 朝向
+hướng đông 朝东
+hướng tây nam 朝西南
+hướng mặt trời  朝阳
+hướng nam 朝南
+hướng bắc 朝北
+nhà hướng tây 西晒房子
+phù hợp để ở 适居性
+điều kiện cư trú 居住条件
+khu dân cư 居民点
+ủy ban nhân dân 委员会
+môi trường đô thị 城市环境
+phát triển đô thị 城市发展
+qui hoạch đô thị 城市规划
+người thành phố 城里人
+đô thị hóa 城市化
+môi trường 环境
+môi trường xã hội 社会环境
+nhân vật nổi tiếng xã hội 社会名流
+sinh hoạt giao tiếp 社交生活
+trật tự xã hội 社会秩序
+trị an xã hội 社会治安
+đoàn thể xã hội 社团
+hội 社区
+bộ mặt đô thị 市容
+xây dựng chính quyền thành phố 市政建设
+mạng lưới điện thoại nội thành 市内电话网
+thiết bị tốt nhất 一流设备
+đi cửa riêng biệt 独立门户
+thông gió riêng biệt 独立通风
+hệ thống cung cấp điện và thắp sáng riêng 独立供电照明
+rộng rãi 宽敞
+giao thông công cộng 公共交通
+giao thông trong khu phố sầm uất 闹市交通
+tàu điện ngầm 地铁
+tuyến đường chính 交通要道
+tuyến giao thông chính 交通干线
+giao thông tiện lợi 交通便利
+điện thoại công cộng 公共电话
+trung tâm thể dục thẩm mỹ  健美中心
+phòng karaoke 卡拉厅
+trung tâm thương mại 购物中心
+siêu thị 超市
+trạm cấp cứu 急救站
+bồn hoa 花坛
+yên tĩnh 幽雅
+thanh nhã 幽雅
+yên tĩnh 幽静
+thắng cảnh 胜地
+nơi nghỉ mát 度假胜地
+nơi nghỉ đông nổi tiếng 避寒胜地
+khu đồi núi nổi tiếng 山区胜地
+nơi có bờ biển đẹp 海滨胜地
+bãi tắm biển 海滨浴场
+khu điều dưỡng bên bãi biển 海滨疗养院
+gió biển 海风
+hoa viên trên mái nhà 屋顶花园
+thuê 租借
+hợp đồng thuê 租约
+người thuê 租户
+thời hạn thuê 租借期
+tăng giá thuê 涨租
+giảm giá thuê 减租
+miễn phí 免租
+chuyển nhà cho người khác thuê 转租
+nợ tiền thuê 欠租
+tiền cược 押租
+tiền thế chấp 押租
+tiền thuê nhà 房租
+tiền thuê nhà còn chịu lại 房租过租
+hiệp định thuê mướn 租借协议
+tiền thuê 租金
+sổ tiền thuê  租金簿
+trả tiền thuê 付租金
+chứng từ tiền thuê 租金收据
+tiền thuê gồm cả tiền nước 租金包水电
+tiền đặt cọc 押金
+tiền thuê nhà trả trước 预付房租
+dùng để cho thuê 供租用
+cho thuê lại 转租出
+phòng trống 空房
+nhà này cho thuê 此屋招租
+phòng 房间
+phòng một người 单人房间
+phòng hai người 双人房间
+nơi ở 住宅
+nhà có ma  凶宅
+chung cư 公寓
+nhà nghỉ chung cư 公寓旅馆
+không có người ở 无人住
+chỗ ở 膳宿
+nhà để ăn và ở 供膳宿舍
+có dụng cụ gia đình 备家具
+không có dụng cụ gia đình 不备家具
+thời hạn cư trú 居住期限
+đến hạn 到期
+gia hạn 宽限日
+đuổi ra khỏi 逐出
+chủ nhà 房东
+lái nhà 二房东
+bà chủ nhà 房东太太
+khách thuê nhà 房客
+người thuê 租佣人
+cho người khác thuê lại 转租入人
+nơi ở không cố định 无固定住所
+ở nhờ 寄居
+trọ 旅居
+định cư 定居
+chuyển nhà 搬家
+bộ công an  公安部
+bộ trưởng công an  公安部长
+ty công an tỉnh  省公安厅
+giám đốc công an tỉnh  厅长
+phó giám đốc công an tỉnh  副厅长
+công an thành phố  市公安局
+giám đốc 局长
+cục trưởng 局长
+phó giám đốc 副局长
+phó cục trưởng 副局长
+công an huyện  县公安局
+công an phường  公安分局
+lực lượng cảnh sát  警方
+sĩ quan cảnh sát  警官
+cảnh sát  警察
+bộ đội cảnh sát  警察部队
+bộ đội trị an  治安部队
+tổ chức cảnh sát quốc tế  国际刑警组织
+dân cảnh  民警
+tuần cảnh  巡警
+cảnh sát đặc biệt  特警
+đồn cảnh sát  警署
+cục trưởng cảnh sát  警察局长
+đồn  派出所
+đồn trưởng  派出所所长
+cục phòng cháy chữa cháy  消防署
+phòng tạm giam  拘留室
+trạm tạm giam  拘留所
+trạm thu nhận  收容所
+phòng trao trả  遣返站
+phòng hành chính  行政科
+phòng trinh sát hình sự  刑事侦察科
+phòng cảnh vụ  警务科
+phòng trị an  治安科
+phòng quản lý giao thông  交通管理科
+phòng cấp phát hộ chiếu  护照签发科
+phòng đối ngoại  外事科
+phòng bảo vệ chính trị  政保科
+đại đội cảnh sát  警察大队
+đội hình sự  刑警队
+cảnh sát bảo vệ  门警
+cảnh sát võ trang  武装警察
+cảnh sát biên phòng  边防警察
+cảnh sát kinh tế  经济警察
+cảnh sát đường sắt  铁路警察
+cảnh sát chống bạo loạn  防暴警察
+cảnh sát mật  便衣警察
+hộ tịch viên  户籍警察
+cảnh sát giao thông  交通警察
+cảnh sát viên  侦察员
+sĩ quan quân cảnh  警察巡官
+sĩ quan cảnh sát  警长
+xe quân cảnh  警车
+xe quân cảnh tuần tra  巡逻警车
+*** nghiệp vụ  警犬
+quyền lực cảnh sát  警察权力
+ngành cảnh sát  警察部门
+tổ cảnh sát chống báo loạn  防暴警察小队
+xe mô tô cảnh sát  警用摩托车
+trực thăng cảnh sát  警用直升机
+chướng ngại vật  路障
+máy đo độ cồn  测醉器
+máy kiểm tra nói dối  测谎器
+in dấu vân tay  指纹印
+phù hiệu cảnh sát  警徽
+đồng phục cảnh sát  警察制服
+phù hiệu trên mũ  帽章
+phủ hiệu trên cổ áo  领章
+phù hiệu trên vai  肩章
+súng lục  手枪
+bao súng lục  手枪皮套
+dùi cui  警棍
+dùi cui điện  电警棍
+còi cảnh sát  警笛
+lá chắn chống bạo loạn  防暴盾牌
+bình xịt hơi cay  催泪瓦斯
+đạn cay  催泪弹
+lựu đạn cay  催泪手榴弹
+máy bộ đàm  步话机
+đăng ký hộ khẩu  户籍登记
+chứng minh thư  身份证
+giấy khai tử  死亡证明书
+bắt cóc  绑架
+tang vật  赃物
+tàng trữ tang vật  窝赃
+phi tang  销赃
+thư khủng bố  恐吓信
+thư nặc danh  匿名信
+thư vu cáo  匿名信
+thư tố giác  检举信
+đánh bạc  赌博
+đi ăn xin  行乞
+cưỡng dâm  强奸
+mưu sát  谋杀
+ám sát  暗杀
+lưu manh  流氓
+băng nhóm lưu manh  流氓团伙
+cao bồi  阿飞
+tên móc túi  扒手
+tên trộm  小偷
+tên trộm chuyên nghiệp  惯偷
+kẻ gây rối  聚众闹事者
+tên lừa lọc  拐骗者
+kẻ cố ý gây hỏa hoạn  纵火者
+kẻ buôn lậu  走私者
+gái điếm  妓女
+gái mát-xa  按摩女郎
+gái hát phòng trà  歌妓
+ma cô (kẻ dắt gái)  拉皮条者
+gái gọi  应召女郎
+băng nhóm mại dâm  卖淫团伙
+khách làng chơi  嫖客
+chơi ma túy  吸毒
+kẻ nghiện ma túy  吸毒者
+mua bán ma túy  毒品买卖
+lừa gạt  敲诈
+kẻ buôn ma túy  毒品贩子
+thổ phỉ  土匪
+cướp  强盗
+tướng cướp  强盗头子
+kẻ xấu  歹徒
+tên lừa đảo  骗子
+kẻ làm dấu giả  私刻公章者
+giám định nét chữ  笔迹鉴定
+cảnh cáo 警告
+nhắc nhở 警告
+biển báo giao thông  交通标志
+đèn xanh đèn đỏ  红绿灯
+chỉ huy (quản lý) giao thông  交通管制
+luật giao thông  交通规则
+giao thông một chiều  单向交通
+giao thông hai chiều  双向交通
+ùn tắc giao thông  交通阻塞
+tai nạn giao thông  交通事故
+tai nạn xe cộ  车祸
+phạm lụât giao thông  违反交通规则
+điều lệ quản lý trị an  治安管理条例
+sưu tra ( tìm kiếm )  搜查
+khẩu cung  口供
+thu nhận  收容
+thả về  遣返
+bắt giữ  逮捕
+bắt giữ tại chỗ  当场逮捕
+tạm giữ  拘留
+tạm giữ vì lý do hình sự  刑事拘留
+tạm giữ vì lý do trị an  治安拘留
+truy nã  通缉
+kẻ bị truy nã  被通缉者
+thông báo truy nã  通缉布告
+người tố cáo  告密者
+người tố giác  检举人
+người khai báo thành khẩn  坦白者
+tội phạm  罪犯
+tù chạy trốn  逃犯
+kẻ chạy trốn  逃亡者
+phần tử xấu  坏分子
+phần tử phản cách mạng  反革命分子
+đặc vụ  特务分子
+gián điệp  间谍
+kẻ phản quốc  叛国者
+phần tử phản loạn  叛乱分子
+không tặc  空中劫机者
+nơi trả của rơi  失物招领处
+nhóm trị an  治安小组
+ban an ninh  治保委员会
+xí nghiệp liên doanh  合伙企业
+xí nghiệp liên doanh  合资企业
+luật hợp đồng  合同法
+luật liên doanh  合资经营法
+hợp đồng  合同
+hợp đồng  合约
+thời hạn hợp đồng  合同限期
+điều khoản hợp đồng  合同条款
+tội cố ý gieo rắc bệnh  传播性病罪
+luật thuế  税法
+dự luật  法案
+luật hình sự  刑律
+luật dân sự  民法
+pháp lệnh  法令
+pháp chế  法制
+quan tòa  法官
+bộ luật  法典
+toà án  法院
+toà án  法庭
+giam giữ hình sự  刑拘
+thời hạn chịu án  刑期
+giả định  假定
+qui định  规定
+chế tài  制裁
+hàng công nghiệp  工业品
+hàng công nghiệp nặng  重工业品
+hàng công nghiệp nhẹ  轻工业品
+hàng hóa nhập khẩu  进口商品
+hàng hóa xuất khẩu  出口商品
+hàng khoáng sản  矿产品
+hạng mục nhập khẩu  进口项目
+hạng mục xuất khẩu  出口项目
+hàng ngoại  外国商品
+hàng nhập khẩu  进口货物
+hàng nông sản  农产品
+hàng nước ngoài sản xuất  外国制造的
+hàng quá cảnh  过境货物
+hàng sản xuất tại chỗ  当地制造的
+hàng sản xuất xuất khẩu  出口的制造品
+hàng thủ công mỹ nghệ  工艺美术品
+hàng trong nước sản xuất  本国制造的
+hàng trung quốc sản xuất  中国制造的
+hàng xuất khẩu  出口货物
+hóa đơn  发票
+hóa đơn chiếu lệ  假定发票
+hóa đơn chính thức  确定发票
+hóa đơn thương mại  商业发票
+hội chợ thương mại  商品交易会
+hợp đồng đôi bên cùng có lợi  互惠合同
+hợp đồng mua hàng  购货合同
+hợp đồng ngoại thương  外贸合同
+ấn bản có sửa chữa  删改本
+ấn bản có sửa chữa và bổ sung  增订版
+ấn bản thư viện  图书馆版
+bách khoa toàn thư  百科全书
+bản chỉ dẫn tra cứu  索引本
+bản đồ  地图
+bản hải ngoại  海外版
+bản hướng dẫn tra cứu thư mục  目录索引
+bản in lậu  盗印版
+bản in thử  试用版
+bản mới  新版
+bản quốc tế  国际版
+bản sao chụp trực tiếp  直接影印本
+bản thảo viết tay  手稿
+băng hình  录像带
+báo  报纸
+bìa bọc sách  护封
+bìa ngoài  封面
+bìa trong  内封面
+biên niên sử  编年史
+cất giữ sách  藏书
+câu lạc bộ đọc sách  读书俱乐部
+dịch vụ mượn đọc sách  图书借阅服务
+đến hạn  到期的
+đóng sách  装订
+giá sách  书架
+giám đốc thư việ  图书馆馆长
+bán ra nước ngoài  外销
+bạn hàng  贸易伙伴
+báo giá  报价
+bên bán  卖方
+bên mua  买方
+mậu dịch biên giới  边境贸易
+bồi thường  赔偿
+chế độ hạn ngạch nhập khẩu  进口限额制度
+chế độ hạn ngạch xuất khẩu  出口限额制度
+chỉ trả  支付
+chi trả bằng đổi hàng  易货支付
+chi trả bằng tiền mặt  现金支付
+chi trả bằng tín dụng  信用支付
+chỉ số ngoại thương  外贸指数
+con đường mậu dịch  贸易途径
+cục kiểm nghiệm hàng hóa  商品检验局
+cục ngoại thương  外贸局
+danh mục hàng nhập khẩu  进口商品目录
+danh mục hàng xuất khẩu  出口商品目录
+đại biểu đàm phán  谈判代表
+đàm phán giá cả  价格谈判
+đàm phán mậu dịch  贸易谈判
+định giá  定价
+đơn đặt hàng  订单
+giá bán buôn  批发价
+diễn viên nam 男演员
+diễn viên nữ 女演员
+ca sỹ 歌手
+vũ công舞蹈家
+nhạc sỹ	音乐家
+nghệ sỹ piano 钢琴家
+thợ sơn 画家
+hoạ sỹ 油漆匠
+giáo viên 教师
+giáo sư	教授
+hiệu trưởng trường tiểu học trung học 中小学校长
+hiệu trưởng	校长
+đạo diễn 导演
+biên tập 编者
+tác giả	作家
+nhà báo	记者
+phát thanh viên	广播员
+nhà báo 杂志记者
+ký giả 杂志记者
+công nhân 工人
+nông dân 农夫
+ngư dân	渔夫
+nhà hóa học 化学家
+nhà khoa học 药剂师
+kiến trúc sư 工程师
+nhà thám hiểm 探险家
+nghiên cứu viên 研究员
+bác sỹ 医生
+tiến sỹ 博士
+y tá 护士
+bác sỹ khoa ngoại 外科医生
+thủy thủ 水手
+thuyền viên 船员
+phi công 飞行员
+phi công 领航员
+phi hành gia 宇航员
+tài xế 驾驶员
+vận động viên 运动员
+cảnh sát 警察
+thám tử 侦探
+quan tòa 法官
+luật sư	律师
+đầu bếp	厨子
+đầu bếp 厨师
+người làm bánh mỳ 面包师
+phục vụ bồi bàn	侍者
+người giết mổ 屠夫
+đồ tể 屠夫
+nhân viên văn phòng 办事员
+nhân viên đánh máy 打字员
+thư ký 秘书
+người bán hàng 售货员
+người bán hàng 推销员
+chủ hiệu 店主
+người bán sách 书商
+thợ may	裁缝
+người lính 军人
+quân nhân 军人
+người đưa thư 邮差
+nhân viên 消防人员
+lính cứu hoả 消防人员
+người bán vé 乘务员
+nhân viên thư viện 图书管理员
+người trông trẻ	保姆
+người học nghề 学徒工
+nhân viên tập sự 学徒工
+thợ thủ công 工匠
+chuyên gia 专家
+chủ 雇主
+ông chủ 老板
+nhân viên lễ tân 接待员
+người trực tổng đài 电话接线员
+phiên dịch 翻译
+thợ ảnh 摄影师
+nhà soạn kịch 剧作家
+người viết kịch 剧作家
+nhà ngôn ngữ học 语言学家
+nhà thực vật học 植物学家
+nhà kinh tế học 经济学家
+nhà khoa học 化学家
+nhà khoa học 科学家
+nhà triết học 哲学家
+triết gia 哲学家
+nhà chính trị 政治学家
+chính trị gia 政治学家
+nhà vật lý	物理学家
+kế toán	会 计
+nhân viên văn thư 文 员
+công ty 公司
+nhân viên 职 员
+quản lí 管理
+trợ lí 助理
+chủ tịch ceo 总裁
+tổng giám đốc 总经理
+nv thu ngân	收银员
+nv bán hàng	售货员
+ngoại thương 外贸
+xuất nhập khẩu 进出口
+bảo vệ	保安
+nhân viên quét dọn 保洁
+lễ tân 前台
+bác sĩ 医生
+luật sư	律师
+y tá 护士
+giáo viên 老师
+công nhân 工人
+thợ điện 电工
+cảnh sát 警察
+cảnh sát giao thông 交警
+nhà thiết kế 设计师
+về hưu 退休
+diễn viên 演员
+chuyên gia trang điểm 化妆师
+nhiếp ảnh 摄影师
+mc 主持人
+ca sĩ 歌手
+đầu bếp	厨师
+nv khách sạn 酒店员工
+làm nhà hàng 做饭店
+cửa hàng quần áo 做服装店
+nội chợ	家庭主妇
+tiệm làm móng 做美甲店
+bán bảo hiểm 卖保险
+làm spa	做美容院
+cho vay lãi	放高利贷
+buôn bán nhỏ 小买卖
+cửa hàng vật tư 做五金店
+kinh tế 经济学
+tiền tệ học 金融学
+tài chính 财政学
+ngoại thương 国际贸易
+kế toán 会计学
+công nghệ thông tin 计算机
+ngoại ngữ 外语
+y 医学
+dược 药学
+điều dưỡng 护理学
+quản trị kinh doanh	工商管理
