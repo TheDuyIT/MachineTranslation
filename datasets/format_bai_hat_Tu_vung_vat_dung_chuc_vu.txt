@@ -1,0 +1,900 @@
+回家 
+Về nhà
+                                
+脱衣服
+Cởi quần áo
+
+换鞋
+Thay giầy
+
+上厕所
+Đi vệ sinh
+
+洗手
+Rửa tay
+
+吃晚饭
+Ăn tối
+
+休息
+Nghỉ ngơi
+
+读报纸
+Đọc báo
+
+看电影
+Xem tivi
+
+听音乐
+Nghe nhạc
+
+玩游戏
+Chơi trò chơi
+
+玩游戏
+chơi game
+
+洗澡
+Tắm
+
+淋浴
+Tắm vòi hoa sen
+
+泡澡
+Tắm trong bồn tắm
+
+上床
+Lên giường
+
+关灯
+Tắt đèn
+
+睡觉
+Đi ngủ
+
+起床
+Thức dậy
+
+穿衣服
+Mặc quần áo
+
+刷牙
+Đánh răng
+
+洗脸
+Rửa mặt
+
+梳头
+Chải tóc
+
+梳头
+chải đầu
+
+照镜子
+Soi gương
+
+化妆
+Trang điểm
+
+刮胡子
+Cạo râu
+
+吃早饭
+Ăn sáng
+
+穿鞋
+Đi giầy
+
+戴帽子
+Đội mũ
+
+拿包
+Lấy túi
+
+拿包
+cầm túi
+
+出门
+Đi ra ngoài
+
+零
+0
+
+一
+1
+
+二
+2
+
+三
+3
+                                                 
+四
+4
+
+五
+5
+                 
+六
+6
+
+七
+7
+        
+八
+8
+
+九
+9
+              
+十
+10
+
+一 百
+10
+
+一 千
+1000
+
+一 萬
+10000 
+
+一 千
+1000
+
+三 萬
+30000
+
+五 十 萬
+500000
+
+办公室
+Văn phòng
+
+行政人事部
+Phòng hành chính nhân sự
+
+财务会计部
+Phòng Tài chính kế toán
+
+销售部
+Phòng kinh doanh
+
+产生计划部
+Phòng kế hoạch sản xuất
+
+采购部 – 进出口
+Phòng mua bán – Xuất nhập khẩu
+
+传真机
+Máy fax
+
+复印机
+Máy photocopy
+
+账本
+Sổ sách
+
+奖金
+Tiền thưởng
+
+工资
+Tiền lương
+
+保险卡
+Thẻ bảo hiểm
+
+加班
+Tăng ca
+
+请假
+Nghỉ phép
+
+辞职
+Bỏ việc
+
+炒鱿鱼
+Sa thải
+
+日班
+Ca ngày
+
+夜班
+Ca đêm
+
+保安
+Bảo vệ
+
+下班
+Tan ca
+
+同事
+Đồng nghiệp
+
+领导
+Lãnh đạo
+
+考勤
+Chấm công
+
+人事录用
+Tuyển dụng nhân sự
+
+招聘委会
+Hội đồng tuyển dụng
+
+人员
+Nhân viên	
+
+材料
+Tài liệu
+
+董事长
+Chủ tịch hội đồng quản trị	
+
+副董事长
+Phó Chủ tịch
+
+总裁
+Chủ tịch
+
+副总裁
+Phó Chủ tịch
+
+总经理
+Tổng Giám Đốc
+
+副总经理
+Phó Tổng Giám Đốc
+
+执行长
+Giám đốc điều hành
+
+经理
+Giám đốc
+
+福理
+Phó giám đốc
+
+协理
+Phó giám đốc
+
+协理
+trợ lí
+
+襄理
+Trợ lí giám đốc
+
+处长
+Trưởng phòng
+
+副处长
+Phó phòng
+
+特别助理
+Trợ lý đặc biệt
+
+课长
+Giám đốc bộ phận
+
+副课长
+Phó phòng
+
+主任
+Chủ Nhiệm
+
+副主任
+Phó chủ nhiệm
+
+助理
+Trợ lí
+
+秘 书
+Thư ký
+
+领班
+Trưởng nhóm
+
+副组长
+Tổ phó
+
+管理师
+Bộ phận quản lý
+
+组长
+Tổ Trưởng
+
+副管理师
+Phó quản lý
+
+管理员
+Quản lý
+
+工程师
+Kỹ sư
+
+专员
+Chuyên gia
+
+系统工程师
+Kỹ sư hệ thống
+
+技术员
+Kỹ thuật viên
+
+策划工程师
+Kỹ sư kế hoạch
+
+主任工程师
+Kỹ sư trưởng
+
+专案工程师
+Kỹ sư dự án
+
+高级技术员
+Kỹ thật viên cao cấp
+
+顾问工程师
+Kỹ sư tư vấn
+
+高级工程师
+Kỹ sư cao cấp
+
+副工程师
+Kỹ sư liên kết
+
+助理技术员
+Trợ lý kĩ thuật
+
+作业员
+Nhân viên tác nghiệp
+
+职员
+Nhân viên
+
+厂长
+Xưởng trưởng
+
+副厂长
+Phó xưởng
+
+实习生
+Thực tập sinh
+
+色鬼眼
+Mắt háo sắc
+
+纤细
+Yiểu điệu
+
+苗条
+Thon thả
+
+苹果脸
+Mặt tròn
+
+娃娃脸
+Mặt búp bê
+
+鸭蛋脸
+Mặt trái xoan
+
+四方脸
+Mặt chữ điền
+
+长方脸
+Mặt dài
+
+尖脸
+Mặt nhọn
+
+披肩长
+Tóc dài chấm vai
+
+马尾
+Tóc đuôi ngựa
+
+分头
+Tóc bổ đôi
+
+乌黑头发
+Tóc đen
+
+棕色头发
+Tóc nâu
+
+柳叶眉
+Mày lá liễu
+
+双眼皮
+Mắt 2 mí
+
+单眼皮
+Mắt 1 mí
+
+弹子眼
+Mắt bồ câu
+
+相貌
+Tướng mạo
+
+泼辣
+Đanh đá
+
+个字
+Vóc dáng
+
+温柔
+Dịu dàng
+
+扁鼻
+Mũi hếch
+
+斗眼
+Mắt lác
+
+善良
+Hiền lành
+
+高
+Cao
+
+矮
+Thấp
+
+胖
+Béo
+
+瘦
+Gầy
+
+和蔼
+Hòa nhã, hiền dịu
+
+凶恶
+Hung dữ
+
+漂亮
+Xinh đẹp
+
+丑陋
+Xấu xí
+
+好看
+Dễ nhìn
+
+长相
+Tướng mạo, khuôn mặt
+
+身材
+Vóc người, dáng vóc
+
+秃顶
+Hói đầu
+
+戴眼镜
+Đeo kính
+
+酒窝
+Má lúm đồng tiền
+
+高鼻梁
+Sống mũi cao
+
+痣
+Nốt ruồi
+
+络腮胡
+Râu quai nón
+
+疤痕
+Vết sẹo
+
+高颧骨
+Gò má cao
+
+浓眉
+Lông mày rậm
+
+柔弱
+ẻo lả
+
+柔弱
+yếu đuổi
+
+结实
+Mạnh mẽ
+
+结实
+vạm vỡ
+
+苗条
+Thon thả
+
+苗条
+mảnh mai
+
+清秀
+Thanh tú
+
+肤色
+Màu da
+
+容颜
+Nhan sắc
+
+五官端正
+Khuôn mặt cân đối
+
+白皙
+Trắng nõn
+
+头
+Đầu
+
+眼睛
+Mắt
+
+面颊	
+Má
+
+耳朵
+tai
+
+前额
+Trán
+
+头发
+Tóc
+
+鼻子
+Mũi
+
+嘴巴
+Mồm
+
+嘴唇
+Môi
+
+耳垂
+Ráy tai
+
+太阳穴
+Thái dương
+
+眼皮
+Mí mắt
+
+睫毛
+Lông mi
+
+眼 眉
+Lông mày
+
+瞳孔
+Lòng đen
+
+喉咙
+Cuống họng
+
+喉咙
+Họng
+
+舌头
+Lưỡi
+
+虹膜
+Con ngươi
+
+脖子
+Cổ
+
+胳膊
+Cánh tay
+
+手腕
+Cổ tay
+
+胳膊 肘
+Khuỷu tay
+
+手
+Bàn tay
+
+手掌
+Lòng bàn tay
+
+腋窝
+Nách
+
+胸口
+Ngực
+
+拇指
+Ngón cái
+
+中指
+Ngón giữa
+
+小指
+Ngón út
+
+肩膀
+Vai
+
+肩胛骨
+Xương bả vai
+
+指甲 盖
+Móng tay
+
+无名指
+Ngón áp út
+
+指关节
+Đốt ngón tay
+
+后面
+Lưng
+
+臀 部
+Hông
+
+腹 部
+Bụng
+
+肚脐
+Rốn
+
+屁股
+Mông
+
+腿
+Chân
+
+小腿
+Bắp chân
+
+大腿
+Bắp đùi
+
+膝盖
+Đầu gối
+
+脚跟
+Gót chân
+
+足弓
+Lòng bàn chân
+
+大 脚趾
+Ngón chân cái
+
+脚趾
+Ngón chân
+
+瞳孔
+Đồng tử
+
+虹膜
+Tròng đen
+
+物料收支月报表
+bảng báo cáo tháng thu chi vật liệu
+
+物品购单
+hóa đơn mua nguyên liệu
+
+加工单
+phiếu gia công2
+
+料品出厂单
+phiếu xuất xưởng
+
+尺寸
+kích cỡ
+
+制令单
+lệnh sản xuất
+
+外箱仓库
+kho thùng ngoài
+
+库存管理
+quản lý kho hàng dự trữ
+
+生产进度表
+bảng tiến độ sản xuất
+
+入库作帐
+vào sổ nhập kho
+
+料品出厂单
+hóa đơn xuât hàng
+
+物料出库交接
+giao nhận nguyên liệu
+
+开发样品
+hàng mẫu tiếp thị
+
+落差
+chênh lệch
+
+前段流程
+dây chuyền
+
+计件新资
+lượng sản xuất
+
+计时新资
+lượng thời gian
+
+作业流程
+thao tác dây chuyền
+
+安排生产进度
+sắp xếp tiến độ sản xuất
+
+托带材料
+hàng xách tay
+
+包装明细表
+bảng đóng gói chi tiết
+
+数量清点
+kiểm tra số lượng
+
+验收单分类
+phân loại hóa đơn nghiệm thu
+
+实际清点验收表
+bản nghiệm thu kiểm kê thực tế
+
+送货单
+phiếu giao hàng
+
+物料标示
+tem dán nguyên liệu
+
+消耗购品单
+phiếu mua hàng tiêu hao
+
+追加用量
+lượng đính chính
+
+配件名称
+tên phối kiện
+
+押汇
+chuyển nhượng
+
+稍微
+Một chút
+
+稍微
+tí xíu
+
+比较
+So với
+
+比较
+hơn
+
+很
+Rất
+
+非常
+Vô cùng
+
+极
+vô cùng
+
+极
+cực độ
+
+特别
+Đặc biệt
+
+更
+Hơn nữa
+
+最
+được nhất
+
+已经
+Đã
+
+才
+Bây giờ mới
+
+才
+mới bắt đầu
+
+刚
+Vừa mới
+
+正在
+Đúng lúc
+
+就
+Ngay lập tức
+
+就
+trong chốc lát
+
+马上
+tức thì
+
+马上
+ngay lập tức
+
+随时
+Bất cứ lúc nào
+
+好久
+Rất lâu
+
+突然
+Đột nhiên
+
+从来
+Từ trước đến nay
+
+都
+Tất cả đều
+
+全部
+Toàn bộ
+
+全部
+tất cả
+
+一共
+Tổng cộng
+
+一共
+tất cả là
+
+一起
+Cùng lúc
+
+一起
+cùng nhau
+
+一块儿
+Cùng nhau
+
+只
+Chỉ có
+
+仅仅
+Chỉ có
+
+差不多
+hầu hết
+
+差不多
+hầu như
+
+至少
+Chí ít
+
+至少
+ít nhất phải
+
+再
+thêm lần nữa
+
+也
+Cũng
+
+
+还
+Vẫn chưa
+
+常常
+Lúc nào cũng
+
+thường xuyên
+常常
