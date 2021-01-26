@@ -78,6 +78,22 @@ class DataFormatter:
                     i += 1
         return (lst_vi, lst_cn)
 
+    def preprocess_6k_binh(self, data: str) -> tuple:
+        xs = re.split("\n", data)
+        lst_vi = []
+        lst_cn = []
+        for i in xs:
+            for n in re.findall(r"[\u4e00-\u9fff]+", i):
+                lst_vi.append(i[: i.index(n)].strip().lower())
+                lst_cn.append(n.strip())
+
+        print(len(lst_vi))
+        print(len(lst_cn))
+        num = -1
+        print(lst_vi[num])
+        print(lst_cn[num])
+        return (lst_vi, lst_cn)
+
     def preprocess_format_bai_hat(self, data: str) -> tuple:
         xs = re.split("\n\s*\n", data)
         lst_vi = []
@@ -182,8 +198,8 @@ if __name__ == "__main__":
     formatter = DataFormatter()
     loader = DataLoader()
 
-    lst_vi_name = "lst_vi_all_except_1001"
-    lst_cn_name = "lst_cn_all_except_1001"
+    lst_vi_name = "lst_vi_all_with6k_except_1001"
+    lst_cn_name = "lst_cn_all_with6k_except_1001"
     # 999letters
     data = loader.load_txt(os.path.join(ROOT_DIR, "datasets/999letters.txt"))
     lst_vi, lst_cn = formatter.preprocess(data)
@@ -212,6 +228,7 @@ if __name__ == "__main__":
     loader.np_save(lst_vi, lst_vi_name)
     print(len(loader.np_load(lst_cn_name)))
     print(len(loader.np_load(lst_vi_name)))
+
     # 1001letters
     # path = "datasets/1001letters_original.txt"
     # data = loader.load_txt(path)
@@ -248,6 +265,18 @@ if __name__ == "__main__":
     # print(lst_cn[-1])
     # loader.np_save(lst_cn, lst_cn_name)
     # loader.np_save(lst_vi, lst_vi_name)
+    # print(loader.np_load(lst_vi_name)[-1])
+    # print(loader.np_load(lst_cn_name)[-1])
+
+    # 6k Binh
+    path = "datasets/word_pairs_original.txt"
+    data = loader.load_txt(path)
+
+    lst_vi, lst_cn = formatter.preprocess_6k_binh(data)
+    loader.np_save(lst_cn, lst_cn_name)
+    loader.np_save(lst_vi, lst_vi_name)
+    print(len(loader.np_load(lst_vi_name)))
+    print(len(loader.np_load(lst_cn_name)))
     print(loader.np_load(lst_vi_name)[-1])
     print(loader.np_load(lst_cn_name)[-1])
 
