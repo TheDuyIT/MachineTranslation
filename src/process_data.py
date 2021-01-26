@@ -83,13 +83,14 @@ class DataFormatter:
         lst_vi = []
         lst_cn = []
         for i in xs:
-            for n in re.findall(r"[\u4e00-\u9fff]+", i):
-                lst_vi.append(i[: i.index(n)].strip().lower())
-                lst_cn.append(n.strip())
-
+            span = re.search(r"[\u4e00-\u9fff]+", i).span()
+            lst_vi.append(i[: span[0]].strip().lower())
+            lst_cn.append(i[span[0] :].strip())
+            # print(lst_vi[-1])
+            # print(lst_cn[-1])
         print(len(lst_vi))
         print(len(lst_cn))
-        num = -1
+        num = 4349
         print(lst_vi[num])
         print(lst_cn[num])
         return (lst_vi, lst_cn)
@@ -218,7 +219,7 @@ if __name__ == "__main__":
             loader.np_save(lst_cn, lst_cn_name)
             loader.np_save(lst_vi, lst_vi_name)
             print(len(loader.np_load(lst_cn_name)))
-            print(len(loader.np_load(lst_vi_name)))
+    print(len(loader.np_load(lst_vi_name)))
     # 3k augment
     path = "datasets/dataset/3000cau_final.txt"
     data = loader.load_txt(path)
