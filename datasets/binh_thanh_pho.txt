@@ -1,0 +1,135 @@
+Tỉnh An Huy  安徽省
+thành phố Hợp Phì  合肥市
+Tỉnh Phúc Kiến  福建省
+thành phố Phúc Châu  福州市
+Tỉnh Cam Túc  甘肃省
+thành phố Lan Châu  兰州市
+tỉnh Quảng Châu  广东省
+thành phố Quảng Châu  广州市
+tỉnh Quý Châu  贵州省
+thành phố Quý Dương  贵阳市
+tỉnh Hải Nam  海南省
+thành phố Hải Khẩu  海口市
+tỉnh Hà Bắc  河北省
+thành phố Thạch Gia Trang  石家庄市
+tỉnh Hắc Long Giang  黑龙江省
+thành phố Cáp Nhĩ Tân  哈尔滨市
+tỉnh Hà Nam  河南省
+thành phố Trịnh Châu  郑州市
+tỉnh Hồ Bắc  湖北省
+thành phố Vũ Hán  武汉市
+tỉnh Hồ Nam  湖南省
+thành phố Trường Sa  长沙市
+tỉnh Giang Tô  江苏省
+thành phố Nam Kinh  南京市
+tỉnh Giang Tây  江西省
+thành phố Nam Xương  南昌市
+tỉnh Cát Lâm  吉林省
+thành phố Trường Xuân  长春市
+tỉnh Liêu Ninh  辽宁省
+thành phố Thẩm Dương  沈阳市
+tỉnh Thanh Hải  青海省
+thành phố Tây Ninh  西宁市
+tỉnh Sơn Đông  山东省
+thành phố Tế Nam  济南市
+tỉnh Sơn Tây  山西省
+thành phố Thái Nguyên  太原市
+tỉnh Thiểm Tây  陕西省
+thành phố Tây An  西安市
+tỉnh Tứ Xuyên  四川省
+thành phố Thành Đô  成都市
+tỉnh Đài Loan  台湾省
+thành phố Đài Bắc  台北市
+tỉnh Vân Nam  云南省
+thành phố Côn Minh  昆明市
+tỉnh Triết Giang  浙江省
+thành phố Hàng Châu  杭州市
+thành phố trực thuộc trung ương  直辖市
+thành phố Bắc Kinh  北京市
+thành phố Trùng Khánh  重庆市
+thành phố Thượng Hải  上海市
+thành phố Thiên Tân  天津市
+tỉnh  省
+thành phố 市
+thành phố trực thuộc tỉnh  省会
+khu tự trị  自治区
+khu tự trị dân tộc Chuang Quảng Tây  广西壮族自治区
+thành phố Nam Ninh  南宁市
+khu tự trị Nội Mông 内蒙古自治区
+thành phố Huhhot  呼和浩特市
+khu tự trị dân tộc Hồi Ninh Hạ  宁夏回族自治区
+thành phố Ngân Xuyên  银川市
+khu tự trị Tây Tạng  西藏自治区
+thành phố Lhasa  拉萨市
+khu tự trị dân tộc Duy Ngô Nhĩ Tân Cương  新疆维吾尔族自治区
+thành phố Urumqi  乌鲁木齐市
+đặc khu  特区
+Đặc khu hành chính Macao  澳门特别行政区
+Đặc khu hành chính Hồng Kôn  香港特别行政区
+Tỉnh Lai Châu  莱州省
+Tỉnh Lào Cai  老街省
+Tỉnh Điện Biên  奠边省
+Tỉnh Yên Bái  安沛省
+Tỉnh Sơn La  山罗省
+Tỉnh Hòa Bình  和平省
+Tỉnh Hà Giang  河江省
+Tỉnh Cao Bằng  高平省
+Tỉnh Tuyên Quang  宣光省
+Tỉnh Bắc Kạn  北干省
+Tỉnh Lạng Sơn  谅山省
+Tỉnh Thái Nguyên  太原省
+Tỉnh Bắc Giang  北江省
+Tỉnh Quảng Ninh  广宁省
+Tỉnh Phú Thọ  富寿省
+Thành phố Hà Nội  河内市
+Tỉnh Hà Tây  河西省
+Tỉnh Vĩnh Phúc  永福省
+Tỉnh Bắc Ninh  北宁省
+Tỉnh Hưng Yên  兴安省
+Tỉnh Hà Nam  河南省
+Tỉnh Hải Dương  海阳省
+Thành phố Hải Phòng  海防市
+Tỉnh Thái Bình  太平省
+Tỉnh Nam Định  南定省
+Tỉnh Ninh Bình  宁平省
+Tỉnh Thanh Hóa  清化省
+Tỉnh Nghệ  An  艺安省
+Tỉnh Hà Tĩnh  河静省
+Tỉnh Quảng Bình  广平省
+Tỉnh Quảng Trị  广治省
+Tinh Thừa Thiên Huế  顺化省
+Thành phố Đà Nẵng  岘港市
+Tỉnh Quảng Nam  广南省
+Tỉnh Quảng Ngãi  广义省
+Tỉnh Bình Định  平定省
+Tỉnh Phú Yên  富安省
+Tỉnh Khánh Hòa  庆和省
+Tỉnh Ninh Thuận  宁顺省
+Tỉnh Bình Thuận  平順省
+Tỉnh Gia Lai  嘉莱省
+Tỉnh Kon Tum  昆嵩省
+Tỉnh Đắc Lắk  得乐省
+Tỉnh Lâm Đồng  林同省
+Tỉnh Đắc Nông  得农省
+Thành phố Hồ Chí Minh  胡志明市
+Sài Gòn  西贡
+Tỉnh Bình Dương  平阳省
+Tỉnh Bình Phước  平福省
+Tinh Tây Ninh  西宁省
+Tỉnh Đồng Nai  同奈省
+Tỉnh Bà Rịa Vũng Tàu  巴地头顿省
+Tỉnh Long An  隆安省
+Tỉnh Đồng Tháp  同塔省
+Tỉnh Tiền Giang  前江省
+Tỉnh Bến Tre  槟椥省
+Tinh An Giang  安江省
+Tỉnh Cần Thơ  芹苴
+Tỉnh Vĩnh Long  永龙省
+Tỉnh Trà Vinh  茶荣省
+Tỉnh Kiên Giang  坚江省
+Tỉnh Hậu Giang  后江省
+Tỉnh Sóc Trăng  溯庄省
+Tỉnh Bạc Liêu  薄寮省
+Tỉnh Cà Mau  金瓯省
+Quần đảo Hoàng Sa  黄沙群岛
+Quần đảo Trường Sa  长沙群岛

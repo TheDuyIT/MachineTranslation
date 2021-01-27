@@ -1,0 +1,168 @@
+tôi là 本人为
+người 人
+tỉnh 省
+thành phố 市
+huyện 县
+quận 郡
+sinh năm  生于
+số chứng minh nhân dân  身份证号码
+địa chỉ thường trú  现住地址
+trình độ văn hóa  文化程度
+trình độ ngoại ngữ  外文程度
+kỹ năng chuyên môn  专门技术
+sở trường  或特长
+trình độ tin học  电脑操作
+thể trạng  体康
+xin trình tuyển chọn  乞予取录谨呈
+giám đốc 经理
+giám đốc doanh nghiệp  贵企业经理
+người ứng tuyển  申请人
+năm 年
+tháng 月
+ngày 日
+sơ yếu lý lịch  履历表
+tên tiếng việt  越文姓名
+tên tiếng trung  中文姓名
+ngày sinh  出生日期
+nơi sinh  出生地点
+tình trạng hôn nhân  婚姻情况
+số liên lạc  联络号码
+vị trí ứng tuyển  所申请的职位
+đãi ngộ kỳ vọng  希望待遇
+trình độ  学力
+tên trường  学校名称
+thời gian học  就读时间
+tên trường  学校名称
+thời gian học  就读时间
+tên văn bằng và trình độ  程度及文凭名称
+bằng tốt nghiệp đại học  大学毕业证
+ngôn ngữ hoặc phương ngữ  语言或方言
+anh văn và trung văn  英文及中文
+ngôn ngữ hoặc phương ngữ có thể nói  能讲的语言或方言
+ngôn ngữ có thể viết  能写的文字
+chi tiết công việc trước kia  以往就业详情
+tên doanh nghiệp  商号名称
+vị trí đã đảm nhận  所任职位
+thời gian đảm nhận  任职时间
+lý do rời bỏ  离职理由
+chuyên ngành hiện tại  现时职业
+tên công ty hiện tại  现时雇主商号名称
+địa chỉ làm việc hiện tại  现时雇主地址
+lương tháng hiện tại  现时月薪
+thời gian phục vụ  服务时间
+sở trường cá nhân  个人专长
+chữ ký người nộp đơn  申请人签名
+cv cá nhân 个人简历
+hồ sơ cá nhân 个人概况
+họ tên 姓名
+dân tộc 民族
+tình trạng chính trị 政治面貌
+chiều cao 身高
+cân nặng 体重
+hệ học 学制
+quá trình học 学历
+tuổi 年龄
+quốc tịch 国籍
+trình độ ngoại ngữ 外语等级
+trình độ máy tính 计算机水平
+trình độ máy tính 计算机等级
+năng lực ứng dụng máy tính 计算机应用能力
+chuyên ngành 专业
+thời gian 时间
+đơn vị 单位
+kinh nghiệm từng trải 经历
+kỹ năng 技能
+sở trường 特长
+sở thích 爱好
+sở thích cá nhân 个人爱好
+lý lịch 履历
+thông tin địa chỉ 通讯地址
+thông tin địa chỉ chi tiết 详细通信地址
+địa chỉ liên lạc 联系地址
+điện thoại liên lạc 联系电话
+phương thức liên hệ 联系方式
+số điện thoại di động 手机号
+email 电子邮箱
+địa chỉ gia đình 家庭住址
+tự đánh giá bản thân 自我评价
+yêu cầu của bản thân 本人要求
+tình trạng hôn nhân 婚姻状况
+thời gian công tác 工作时间
+tên chức vị kỹ thuật 技术职称
+địa chỉ nơi ở 住址
+trình độ văn hóa 文化程度
+năng lực cá nhân 个人能力
+chuyên ngành chính 主修专业
+trình độ ngoại ngữ 外语水平
+trường học tốt nghiệp 毕业学校
+thời gian tốt nghiệp 毕业时间
+trình độ tiếng anh 英语水平
+trình độ tiếng trung 汉语水平
+yêu cầu mức lương 薪水要求
+yêu cầu mức lương 薪金要求
+công việc hiện tại đang làm 现从事工作
+nghành nghề hiện tại đang làm 从事行业
+công việc mong muốn 欲从事工作
+đơn vị ứng tuyển 应聘单位
+chức vụ ứng tuyển 应聘职位
+thực tiễn công tác xã hội 社会实践
+mã bưu chính 邮政编码
+chứng chir 证书
+sở thích 兴趣爱好
+sở thích ngoài giờ làm việc 业余爱好
+lý lịch công tác 工作简历
+tên công ty 公司名称
+tên chức vụ 职位名称
+năng lực ngôn ngữ 语言能力
+trình độ giáo dục 教育情况
+nền tảng giáo dục 教育背景
+quá trình bồi dưỡng 培训经历
+thời gian bồi dưỡng 培训时间
+cơ quan bồi dưỡng 培训机构
+nội dung bồi dưỡng 培训内容
+kỹ năng nghề nghiệp 职业技能
+khen thưởng cá nhân 个人荣誉
+bằng cấp liên quan 相关证书
+chú thích 备注
+trình độ chuyên ngành 专业水平
+trình độ máy tính 电脑水平
+thể trạng sức khỏe 健康状况
+quý công ty 贵公司
+giám đốc 经理
+thư ký 秘书
+người viết đơn 申请人
+năm tháng ngày 年月日
+日月年 ngày tháng năm
+kinh nghiệm làm việc 工作经验
+họ tên tiếng việt 越文姓名
+họ tên tiếng trung 中文姓名
+chức vụ xin tuyển 申请职位
+mong muốn đãi ngộ 希望待遇
+thời gian học tập 就读时间
+tình hình chi tiết đã công tác trước đây 以往就业详情
+chức vị 职位
+sở trường cá nhân 个人专长
+người viết đơn ký tên 申请人签名
+trình độ tiếng trung phổ thông 汉语普通话水平
+sơ yếu lý lịch 履历
+thông tin cá nhân 个人信息
+mục tiêu nghề nghiệp 职业目标
+trình độ học vấn 学力
+trình độ ngoại ngữ 外文程度
+bằng cấp 文凭
+chứng chỉ 文凭
+kinh nghiệm làm việc 工作经验
+kỹ năng 专门技能
+họ tên  姓名
+ngày tháng năm sinh 出生年月
+tuổi 年龄
+nơi sinh 出生地点
+giới tính 性别
+quốc tịch 国籍
+dân tộc 民族
+hòm thư điện tử 电子邮件
+số điện thoại 联系电话
+địa chỉ 现住地址
+tình trạng hôn nhân 婚姻情况
+số điện thoại liên hệ 联络号码
+sở trường 个人专长
