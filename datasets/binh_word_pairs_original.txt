@@ -108,7 +108,7 @@ máy bơm 泵
 máy quay đĩa hát 唱机
 điều khiển từ xa 遥控器
 người máy 机器人
-ăng-ten vệ tinh 卫星天线
+ăngten vệ tinh 卫星天线
 máy may 缝纫机
 phim hình chiếu slide 幻灯片
 công nghệ năng lượng mặt trời 太阳能技术
@@ -845,7 +845,7 @@ hành lý xách tay 手提轻便行李
 hành lý mang theo người 随身行李
 hành lý quá trọng lượng quy định 超重行李
 hành lý gửi theo xe 托运的行李
-ê-ti-két hành lý 行李标签
+thẻ hành lý 行李标签
 nơi gửi hành lý 行李寄存处
 phòng hành lý 行李房
 giấy gửi hành lý 行李寄存正
@@ -1354,8 +1354,6 @@ sách quý hiếm 秘本
 sách hướng dẫn 索引本
 sách đã sửa đổi 删改本
 bản in chụp trực tiếp 直接影印本
-sách in ôp-set 照相平版胶印本
-bản in ôp-set 照相平版胶印本
 sách hợp đính 合订本
 sách biểu 赠阅本
 sách dùng chữ giản thể 简写本
@@ -1487,7 +1485,7 @@ nội y 内衣
 áo may ô rộng mặc ngoài của nữ 女式宽松外穿背心
 áo may ô mắt lưới 网眼背心
 áo lót bên trong 衬里背心
-áo gi-lê 西装背心
+áo gilê 西装背心
 áo cánh 上衣
 áo jacket 茄克衫
 áo cộc tay của nam 男式便装短上衣
@@ -1505,7 +1503,7 @@ nội y 内衣
 áo kiểu cánh dơi 蝙蝠衫
 áo kiểu cánh bướm 蝴蝶山
 áo thun t 恤衫
-áo bành-tô 大衣
+áo bành tô 大衣
 áo khoác ngắn 轻便大衣
 áo khoác dày 厚大衣
 áo khoác bằng nỉ dày 厚呢大衣
@@ -2719,14 +2717,13 @@ kim nhựa 10mm 枪胶针
 kim tay 手针
 kim tròn 圆针俭尾针
 kim dẹt 圆针俭尾针
-kim vàng #16 mũi tròn 高头车圆嘴金
 kính đeo mắt 眼镜
 lịch để bàn 办公桌日历
 lịch làm việc trong ngày 日程表
 linh kiện máy bàn 平车双针零件
-lò xò 弹簧
+mùa xuân 弹簧
 loa 扬声器
-loa cầm tay (micro) 麦克风
+cái micro 麦克风
 loa máy tính 电脑音箱
 lõi trục cuộn chỉ 捲线的轴心
 long não 冰片
@@ -2761,7 +2758,7 @@ máy ghim giấy 订书机
 máy giặt 洗衣机
 máy in 打印机
 máy mài biên 磨边机器
-máy may zích-zắc 万能车
+máy may zích zắc 万能车
 máy pha cà phê 咖啡机
 máy photocopy 复印机
 máy quạt 电风扇
@@ -2771,7 +2768,6 @@ máy scan 扫瞄器
 máy scan 扫描器
 máy sinh tố 果汁机
 máy tính 计算器
-máy tính bỏ túi 计算器
 máy tính nhỏ 小计算机
 máy tính xách tay 手提电脑
 máy trụ hai kim 高单真高双针
@@ -2780,7 +2776,7 @@ máy vi tính 电脑
 máy xé vụn giấy 碎纸机
 máy xếp hộp 褶内盒机
 miếng chống mốc 防霉片
-mika-mica 压克力板
+mica 压克力板
 mỡ bò 黄油
 mỏ lết 活动板子
 mơ tơ 马达
@@ -2929,7 +2925,7 @@ thuyền máy cao đầu 线栓高头车
 ti vi màu 彩色电视机
 tô vít 螺丝起子
 tole lạnh 波浪铁板
-toto yqh-6-7 车床电脑车
+máy tiện ô tô 车床电脑车
 trọng lượng cả bì 毛重
 tủ có ngăn 橱柜
 tủ lạnh 冰箱
@@ -4012,7 +4008,7 @@ bí mật  秘密
 thứ nhất 第一
 hạng nhất 第一
 quan trọng nhất  第一
-thứ hai (chỉ số thứ tự)  第二
+thứ hai 第二
 vânvân 等等
 chờ một chút  等等
 tiết mục 节目
@@ -4379,8 +4375,8 @@ máy server 服务器
 máy chủ  服务器
 máy trợ giúp kỹ thuật số 个人数字助理
 máy pda  个人数字助理
-máy palm-top 掌上电脑
-hand-held  掌上电脑
+máy tính bỏ túi 掌上电脑
+máy tính bỏ túi  掌上电脑
 ngôn ngữ máy tính  计算机语言
 ngôn ngữ fortran  公式翻译程序语言
 ngôn ngữ nhân tạo  人工语言
@@ -4506,7 +4502,7 @@ xếp đặt  版面编排
 ký hiệu bách phân  百进位符号
 tỷ lệ phần trăm 百分比
 ký hiệu tỉ lệ phần trăm  百分比符号
-(động tác) gõ phím 按键
+gõ phím 按键
 nhấn phím  按键
 thao tác theo từng bước  按步操作
 thiết lập 安排
@@ -4527,7 +4523,7 @@ bộ lưu điện 不间断电源
 ups  不间断电源
 giám sát  监督
 chương trình giám sát  监督程序
-máy (thiết bị) giám sát  监测器
+máy giám sát  监测器
 màn hình  显示器
 máy chính 主机
 máy tính lớn  主机
@@ -4542,16 +4538,7 @@ máy tính lớn  主机计算机
 ổ đĩa cứng  硬磁盘驱动器
 đĩa cứng  硬盘
 thẻ nhớ 闪盘
-flash memory  闪盘
-cd-rom  只读光盘
-dvd-rom  高密度只读光盘
-đĩa cd-r  可录光盘
-đĩa cd-rw  可重写光盘
-đĩa cd 音频压缩光盘
-đĩa nhạc  音频压缩光盘
-đĩa vcd 视频压缩光盘
-đĩa hình  视频压缩光盘
-đĩa dvd  数字式激光视频光盘
+usb  闪盘
 băng cassette  磁带
 thẻ từ  磁卡
 phần sụn 固件
@@ -4701,7 +4688,7 @@ nướng 烤
 quay  烤
 chiên  油炸的
 valentine  情人节
-sô-cô-la  巧克力
+sô cô la  巧克力
 hẹn hò  约会
 cầu hôn  求婚
 hoa hồng  玫瑰花
@@ -4863,7 +4850,7 @@ lên sân khấu  登场
 lời thoại kết  收场白
 lời thoại mở màn  开场白
 bán ra  出售
-hợp đồng (khế ước)  契约
+hợp đồng  契约
 gia hạn khế ước 续约
 vi phạm hợp đồng 违约
 bàn về hợp đồng 洽谈契约
@@ -4871,7 +4858,7 @@ bên a trong hợp đồng 契约甲方
 bên b trong hợp đồng 契约乙方
 hợp đồng bắt đầu có hiệu lực 契约生效
 hợp đồng 合同
-viết làm hai bản (một kiểu)  一式两份
+viết làm hai bản 一式两份
 hợp đồng viết làm hai bản 一式两份的合同
 viết làm ba bản 一式三分
 hợp đồng viết làm ba bản 一式三分的合同
@@ -4881,7 +4868,7 @@ hiện trạng quyền sở hữu 所有权状
 tài sản nhà nước 国有财产
 tài sản tư nhân 私有财产
 nhân chứng 证人
-người mối lái (môi giới)  经纪人
+người môi giới 经纪人
 người được nhượng 受让人
 người nhận đồ cầm cố 受押人
 người trông giữ nhà 照管房屋人
@@ -4895,7 +4882,7 @@ xin thứ lỗi vì tôi không bán nữa 恕不出售
 lập tức có thể dọn vào 立可迁入
 chuyển nhượng 转让
 sang tên 过户
-chi (phí) sang tên 过户费
+phí sang tên 过户费
 đăng ký sang tên 过户登记
 không có quyền chuyển nhượng 无转让权
 trả tiền mang tính chuyển nhượng 转让性付款
@@ -4920,7 +4907,7 @@ giá đất ở thành phố 都市地价
 tranh chấp nhà cửa 房屋纠纷
 hòa giải tranh chấp  调解纠纷
 một hộ 一户
-đơn nguyên (nhà)  单元
+đơn vị 单元
 một phòng một sảnh 一室一厅
 bốn phòng hai sảnh 四室二厅
 một căn hộ 一套房间
@@ -4942,9 +4929,9 @@ khu công viên 花园区
 khu thương mại 商业区
 khu nhà gỗ 木屋区
 khu dân nghèo 贫民区
-khu đèn đỏ (ăn chơi)  红灯区
+khu đèn đỏ 红灯区
 khu dân cư mới 新居住区
-vùng đất hoàng kim (vàng)  黄金地段
+vùng đất hoàng kim 黄金地段
 khu nhà ở cho công nhân 工人住宅区
 khu nhà tập thể 公共住宅区
 nằm ở 坐落
@@ -5112,7 +5099,7 @@ sĩ quan quân cảnh  警察巡官
 sĩ quan cảnh sát  警长
 xe quân cảnh  警车
 xe quân cảnh tuần tra  巡逻警车
-*** nghiệp vụ  警犬
+nghiệp vụ  警犬
 quyền lực cảnh sát  警察权力
 ngành cảnh sát  警察部门
 tổ cảnh sát chống báo loạn  防暴警察小队
@@ -5164,9 +5151,9 @@ tên lừa lọc  拐骗者
 kẻ cố ý gây hỏa hoạn  纵火者
 kẻ buôn lậu  走私者
 gái điếm  妓女
-gái mát-xa  按摩女郎
+gái mátxa  按摩女郎
 gái hát phòng trà  歌妓
-ma cô (kẻ dắt gái)  拉皮条者
+ma cô 拉皮条者
 gái gọi  应召女郎
 băng nhóm mại dâm  卖淫团伙
 khách làng chơi  嫖客
@@ -5186,7 +5173,7 @@ cảnh cáo 警告
 nhắc nhở 警告
 biển báo giao thông  交通标志
 đèn xanh đèn đỏ  红绿灯
-chỉ huy (quản lý) giao thông  交通管制
+kiểm soát giao thông  交通管制
 luật giao thông  交通规则
 giao thông một chiều  单向交通
 giao thông hai chiều  双向交通
@@ -5195,7 +5182,7 @@ tai nạn giao thông  交通事故
 tai nạn xe cộ  车祸
 phạm lụât giao thông  违反交通规则
 điều lệ quản lý trị an  治安管理条例
-sưu tra ( tìm kiếm )  搜查
+tìm kiếm  搜查
 khẩu cung  口供
 thu nhận  收容
 thả về  遣返
