@@ -83,6 +83,7 @@ class DataFormatter:
         lst_vi = []
         lst_cn = []
         for i in xs:
+            # print(i)
             span = re.search(r"[\u4e00-\u9fff]+", i).span()
             lst_vi.append(i[: span[0]].strip().lower())
             lst_cn.append(i[span[0] :].strip())
@@ -90,7 +91,7 @@ class DataFormatter:
             # print(lst_cn[-1])
         print(len(lst_vi))
         print(len(lst_cn))
-        num = 4349
+        num = -1
         print(lst_vi[num])
         print(lst_cn[num])
         return (lst_vi, lst_cn)
@@ -270,14 +271,18 @@ if __name__ == "__main__":
     # print(loader.np_load(lst_cn_name)[-1])
 
     # 6k Binh
-    path = "datasets/word_pairs_original.txt"
-    data = loader.load_txt(path)
 
-    lst_vi, lst_cn = formatter.preprocess_6k_binh(data)
-    loader.np_save(lst_cn, lst_cn_name)
-    loader.np_save(lst_vi, lst_vi_name)
-    print(len(loader.np_load(lst_vi_name)))
-    print(len(loader.np_load(lst_cn_name)))
-    print(loader.np_load(lst_vi_name)[-1])
-    print(loader.np_load(lst_cn_name)[-1])
+    for name in os.listdir("datasets/"):
+        if name.startswith("binh_"):
+            print(name)
+            path = os.path.join("datasets", name)
+            data = loader.load_txt(path)
+
+            lst_vi, lst_cn = formatter.preprocess_6k_binh(data)
+            loader.np_save(lst_cn, lst_cn_name)
+            loader.np_save(lst_vi, lst_vi_name)
+            print(len(loader.np_load(lst_vi_name)))
+            print(len(loader.np_load(lst_cn_name)))
+            print(loader.np_load(lst_vi_name)[-1])
+            print(loader.np_load(lst_cn_name)[-1])
 
