@@ -85,8 +85,9 @@ class DataFormatter:
         for i in xs:
             # print(i)
             span = re.search(r"[\u4e00-\u9fff]+", i).span()
-            lst_vi.append(i[: span[0]].strip().lower())
-            lst_cn.append(i[span[0] :].strip())
+            lst_vi.append(re.sub(" +", " ", i[: span[0]]).strip().lower())
+
+            lst_cn.append(re.sub(" +", " ", i[span[0] :]).strip().lower())
             # print(lst_vi[-1])
             # print(lst_cn[-1])
         print(len(lst_vi))

@@ -132,7 +132,7 @@ giám đốc 经理
 thư ký 秘书
 người viết đơn 申请人
 năm tháng ngày 年月日
-日月年 ngày tháng năm
+ngày tháng năm 日月年
 kinh nghiệm làm việc 工作经验
 họ tên tiếng việt 越文姓名
 họ tên tiếng trung 中文姓名
