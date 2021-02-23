@@ -90,11 +90,11 @@ class DataFormatter:
             lst_cn.append(re.sub(" +", " ", i[span[0] :]).strip().lower())
             # print(lst_vi[-1])
             # print(lst_cn[-1])
-        print(len(lst_vi))
-        print(len(lst_cn))
-        num = -1
-        print(lst_vi[num])
-        print(lst_cn[num])
+        # print(len(lst_vi))
+        # print(len(lst_cn))
+        # num = -1
+        # print(lst_vi[num])
+        # print(lst_cn[num])
         return (lst_vi, lst_cn)
 
     def preprocess_format_bai_hat(self, data: str) -> tuple:
@@ -201,8 +201,8 @@ if __name__ == "__main__":
     formatter = DataFormatter()
     loader = DataLoader()
 
-    lst_vi_name = "lst_vi_all_with6k_except_1001"
-    lst_cn_name = "lst_cn_all_with6k_except_1001"
+    lst_vi_name = "lst_vi_all_with6k_except_1001_dict"
+    lst_cn_name = "lst_cn_all_with6k_except_1001_dict"
     # 999letters
     data = loader.load_txt(os.path.join(ROOT_DIR, "datasets/999letters.txt"))
     lst_vi, lst_cn = formatter.preprocess(data)
@@ -210,7 +210,7 @@ if __name__ == "__main__":
     loader.np_save(lst_vi, lst_vi_name, update=False)
     print(len(loader.np_load(lst_cn_name)))
     print(len(loader.np_load(lst_vi_name)))
-
+    print("----------------")
     # 3k datasets
     for name in os.listdir("datasets/"):
         if name.startswith("PDF"):
@@ -222,6 +222,7 @@ if __name__ == "__main__":
             loader.np_save(lst_vi, lst_vi_name)
             print(len(loader.np_load(lst_cn_name)))
     print(len(loader.np_load(lst_vi_name)))
+    
     # 3k augment
     path = "datasets/dataset/3000cau_final.txt"
     data = loader.load_txt(path)
@@ -284,6 +285,19 @@ if __name__ == "__main__":
             loader.np_save(lst_vi, lst_vi_name)
             print(len(loader.np_load(lst_vi_name)))
             print(len(loader.np_load(lst_cn_name)))
+            print(loader.np_load(lst_vi_name)[-1])
+            print(loader.np_load(lst_cn_name)[-1])
+
+    for name in os.listdir("datasets/vi_zh"):
+        if name.startswith("vi-zh"):
+            print(name)
+            path = os.path.join("datasets/vi_zh", name)
+            data = loader.load_txt(path)
+            # print(data)
+            lst_vi, lst_cn = formatter.preprocess_6k_binh(data)
+
+            loader.np_save(lst_cn, lst_cn_name)
+            loader.np_save(lst_vi, lst_vi_name)
             print(loader.np_load(lst_vi_name)[-1])
             print(loader.np_load(lst_cn_name)[-1])
 
