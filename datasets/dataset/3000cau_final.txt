@@ -1,0 +1,3274 @@
+你好！
+Chào bạn!
+
+你好吗？
+Bạn khỏe không?
+
+你爸爸妈妈身体好吗？
+Sức khỏe bố mẹ bạn tốt không?
+
+我爸爸妈妈身体都很好。
+Sức khỏe bố mẹ tôi đều rất tốt.
+
+今天你的工作忙吗？
+Hôm nay công việc của bạn bận không?
+
+今天我的工作不太忙。
+Hôm nay công việc của tôi không bận lắm.
+
+明天你哥哥忙吗？
+Ngày mai anh trai bạn bận không?
+
+明天我哥哥很忙。
+Ngày mai anh trai tôi rất bận.
+
+昨天你的姐姐去哪儿？
+Hôm qua chị gái bạn đi đâu?
+
+昨天我的姐姐去老师家。
+Hôm qua chị gái tôi đến nhà cô giáo.
+
+你的姐姐去老师家做什么？
+Chị gái bạn đến nhà cô giáo làm gì?
+
+我的姐姐去老师家学习汉语。
+Chị gái tôi đến nhà cô giáo học Tiếng Trung.
+
+你老师的家在哪儿？
+Nhà cô giáo bạn ở đâu?
+
+我老师的家在学校。
+Nhà cô giáo tôi ở trường học.
+
+你的学校在哪儿？
+Trường học của bạn ở đâu.
+
+我的学校在河内。
+Trường học của tôi ở Hà Nội.
+
+今天星期几？
+Hôm nay thứ mấy?
+
+今天星期一。
+Hôm nay thứ hai.
+
+明天星期几？
+Ngày mai thứ mấy?
+
+明天星期二。
+Ngày mai thứ ba.
+
+昨天星期几？
+Hôm qua thứ mấy?
+
+昨天星期天。
+Hôm qua chủ nhật.
+
+星期天你做什么？
+Chủ nhật bạn làm gì?
+
+星期天我在家看电视。
+Chủ nhật tôi ở nhà xem tivi.
+
+星期天我也在家看电视。
+Chủ nhật tôi cũng ở nhà xem tivi.
+
+星期天我们都在家看电视。
+Chủ nhật chúng tôi đều ở nhà xem tivi.
+
+明天我去邮局寄信
+Ngày mai tôi đến bưu điện gửi thư
+
+你去吗？
+bạn đi không?
+
+明天我不去邮局寄信。
+Ngày mai tôi không đến bưu điện gửi thư.
+
+明天我去银行取钱。
+Ngày mai tôi đến ngân hàng rút tiền.
+
+明天我不去银行取钱。
+Ngày mai tôi không đến ngân hàng rút tiền.
+
+明天我去北京
+Ngày mai tôi đi bắc kinh
+
+你去吗？
+bạn đi không?
+
+明天我不去北京
+Ngày mai tôi không đi bắc kinh
+
+我去天安门。
+tôi đi thiên an môn.
+
+天安门在哪儿？
+Thiên an môn ở đâu?
+
+天安门在中国。
+Thiên an môn ở Trung Quốc.
+
+你知道中国在哪儿吗？
+Bạn biết Trung Quốc ở đâu không?
+
+我不知道中国在哪儿。
+Tôi không biết Trung Quốc ở đâu.
+
+星期六我在家学习。
+Thứ bẩy tôi ở nhà học bài.
+
+星期六我要去学校学习英语。
+Thứ bẩy tôi muốn đến trường học học tiếng Anh.
+
+你认识那个人吗？
+Bạn quen biết người kia không?
+
+他是谁？
+Ông ta là ai?
+
+我不知道他是谁。
+Tôi không biết ông ta là ai.
+
+他是我爸爸的朋友
+Ông ta là bạn của bố tôi
+
+他是大夫。
+ông ta là bác sỹ.
+
+他是大夫吗？
+Ông ta là bác sỹ à?
+
+对
+Phải
+
+他是我的大夫。
+ông ta là bác sỹ của tôi.
+
+你的妹妹做什么工作？
+Em gái bạn làm nghề gì?
+
+我的妹妹是学生。
+Em gái tôi là học sinh.
+
+你的妹妹是越南留学生吗？
+Em gái bạn là lưu học sinh Việt Nam phải không?
+
+对
+Đúng
+
+我的妹妹是越南留学生。
+em gái tôi là lưu học sinh Việt Nam.
+
+你的妹妹也是越南留学生吗？
+Em gái của bạn cũng là lưu học sinh Việt Nam phải không?
+
+是
+Phải
+
+他们都是越南留学生。
+bọn họ đều là lưu học sinh Việt Nam.
+
+我叫阿武。
+Tôi tên là Vũ.
+
+我今年二十岁。
+Năm nay tôi 20 tuổi.
+
+我是汉语老师。
+Tôi là giáo viên tiếng Trung.
+
+我的办公室在学校。
+Văn phòng của tôi ở trường học.
+
+我住在这个楼。
+Tôi sống ở tòa nhà này .
+
+我的房间号是八零八。
+Số phòng của tôi là 808.
+
+我的哥哥是大夫。
+Anh trai tôi là bác sỹ.
+
+我的妹妹是大学生。
+Em gái tôi là sinh viên.
+
+我的弟弟是留学生。
+Em trai tôi là lưu học sinh.
+
+我认识你的女老师。
+Tôi quen biết cô giáo của bạn.
+
+你的老师是英语老师。
+Cô giáo của bạn là giáo viên tiếng Anh.
+
+今天我的工作很忙。
+Hôm nay công việc của tôi rất mệt.
+
+我要回家休息。
+Tôi muốn về nhà nghỉ ngơi.
+
+我妹妹的工作也很忙。
+Công việc của em gái tôi cũng rất bận.
+
+我的弟弟也要去银行换钱。
+Em trai tôi cũng muốn đến ngân hàng rút tiền.
+
+明天上午我们都去银行换钱。
+Sáng ngày mai chúng tôi đều đến ngân hàng đổi tiền.
+
+我们要换八千人民币。
+Chúng tôi muốn đổi 8000 nhân dân tệ.
+
+我的朋友要换三千美元。
+Bạn của tôi muốn đổi 3000 đô Mỹ.
+
+今天下午我们还去邮局寄信。
+Chiều hôm nay chúng tôi còn đến bưu điện gửi thư .
+
+我给我的妈妈寄信。
+Tôi gửi thư cho mẹ của tôi.
+
+他们都很好。
+Họ đều rất khỏe.
+
+星期日我们去商店买水果。
+Chủ nhật chúng tôi đến cửa hàng mua hoa quả.
+
+我的妈妈要买两斤苹果。
+Mẹ tôi muốn mua hai cân táo.
+
+苹果一斤多少钱？
+Táo một cân bao nhiêu tiền?
+
+苹果一斤八块钱。
+Táo một cân là 8 tệ.
+
+你要买几斤苹果？
+Bạn muốn mua mấy cân táo?
+
+我要买四斤苹果。
+Tôi muốn mua 4 cân táo.
+
+四斤苹果是六十块钱。
+4 cân táo là 60 tệ.
+
+你还要买别的吗？
+Bạn còn muốn mua cái khác không?
+
+我还要买橘子。
+Tôi còn muốn mua quýt.
+
+橘子一斤多少钱？
+Quýt 1 cân bao nhiêu tiền?
+
+橘子一斤是九块钱。
+Một cân quýt là 9 tệ.
+
+你要买几斤橘子？
+Bạn muốn mua mấy cân quýt?
+
+我要买五斤橘子。
+Tôi muốn mua 5 cân quýt.
+
+五斤橘子是八十块钱。
+5 cân quýt là 80 tệ.
+
+一共多少钱？
+Tổng cộng hết bao nhiêu tiền?
+
+一共八百九十块钱。
+Tổng cộng hết 890 tệ.
+
+你给我一千块钱吧。
+Bạn đưa cho tôi 1000 tệ đi.
+
+我没有一千块钱。
+Tôi không có 1000 tệ.
+
+那你给我三千块钱也可以。
+Vậy bạn đưa cho tôi 3000 tệ cũng được.
+
+这是你的三千人民币。
+Đây là 3000 nhân dân tệ.
+
+我找你五块钱。
+Tôi trả lại bạn 5 tệ tiền thừa.
+
+这是什么？
+Đây là cái gì?
+
+这是书。
+Đây là sách.
+
+这是什么书？
+Đây là sách gì?
+
+这是汉语书。
+Đây là sách tiếng Trung.
+
+这是谁的汉语书？
+Đây là sách tiếng Trung của ai?
+
+这是我的汉语书。
+Đây là sách tiếng Trung của tôi.
+
+这是我的老师的汉语书。
+Đây là sách tiếng Trung của cô giáo của tôi.
+
+那是什么？
+Kia là cái gì?
+
+那是杂志。
+Kia là tạp chí.
+
+那是什么杂志？
+Kia là tạp chí gì?
+
+那是英文杂志。
+Kia là tạp chí tiếng Anh?
+
+那是谁的英文杂志？
+Kia là tạp chí tiếng Anh của ai?
+
+那是我的英文杂志。
+Kia là tạp chí tiếng Anh của tôi.
+
+那是我的老师的英文杂志。
+Kia là tạp chí tiếng Anh của cô giáo của tôi.
+
+这是我的朋友的英语书。
+Đây là sách tiếng Anh của bạn của tôi.
+
+今天中午你们要去哪儿吃饭？
+Buổi trưa hôm nay các bạn muốn đi đâu ăn cơm?
+
+今天中午我要去食堂吃饭。
+Buổi trưa hôm nay chúng tôi muốn đến nhà ăn ăn cơm.
+
+你们要吃什么？
+Các bạn muốn ăn gì?
+
+我们要吃八个馒头。
+Chúng tôi muốn ăn 8 chiếc bánh bàn thầu.
+
+你们要喝什么？
+Các bạn muốn uống gì?
+
+我们要喝汤。
+Chúng tôi muốn uống canh.
+
+你们要喝什么汤？
+Các bạn muốn uống canh gì?
+
+我们要喝鸡蛋汤。
+Chúng tôi muốn uống canh trứng gà.
+
+你们要喝几碗鸡蛋汤？
+Các bạn muốn uống mấy bát canh trứng gà?
+
+我们要喝一碗鸡蛋汤。
+Tôi muốn uống 1 bát canh trứng gà.
+
+你们要喝酒吗？
+Các bạn uống rượu không?
+
+我们不喝酒。
+Chúng tôi không uống rượu.
+
+我们要喝啤酒。
+Chúng tôi muốn uống bia.
+
+这些是什么？
+Những cái này là gì?
+
+这些是包子、
+Những cái này là bánh bao
+
+饺子和面条。
+xùi cảo và mỳ sợi.
+
+那些是什么？
+Những cái kia là gì?
+
+那些是我的英语书。
+Những cái kia là sách tiếng Anh của tôi.
+
+你姓什么？
+Bạn họ gì?
+
+你叫什么名字?
+Bạn tên là gì?
+
+你是哪国人？
+Bạn là người nước nào?
+
+我是越南人。
+Tôi là người Việt Nam.
+
+她是哪国人？
+Cô ta là người nước nào?
+
+她是美国人。
+Cô ta là người nước Mỹ.
+
+你们都是留学生吗？
+Các bạn đều là lưu học sinh phải không?
+
+
+我们都是越南留学生。
+Chúng tôi đều là lưu học sinh Việt Nam.
+
+你们学习什么？
+Các bạn học cái gì?
+
+我们都在汉语中心学习汉语。
+Tất cả chúng ta đều học tiếng Trung tại Trung tâm tiếng Trung.
+
+汉语难吗？
+Tiếng Trung khó không?
+
+汉语不太难。
+Tiếng Trung không khó lắm.
+
+汉字很难
+Chữ Hán rất khó
+
+发音不太难。
+phát âm không khó lắm.
+
+我爸爸要买三斤橘子。
+Bố tôi muốn mua ba cân quýt.
+
+一共二百五十块钱。
+Tổng cộng hết 250 tệ.
+
+今天我们都很累。
+Hôm nay chúng tôi đều rất mệt.
+
+我们都很高兴。
+Chúng tôi đều rất vui.
+
+明天我们去你的办公室。
+Ngày mai chúng tôi đến văn phòng làm việc của bạn.
+
+你的学校在越南吗？
+Trường học của bạn ở Việt Nam phải không?
+
+我的学校在那儿。
+Trường học tôi ở đàng kia.
+
+你的女老师是汉语老师吗？
+Cô giáo của bạn là giáo viên Tiếng Trung phải không?
+
+我的女老师是英语老师。
+Cô giáo của tôi là giáo viên Tiếng Anh.
+
+我的女老师是英语老师。
+Cô giáo của tôi là giáo viên Tiếng Anh.
+
+你知道你的女老师住在哪儿吗？
+Bạn biết cô giáo bạn sống ở đâu không?
+
+我不知道我的女老师住在哪儿。
+Tôi không biết cô giáo tôi sống ở đâu?
+
+你的女老师住在这个楼吗？
+Cô giáo bạn sống ở tòa nhà này phải không?
+
+我的女老师住在那个楼。
+Cô giáo tôi sống ở tòa nhà kia.
+
+你的女老师的房间号是多少？
+Số phòng của cô giáo bạn là bao nhiêu?
+
+我的女老师的房间号是九九九。
+Số phòng của cô giáo tôi là 999.
+
+你知道你的女老师的手机号是多少吗？
+Bạn biết số di động của cô giáo bạn là bao nhiêu không?
+
+我不知道我的女老师的手机号是多少。
+Tôi không biết số di động của cô giáo tôi là bao nhiêu.
+
+你的女老师今年多大了？
+Cô giáo của bạn năm nay bao nhiêu tuổi rồi?
+
+我的女老师今年二十岁了。
+Năm nay cô giáo tôi 20 tuổi rồi.
+
+你的女老师的办公室在哪儿？
+Văn phòng của cô giáo bạn ở đâu?
+
+我的女老师的办公室在我的家。
+Văn phòng của cô giáo tôi ở nhà tôi.
+
+你的家在哪儿？
+Nhà bạn ở đâu?
+
+我的家在越南。
+Nhà tôi ở Việt Nam.
+
+你住在哪儿？
+Bạn sống ở đâu?
+
+我住在你哥哥的家。
+Tôi sống ở nhà của anh trai bạn.
+
+你住在这个楼吗？
+Bạn sống ở tòa nhà này phải không?
+
+我的女朋友的房间号是九零八。
+Số phòng của bạn gái tôi là 908.
+
+我的哥哥知道她的朋友住在哪儿。
+Anh trai tôi biết bạn của cô ấy sống ở đâu.
+
+你的哥哥有手机号吗？
+Anh trai bạn có điện thoại di động không?
+
+我的哥哥有手机。
+Anh trai tôi có điện thoại di động.
+
+你的哥哥的手机号是多少？
+Số điện thoại di động của anh trai bạn là bao nhiêu?
+
+我的哥哥的手机号是六六六八八八九九九.
+Số điện thoại di động của anh trai tôi là 666888999.
+
+我很喜欢你的哥哥的手机号。
+Tôi rất thích số điện thoại di động của anh trai bạn.
+
+你的哥哥的手机号很好看。
+Số di động của anh trai bạn rất đẹp.
+
+你哥哥在哪儿买这个手机号？
+Anh trai bạn mua số di động này ở đâu?
+
+我哥哥在卖手机商店买这个手机号。
+Anh trai tôi mua ở cửa hàng bán điện thoại di động.
+
+多少钱？
+Bao nhiêu tiền?
+
+一千人民币。
+1000 nhân dân tệ.
+
+太贵了
+Đắt quá
+
+一百人民币吧。
+100 nhân dân tệ thôi.
+
+一百人民币太少了
+100 nhân dân tệ ít quá
+
+我不卖给你。
+tôi không bán cho bạn.
+
+那一百零一人民币吧
+Vậy 101 nhân dân tệ nhé
+
+行吗？
+được không?
+
+好吧
+Ok
+
+这是你的手机号。
+đây là số di động của bạn.
+
+明天是你的姐姐的生日吗？
+Ngày mai là sinh nhật của chị gái bạn phải không?
+
+明天不是我的姐姐的生日。
+Ngày mai không phải là sinh nhật của chị gái tôi.
+
+明天是我的妹妹的生日。
+Ngày mai là sinh nhật của em gái bạn.
+
+对啊
+Đúng rồi
+
+明天你来我家吧。
+ngày mai bạn tới nhà tôi nhé.
+
+我不知道你的家在哪儿。
+Tôi không biết nhà bạn ở đâu.
+
+我的家在那儿呢。
+Nhà tôi ở đàng kia kìa.
+
+你家有几个人？
+Nhà bạn có mấy người?
+
+我家有四个人，他们是我爸爸、妈妈、妹妹和我。
+Nhà tôi có 4 người,họ là bố mẹ tôi,em gái tôi và tôi.
+
+你的爸爸是大夫吗？
+Bố bạn là bác sỹ phải không?
+
+我爸爸是大夫。
+Bố tôi là bác sỹ.
+
+你妈妈呢？
+Thế còn mẹ bạn?
+
+我妈妈是营业员。
+Mẹ tôi là nhân viên giao dịch.
+
+你的妹妹作什么工作？
+Em gái bạn làm công việc gì?
+
+我的妹妹是护士。
+Em gái tôi là y tá.
+
+你的妹妹今年多大了？
+Em gái bạn năm nay bao nhiêu tuổi rồi?
+
+我的妹妹今年二十岁。
+Em gái tôi năm nay 20 tuổi.
+
+你的妹妹读什么大学？
+Em gái bạn học trường đại học gì?
+
+我的妹妹在河内大学学习。
+Em gái tôi học trường Đại học Hà Nội.
+
+河内大学在哪儿？
+Trường Đại học Hà Nội ở đâu?
+
+我不知道河内大学在哪儿。
+Tôi không biết trường đó ở đâu.
+
+河内大学在河内。
+Trường Đại học Hà Nội ở Hà Nội.
+
+我先给你们介绍一下儿
+Tôi xin được giới thiệu cho các bạn trước chút
+
+这位是我大学教授
+vị này là giáo sư trường tôi
+
+这位是我学校校长。
+vị này là hiệu trưởng trường tôi.
+
+她是我的秘书
+Cô ta là thư ký của tôi
+
+她是美国人。
+cô ta là người nước Mỹ.
+
+欢迎你们来我家。
+Chào mừng các bạn tới nhà tôi.
+
+他们俩都是美国留学生。
+Hai bọn họ đều là lưu học sinh nước Mỹ.
+
+你们在哪儿学习汉语？
+Các bạn học Tiếng Trung ở đâu?
+
+我们在北京语言大学学习汉语。
+Chúng tôi học Tiếng Trung ở trường Đại học Ngôn ngữ Bắc Kinh.
+
+你们的老师怎么样？
+Cô giáo của các bạn thế nào?
+
+你觉得学汉语难吗？
+Bạn cảm thấy học Tiếng Trung khó không?
+
+我觉得语法很难
+Tôi cảm thấy ngữ pháp rất khó
+
+听和说也比较容易
+nghe và nói cũng tương đối dễ
+
+但是读和写很难。
+nhưng mà đọc và viết rất khó.
+
+我给你们介绍一下儿
+Tôi giới thiệu cho các bạn một chút
+
+这位是我们的新同学
+vị này là học sinh mới của chúng ta
+
+也是我的舍友。
+cũng là bạn cùng phòng của tôi.
+
+你们在哪个班学习汉语？
+Các bạn học Tiếng Trung ở lớp nào?
+
+我们在九九九班学习汉语。
+Chúng tôi học Tiếng Trung ở lớp 999.
+
+你们的老师是谁？
+Giáo viên của các bạn là ai?
+
+我们的老师是英国人。
+Giáo viên của chúng tôi là người nước Anh.
+
+你有箱子吗？
+Bạn có vali không?
+
+我没有箱子。
+Tôi không có vali.
+
+你有几个箱子？
+Bạn có mấy chiếc vali?
+
+我有两个箱子。
+Tôi có 2 chiếc vali.
+
+你的箱子是什么颜色的？
+Vali của bạn mầu gì?
+
+我的箱子是黑色的
+Vali của tôi màu đen
+
+我的箱子在那儿呢。
+vali của tôi ở đàng kia kìa.
+
+你的箱子重吗？
+Vali của bạn nặng không?
+
+我的箱子不太重
+Vali của tôi không nặng lắm
+
+很轻的。
+rất nhẹ.
+
+请问
+Xin hỏi
+
+这是什么？
+đây là cái gì?
+
+这是中药
+Đây là thuốc bắc
+
+这是西药。
+đây là thuốc tây.
+
+你要吃什么药?
+Bạn muốn uống thuốc gì?
+
+我要吃中药和西药。
+Tôi muốn uống thuốc bắc và thuốc tây.
+
+这些是什么？
+Những cái này là cái gì?
+
+这些是日用品、
+Những cái này là đồ dùng hàng ngày
+
+衣服、
+quần áo
+
+雨伞和香水。
+ô che mưa và nước hoa.
+
+我的箱子很重。
+Chiếc vali của tôi rất nặng.
+
+你的箱子重不重？
+Chiếc của bạn nặng hay không nặng?
+
+这个黑色的很重
+Cái mầu đen này rất nặng
+
+那个红色的比较轻。
+cái màu đỏ kia tương đối nhẹ.
+
+你的箱子是新的还是旧的？
+Vali của bạn là chiếc mới hay là chiếc cũ?
+
+我的箱子是新的
+Vali của tôi là chiếc mới
+
+你的是旧的。
+của bạn là chiếc cũ.
+
+先生
+Thưa ông
+
+这些白色的是什么东西？
+những cái màu trắng này là đồ gì vậy?
+
+这些白色的是西药。
+Những cái mầu trắng này là thuốc tây.
+
+这种药很贵的。
+Thuốc này rất đắt tiền đó
+
+你要吃点儿吗？
+ông muốn uống chút không?
+
+好久不见你了。
+Lâu ngày không gặp bạn
+
+你最近怎么样？
+dạo này bạn thế nào?
+
+我很好
+Tôi rất khỏe
+
+谢谢。
+cảm ơn.
+
+最近你的工作忙不忙？
+Dạo này công việc bạn bận hay không bận?
+
+你要喝点儿什么吗？
+Bạn muốn uống chút gì không?
+
+你要喝咖啡还是喝茶？
+Bạn muốn uống trà hay là café?
+
+我要喝点儿热茶。
+Tôi muốn uống chút trànóng.
+
+你的车是什么颜色的？
+Xe của bạn mầu gì?
+
+我的车是黑色的。
+Xe của tôi mầu đen.
+
+你的车是新的还是旧的？
+Xe của bạn mới hay cũ?
+
+我的车是新的。
+Xe của tôi là chiếc mới.
+
+那辆黑色的是你的车吗？
+Chiếc xe mầu đen kia là của bạn phải không?
+
+我是这个公司的经理
+Tôi là giám đốc của công ty này
+
+她是我的秘书。
+cô ta là thư ký của tôi.
+
+我有两辆摩托车
+Tôi có hai chiếc xe máy
+
+三辆汽车和一辆自行车。
+3 chiếc oto và một chiếc xe đạp.
+
+你知道我的自行车在哪儿吗？
+Bạn biết xe đạp của tôi ở đâu không?
+
+这是我全家的照片。
+Đây là ảnh của cả gia đình tôi.
+
+你有姐姐吗？
+Bạn có chị gái không?
+
+我没有姐姐
+Tôi không có chị gái
+
+我只有一个妹妹。
+tôi chỉ có một em gái.
+
+我的妈妈是大夫
+Mẹ tôi là bác sỹ
+
+我的妹妹是护士
+em gái tôi là y tá
+
+我的爸爸是经理
+bố tôi là giám đốc
+
+我是学生。
+tôi là học sinh.
+
+你们的是一家什么公司？
+Công ty các bạn là công ty gì?
+
+我们的公司是外贸公司。
+Công ty chúng tôi là công ty thương mại quốc tế.
+
+你们的公司有大概多少个职员？
+Công ty các bạn có bao nhiêu nhân viên?
+
+我们的公司有大概一百五十个职员。
+Công ty chúng tôi có khoảng 150 nhân viên.
+
+你是她的职员吗？
+Bạn là nhân viên của cô ta phải không?
+
+她是你的秘书吗？
+Cô ta là thư ký của bạn phải không?
+
+你的哥哥结婚了吗？
+Anh trai bạn đã kết hôn chưa?
+
+你家有几个孩子了？
+Nhà bạn có mấy nhóc rồi?
+
+我家有两个孩子
+Nhà tôi có hai đứa
+
+老大是女的
+đứa lớn là con gái
+
+老二是男的。
+đứa thứ hai là con trai.
+
+你的哥哥是银行职员吗？
+Anh trai bạn là nhân viên ngân hàng phải không?
+
+我的哥哥不是银行职员
+Anh trai tôi không phải là nhân viên ngân hàng
+
+我的姐姐是银行职员。
+chị gái tôi là nhân viên ngân hàng.
+
+你的妹妹是老师还是护士？
+Em gái bạn là giáo viên hay là y tá?
+
+我的妹妹是护士。
+Em gái tôi là y tá.
+
+你的妹妹在哪儿工作？
+Em gái bạn làm việc ở đâu?
+
+我的妹妹在医院工作
+Em gái tôi làm việc ở bệnh viện
+
+我的姐姐在银行工作。
+chị gái tôi làm việc ở ngân hàng.
+
+你要喝点儿咖啡吗？
+Bạn muốn uống chút café không?
+
+谢谢
+Cảm ơn
+
+给我来一杯咖啡吧。
+cho tôi một tách café nhé.
+
+今天晚上我们去看电影还是买东西？
+Tối nay chúng ta đi xem phim hay là đi mua đồ?
+
+今天晚上我要去超市买东西。
+Tôi nay tôi muốn đi siêu thị mua sắm.
+
+你喜欢吃桃还是草莓？
+Bạn thích ăn đào hay là dâu tây?
+
+两个我都喜欢吃。
+Tôi đều thích ăn cả hai.
+
+这是我很喜欢看的中文书。
+Đây là sách Tiếng Trung mà tôi rất thích xem.
+
+你在读什么大学？
+Bạn đang học trường Đại học gì?
+
+我在读北京大学。
+Tôi đang học trường Đại học Bắc Kinh.
+
+现在几点了？
+Bây giờ mấy giờ rồi?
+
+现在是七点半。
+Bây giờ là 7:30.
+
+你几点上课？
+Mấy giờ bạn vào học?
+
+上午八点我上课。
+Sáng 8 giờ tôi vào học.
+
+你几点有课？
+Mấy giờ bạn có tiết học?
+
+晚上六点半我有课。
+Tối 6:30 tôi có tiết học.
+
+我们什么时候去超市买衣服。
+Khi nào chúng ta đi siêu thị mua quần áo.
+
+今天下午我们去那儿买一些东西。
+Chiều nay chúng ta đến đó mua ít đồ.
+
+现在是八点差五分。
+Bây giờ là 8 giờ kém 5 phút.
+
+请问
+Xin hỏi
+
+去银行怎么走？
+đến ngân hàng đi như thế nào?
+
+你一直往前走，到第一个红绿灯就往右拐
+Bạn đi thẳng một mạch đến ngã tư thứ nhất thì rẽ phải
+
+走路大概五分钟就到
+đi bộ khoảng 5 phút sẽ tới
+
+银行就在你的左边。
+ngân hàng ở phía bên trái bạn.
+
+银行离这儿有多远？
+Ngân hàng cách đây bao xa?
+
+走路大概五分钟。
+Khoảng 5 phút đi bộ.
+
+请问
+Xin hỏi
+
+百盛大楼在哪儿？
+Tòa nhà Parkson ở chỗ nào?
+
+你看
+Bạn nhìn kìa
+
+你前边的那个楼就是。
+chính là tòa nhà phía trước bạn đó.
+
+你知道从这儿到邮局怎么走吗？
+Bạn biết từ đây đến bưu điện đi như thế nào không?
+
+我不知道
+Tôi không biết
+
+你问她吧。
+bạn hỏi cô ta xem.
+
+很简单的
+Rất đơn giản
+
+你坐出租车大概五分钟就到。
+bạn ngồi taxi khoảng 5 phút là tới.
+
+请问
+Xin hỏi
+
+她还住在三零二号房间吗？
+cô ta vẫn sống ở phòng 302 phải không?
+
+她不住在这儿
+Cô ta không sống ở đây
+
+她搬家了
+cô ta dọn nhà rồi
+
+搬到三零三号房间去了。
+dọn đến phòng 303 rồi.
+
+今天晚上我要去看电影
+Tối nay tôi muốn đi xem phim
+
+你跟我去吧。
+bạn đi với tôi nhé.
+
+好吧
+Ok
+
+咱们走吧。
+chúng ta đi thôi.
+
+你常去书店买英语书吗？
+Bạn thường đến hiệu sách mua sách tiếng Anh không?
+
+有时候我去那儿买英语书
+Thỉnh thoảng tôi đến đó mua sách tiếng Anh
+
+有时候我也去图书馆借中文书。
+thỉnh thoảng tôi cũng đến thư viện mượn sách Tiếng Trung.
+
+我常常上网查学汉语资料。
+Tôi thường lên mạng search tài liệu học Tiếng Trung.
+
+晚上你常常做什么？
+Buổi tối bạn thường làm gì?
+
+晚上我常常复习课文
+Buổi tối tôi thường ôn tập bài học
+
+预习生词
+chuẩn bị trước từ vựng
+
+或者做练习。
+hoặc làm bài tập.
+
+有时候我上网跟朋友聊天儿或者看越南高清电影。
+Thỉnh thoảng tôi lên mạng chat chit với bạn bè hoặc xem phim HD Việt Nam.
+
+我也常常上网看中国高清电影和电视剧。
+Tôi cũng thường lên mạng xem phim HD Trung Quốc và phim bộ.
+
+我很少上网看电影
+Tôi rất ít khi lên mạng xem phim
+
+我常常去教室学习英语和汉语。
+tôi thường đến lớp học học tiếng Anh và tiếng Trung.
+
+星期六和星期日你常常做什么？
+Thứ bảy và Chủ nhật bạn thường làm gì?
+
+有时候我在家休息
+Thỉnh thoảng tôi ở nhà nghỉ ngơi
+
+有时候我跟朋友一起去公园玩儿或者去超市买一些东西。
+thỉnh thoảng tôi đi công viên chơi với bạn bè hoặc đi siêu thị mua ít đồ.
+
+我总是上网玩儿网游。
+Buổi tối tôi thường xuyên lên mạng chơi game online.
+
+这个星期五你想去超市买衣服还是去五星级酒店吃饭呢？
+Thứ sáu tuần này bạn muốn đi siêu thị mua quần áo hay là đến khách sạn 5 sao ăn cơm?
+
+明天你跟我一起去玩儿
+Ngày mai bạn đi chơi với tôi nhé
+
+好吗？
+được không?
+
+不好
+Không được
+
+明天晚上我要在家复习汉语生词
+ngày mai tôi phải ở nhà ôn tập từ mới tiếng Trung
+
+所以明天我不能跟你一起去
+nên ngày mai tôi không thể đi cùng với bạn được
+
+你找别人吧。
+bạn tìm người khác đi.
+
+我不常去商店买水果
+Tôi không thường xuyên đến cửa hàng mua hoa quả
+
+我常去超市买苹果和橘子。
+tôi thường đến siêu thị mua táo và quýt.
+
+我的房间不太安静
+Phòng của tôi không được yên tĩnh lắm
+
+所以晚上我常常去图书馆学习。
+nên buổi tối tôi thường đến thư viện học bài.
+
+我在那儿看汉语书和看英文杂志。
+Tôi đọc sách tiếng Trung và xem tạp chí tiếng Anh ở đó.
+
+我常常上网看新闻和收发电子邮件。
+Tôi thường lên mạng đọc tin tức và check mail.
+
+你在做什么呢？
+Bạn đang làm gì vậy?
+
+她在你的房间吗？
+Cô ta có ở phòng bạn không?
+
+她不在我的房间
+Cô ta không có ở phòng tôi
+
+你找她有什么事？
+bạn tìm cô ta có việc gì?
+
+我是她的老师
+Tôi là cô giáo của cô ta
+
+我找她有点儿事。
+tôi tìm cô ta có chút việc.
+
+什么事
+Việc gì
+
+快点说吧。
+nói nhanh lên đi.
+
+没什么事
+Không có gì
+
+改天我再来吧。
+để hôm khác tôi quay lại.
+
+我出来的时候
+Lúc tôi đi ra ngoài
+
+她正在听音乐呢。
+cô ta đang xem tivi.
+
+你是不是在玩儿网游吧？
+Có phải là bạn đang chơi game online không?
+
+没有
+Đâu có
+
+我在学习呢。
+tôi đang học bài mà.
+
+你找我有事吗？
+Bạn tìm tôi có việc gì không?
+
+今天你跟我一起去书店买汉语书吧。
+Hôm nay bạn đi với tôi đến hiệu sách mua sách tiếng Trung nhé.
+
+我想买一本汉越词典。
+Tôi muốn mua một quyển từ điển Trung Việt.
+
+我们怎么去呢？
+Chúng ta đi như thế nào đây?
+
+我们坐车去吧。
+Chúng ta ngồi xe đi đi.
+
+今天星期六
+Hôm nay thứ bảy
+
+坐车太挤
+ngồi xe chen chúc lắm
+
+我们骑自行车去怎么样？
+chúng ta đi xe đạp,thế nào?
+
+这个学期你们有几门课？
+Học kỳ này các bạn có mấy môn?
+
+这个学期我们有四门课：
+Học kỳ này chúng tôi có bốn môn:
+
+听力课、
+môn nghe hiểu
+
+阅读课、
+môn đọc hiểu
+
+口语课和综合科。
+môn khẩu ngữ và môn tổng hợp.
+
+武老师教你们什么课？
+Thầy Vũ dạy các bạn môn gì?
+
+武老师教我们听力课和口语课。
+Thầy Vũ dạy chúng tôi môn nghe và nói.
+
+谁教你们阅读课和综合课？
+Ai dạy các bạn môn đọc hiểu và môn tổng hợp?
+
+娟老师教你们阅读课和综合课。
+Cô Quyên dạy các bạn môn đọc hiểu và môn tổng hợp.
+
+今天你们有几节课？
+Hôm nay các bạn có mấy tiết học?
+
+今天我们有四节课
+Hôm nay chúng tôi có bốn tiết học
+
+上午两节
+sáng hai tiết
+
+下午两节。
+chiều hai tiết.
+
+今天晚上她有课吗？
+Tối nay cô ta có tiết học không?
+
+今天晚上她没有课。
+Tối nay cô ta không có tiết học.
+
+她住在多少号房间？
+Cô ta sống ở phòng số bao nhiêu?
+
+她住在888号房间。
+Cô ta sống ở phòng số 888.
+
+她跟谁一起住？
+Cô ta sống cùng ai?
+
+她跟她的妹妹一起住。
+Cô ta sống cùng em gái cô ta.
+
+明天我们怎么去北京呢？
+Ngày mai chúng ta đi Bắc Kinh như thế nào?
+
+我们明天坐飞机去吧。
+Ngày mai chúng ta ngồi máy bay đi Bắc Kinh đi.
+
+今天晚上我去书店买两本汉越词典。
+Tối hôm nay tôi đến hiệu sách mua hai quyển từ điển Hán – Việt.
+
+我去工作的时候
+Trong lúc tôi đi làm
+
+她在家里上网跟朋友聊天儿。
+cô ta ở nhà xem lên mạng chat chit với bạn bè.
+
+我常去百货大楼买东西
+Tôi thường đến tòa nhà bách hóa mua đồ
+
+那儿的东西很多
+đồ ở đó rất nhiều
+
+也很便宜。
+cũng rất rẻ.
+
+你的商店有汽水吗？
+Cửa hàng các bạn có nước ngọt không?
+
+我要买桔子。
+Tôi muốn mua quýt.
+
+一斤多少钱？
+Một cân bao nhiêu tiền?
+
+太贵了
+Đắt quá
+
+便宜一点儿吧。
+rẻ chút đi.
+
+这种便宜
+Loại này rẻ
+
+你尝尝。
+bạn nếm thử xem.
+
+这是一斤半
+Đây là một cân rưỡi
+
+你的是三块五。
+của bạn là ba tệ rưỡi.
+
+你还要别的吗？
+Bạn còn muốn cái khác không?
+
+不要了。
+Thôi không cần nữa.
+
+天冷了
+Trời lạnh rồi
+
+我想买一件毛衣。
+tôi muốn mua một chiếc áo len.
+
+我也要买一些东西。
+Tôi cũng muốn mua một ít đồ.
+
+我们什么时候去？
+Khi nào thì chúng ta đi?
+
+我们星期天去超市看看衣服
+Chủ nhật chúng ta đi xem chút quần áo
+
+怎么样？
+thế nào?
+
+星期日人太多
+Chủ nhật người đông lắm
+
+我们下午去吧。
+chúng ta đi buổi chiều đi.
+
+服务员
+Em ơi
+
+我想看看那件毛衣。
+anh muốn xem chút cái áo len này.
+
+我可以试试吗？
+Tôi có thể chút không?
+
+你试一下儿吧。
+Bạn thử chút đi.
+
+这件有点儿短。
+Chiếc này hơi ngắn chút.
+
+你有长点儿的吗？
+Bạn có chiếc nào dài hơn chút không?
+
+那你试试这件怎么样？
+Vậy bạn thử chiếc này xem thế nào?
+
+我觉得这件毛衣不大也不小
+Tôi cảm thấy cái áo len này không to cũng không nhỏ
+
+很合适
+rất vừa vặn
+
+我要买这件。
+tôi muốn mua chiếc này.
+
+你是不是在听音乐呢？
+Bạn đang nghe nhạc phải không?
+
+我没有听音乐
+Tôi đâu có nghe nhạc
+
+我在看电视呢。
+tôi đang xem tivi đây.
+
+明天我要去北京买几件衣服
+Ngày mai tôi muốn đi Bắc Kinh mua quần áo.
+
+你跟我一起去吗？
+Bạn đi với tôi không?
+
+好啊
+Ok
+
+我们怎么去呢？
+chúng ta đi như thế nào đây?
+
+坐车去还是打的去呢？
+Ngồi xe hay là bắt taxi đi?
+
+我们打的去吧。
+Chúng ta bắt taxi đi đi.
+
+武老师教你们什么？
+Thầy Vũ dạy các bạn cái gì?
+
+他教我们听力和口语。
+Anh ta dạy chúng tôi nghe và nói.
+
+我正想去书店买汉越词典呢。
+Tôi đang muốn đến hiệu sách mua từ điển Trung Việt.
+
+你跟我去吗？
+Bạn đi với tôi không?
+
+她来找我的时候
+Lúc cô ta đến tìm tôi
+
+我正在看电影呢。
+tôi đang xem tivi.
+
+今天上午她要去书店买书
+Sáng hôm nay cô ta muốn đến hiệu sách mua sách
+
+问我想不想跟她一起去。
+hỏi tôi có muốn đi cùng cô ta không.
+
+我问她要买什么书
+Tôi hỏi cô ta muốn mua sách gì
+
+她说
+cô ta nói
+
+因为她没有汉语书
+bởi vì cô ta không có sách tiếng Trung
+
+所以想买一本。
+nên muốn mua một quyển.
+
+我问她我们怎么去
+Tôi hỏi cô ta chúng ta đi như thế nào
+
+她说坐车去
+cô ta nói là ngồi xe đi
+
+我说今天星期日
+tôi nói là hôm nay Chủ nhật
+
+坐车太挤
+người đi xe rất nhiều
+
+书店离这儿不太远
+hiệu sách cách đây không xa lắm
+
+所以骑自行车去比较好。
+vì vậy đi xe sẽ tốt hơn.
+
+你跟谁一起去超市买东西？
+Bạn đi mua đồ với ai?
+
+我跟我的朋友一起去超市买一些东西。
+Tôi đi siêu thị mua một ít đồ với bạn của tôi.
+
+你现在在哪儿学习汉语？
+Bây giờ bạn học tiếng Trung ở đâu?
+
+我现在在北京语言大学学习汉语。
+Bây giờ tôi học tiếng Trung ở Đại học Ngôn ngữ Bắc Kinh.
+
+我要去邮局寄包裹
+Tôi phải đến bưu điện gửi bưu kiện
+
+顺便去商店买一本英文杂志。
+tiện thể đến cửa hàng mua một quyển tạp chí tiếng Anh.
+
+你跟我一起去吗？
+Bạn đi với tôi không?
+
+不去
+Không đi
+
+一会儿她来找我。
+lát nữa cô ta tới tìm tôi.
+
+你顺便替我买几张邮票和一份报纸吧。
+Tiện thể bạn mua hộ tôi mấy chiếc tem và một tờ báo nhé.
+
+但是我钱包里没有钱。
+Nhưng mà trong ví tôi không có tiền.
+
+我用什么帮你买呢？
+Tôi dùng gì để giúp bạn mua đây?
+
+没事儿
+Không sao
+
+你用我的钱吧
+bạn dùng tiền của tôi đi
+
+这是我的银行卡
+đây là thẻ ngân hàng của tôi
+
+卡里有一万美元
+trong thẻ có mười nghìn USD
+
+明天我要去上海旅行。
+Ngày mai tôi muốn đi du lịch Thượng Hải.
+
+明天一个外贸代表团去上海参观
+Ngày mai đoàn đại biểu Thương mại Quốc tế đến Thượng Hải tham quan
+
+我去给他们当翻译。
+tôi đi cùng họ để làm phiên dịch.
+
+你坐火车去还是坐飞机去？
+Bạn đi tầu hỏa hay là ngồi máy bay?
+
+我坐飞机去。
+Tôi ngồi máy bay đi.
+
+那你什么时候回来？
+Vậy khi nào bản trở về?
+
+九月九号我回来。
+Ngày mồng 9 tháng 9 tôi trở về.
+
+你替我办件事
+Bạn làm hộ tôi một việc
+
+行吗？
+được không?
+
+什么事？
+Việc gì?
+
+你快点儿说吧。
+Nói nhanh lên.
+
+好的
+Ok
+
+没问题。
+không vấn đề.
+
+今天晚上我要去图书馆借一本汉语词典。
+Tối nay tôi muốn đến thư viện mượn một quyển từ điển tiếng Trung.
+
+昨天晚上我给你发邮件。
+Tối qua tôi gửi email cho bạn.
+
+你收到了吗？
+Bạn nhận được chưa?
+
+明天有一个代表团来越南旅行
+Ngày mai có một đoàn đại biểu đến Việt Nam du lịch
+
+所以明天你帮我去给他们当翻译吧。
+vì vậy ngày mai bạn giúp tôi đi phiên dịch cho họ nhé.
+
+下午我跟朋友一起去商店买东西。
+Buổi chiều tôi đến cửa hàng mua đồ với bạn của tôi.
+
+明天代表团坐飞机去上海参观博物馆。
+Ngày mai đoàn đại biểu ngồi máy bay đến Thượng Hải tham quan Viện bảo tàng.
+
+我给代表团当汉语翻译。
+Tôi làm phiên dịch cho đoàn đại biểu.
+
+我去上海看我的老朋友。
+Tôi đến Thượng Hải thăm người bạn cũ của tôi.
+
+我们都用汉语跟中国同学聊天儿。
+Chúng tôi đều dùng tiếng Trung nói chuyện với học sinh Trung Quốc.
+
+我现在去办公室找我的老师。
+Bây giờ tôi đến văn phòng tìm cô giáo của tôi.
+
+今天晚上你们要去哪儿看电影？
+Tôi nay các bạn muốn đi đâu xem phim?
+
+明天上午越南留学生去参观博物馆。
+Sáng mai lưu học sinh Việt Nam đi tham quan Viện bảo tàng.
+
+我可以看看这件羽绒服吗？
+Tôi có thể xem chút cái áo lông vũ này không?
+
+你看一下儿这件怎么样？
+Bạn xem chiếc này thế nào?
+
+又好又便宜。
+Vừa tốt vừa rẻ.
+
+我觉得这件有点儿长。
+Tôi cảm thấy cái này hơi dài chút.
+
+你没有短一点儿的吗？
+Bạn không có cái ngắn chút hơn à?
+
+你要深颜色的还是要浅颜色的？
+Bạn muốn cái mầu đậm hay là cái mầu nhạt?
+
+我要浅颜色的。
+Tôi muốn cái mầu nhạt.
+
+我可以试试这件羽绒服吗？
+Tôi có thể thử chiếc áo lông vũ này không?
+
+当然可以啊。
+Tất nhiên là được rồi.
+
+我觉得这件羽绒服太肥了。
+Tôi cảm thấy chiếc áo lông vũ này to quá.
+
+你有没有瘦一点儿的？
+Bạn có cái nào nhỏ hơn chút không?
+
+你再试试这件羽绒服吧。
+Bạn thử lại chiếc áo lông vũ này đi.
+
+我觉得这件羽绒服不大也不小
+Tôi cảm thấy chiếc áo lông vũ này không to cũng không nhỏ
+
+正合适
+vừa vặn
+
+颜色也很好看。
+mầu sắc cũng rất đẹp.
+
+这件羽绒服怎么卖？
+Chiếc áo lông vũ này bán thế nào?
+
+这件羽绒服是八千块。
+Chiếc áo lông vũ này tám nghìn tệ.
+
+太贵了
+Đắt quá
+
+你给我便宜一点儿吧
+bạn bán rẻ chút cho tôi đi
+
+一千怎么样？
+một nghìn tệ thế nào?
+
+一千太少了
+Một nghìn tệ ít quá
+
+不卖。
+không bán.
+
+这件可以打八折
+Chiếc áo này có thể giảm 20%
+
+你买吗？
+bạn mua không?
+
+一千零一行不行？
+Một nghìn linh một tệ được không?
+
+给你吧。
+Cho bạn đó.
+
+我试试这件毛衣可以吗？
+Tôi có thể thử chiếc áo len này không?
+
+这种毛衣多少钱一件？
+Loại áo len này bao nhiêu tiền một chiếc?
+
+我太胖了
+Tôi béo quá
+
+这件衣服有点儿瘦
+bộ quần áo này hơi bé chút
+
+不太合适。
+không vừa lắm.
+
+这件颜色有点儿深。
+Bộ này mầu sắc hơi đậm chút.
+
+你有没有颜色浅一点儿的？
+Bạn có cái nào mầu nhạt hơn chút không?
+
+我觉得这本书有点儿难
+Tôi cảm thấy quyển sách này hơi khó chút
+
+那本容易一点儿。
+quyển kia dễ hơn chút.
+
+我觉得这个房间有点儿小。
+Tôi cảm thấy căn phòng này hơi bé chút.
+
+这件衣服有点儿贵
+Bộ quần áo này hơi đắt chút
+
+那件便宜一点儿。
+bộ kia rẻ hơn chút.
+
+你看看这本书怎么样？
+Bạn xem chút quyển sách này thế nào?
+
+听说北京的冬天很冷
+Nghe nói mùa đông Bắc Kinh rất lạnh
+
+我还没买羽绒服呢
+tôi vẫn chưa mua áo lông vũ
+
+想去买一件。
+muốn đi mua một cái.
+
+有一家商店
+Có một cửa hàng
+
+那里的衣服又好又便宜。
+quần áo ở đó vừa tốt vừa rẻ.
+
+明天我们一起去看看吧。
+Ngày mai chúng ta cùng nhau đến đó xem chút đi.
+
+明天我们一起去看看吧。
+Ngày mai chúng ta cùng nhau đến đó xem chút đi.
+
+明天我的一个朋友来越南旅行
+Ngày mai một người bạn của tôi đến Việt Nam du lịch
+
+我要去机场接她
+tôi phải đến sân bay đón cô ta
+
+所以不能跟你一起去。
+vì vậy không đi cùng bạn được.
+
+没关系
+Không sao
+
+我可以一个人去。
+tôi có thể đi một mình.
+
+你的姐姐听说我要去买衣服
+Chị gái của bạn nghe nói tôi muốn đi mua quần áo
+
+所以也想跟我一起去买羽绒服。
+nên cũng muốn đi cùng tôi mua áo lông vũ.
+
+我正想找人跟我一起去呢。
+Tôi đang muốn tìm người để đi cùng đây.
+
+明天我们几点出发？
+Ngày mai mấy giờ chúng ta xuất phát?
+
+明天是星期天
+Ngày mai là Chủ nhật
+
+坐车的人一定很多
+người đi xe chắc chắn sẽ rất đông
+
+我们早点儿去吧。
+chúng ta đi sớm chút đi.
+
+七点半走怎么样？
+Bảy rưỡi đi thế nào?
+
+那个商店离学校不太远
+Cửa hàng đó cách trường học không xa lắm
+
+我们不用坐车去
+chúng ta không cần ngồi xe đi
+
+可以骑车去。
+có thể đi xe đạp.
+
+听说有一个车展很好看
+Nghe nói có một triển lãm xe hơi rất đẹp
+
+我很想去看看
+tôi rất muốn đi xem.
+
+你想不想看？
+Bạn muốn xem không?
+
+我也很想去看。
+Tôi cũng rất muốn đi xem.
+
+我们一起去吧。
+Chúng ta cùng đi thôi.
+
+我跟你一起去买衣服
+Tôi đi mua quần áo cùng bạn
+
+你跟我一起去看车展吧。
+bạn cùng tôi đi xem triển lãm xe hơi.
+
+你哪一年大学毕业？
+Bạn tốt nghiệp năm nào?
+
+我明年大学毕业。
+Năm sau tôi tốt nghiệp.
+
+你今年多大？
+Năm nay bạn bao nhiêu tuổi?
+
+我今年十八岁。
+Năm nay tôi 18 tuổi.
+
+你属什么？
+Bạn tuổi gì?
+
+我属龙。
+Tôi tuổi Rồng.
+
+我的生日是十月十七号
+Sinh nhật của tôi là ngày 17 tháng 10
+
+正好是星期天。
+vừa vặn vào Chủ nhật.
+
+你打算怎么过你的生日？
+Bạn dự định sinh nhật như thế nào?
+
+我准备举行一个生日晚会。
+Tôi chuẩn bị tổ chức một buổi tiệc sinh nhật.
+
+你也来参加，好吗？
+Bạn cũng tới tham gia,được không?
+
+你的生日什么时候举行？
+Khi nào bạn tổ chức sinh nhật?
+
+星期天晚上七点。
+7h tối Chủ nhật.
+
+你的生日在哪儿举行？
+Sinh nhật của bạn tổ chức ở đâu?
+
+就在我的房间。
+Ở ngay phòng của tôi.
+
+今年的春节是几月几号？
+Tết Xuân năm nay là mồng mấy tháng mấy?
+
+我们星期一去还是星期二去？
+Chúng ta đi Thứ hai hay là Thứ ba?
+
+这个月十号是星期几？
+Mồng 10 tháng này là Thứ mấy?
+
+你打算毕业后做什么？
+Bạn dự định làm gì sau khi tốt nghiệp?
+
+我打算毕业后当翻译。
+Tôi dự định làm phiên dịch sau khi tốt nghiệp.
+
+今天晚上七点在我的学校举行欢迎会。
+Tối nay 7h tổ chức tiệc hoan nghênh ở trường tôi.
+
+你的生日晚会在哪儿举行？
+Tiệc sinh nhật của bạn được tổ chức ở đâu?
+
+谁来参加你的生日晚会？
+Ai tới tham gia tiệc sinh nhật của bạn?
+
+你给我送的生日礼物很好看。
+Món quà sinh nhật bạn tặng tôi rất đẹp.
+
+今天我在我的房间举行生日晚会。
+Hôm nay tôi tổ chức tiệc sinh nhật ở phòng tôi.
+
+我们班的同学和几个外国朋友都来参加我的生日晚会。
+Bạn học của lớp tôi và mấy người bạn Nước ngoài đều tới tham gia tiệc sinh nhật của tôi.
+
+他们送我很多好看的礼物。
+Họ tặng tôi rất nhiều món quà đẹp.
+
+晚会上
+Trong buổi tiệc
+
+我们一起唱歌
+chúng tôi cùng nhau hát
+
+喝酒
+uống rượu
+
+玩儿得很开心。
+chơi đùa rất vui.
+
+能在中国跟我的朋友一起过生日
+Được trải nghiệm sinh nhật cùng bạn bè của tôi ở Trung Quốc
+
+我觉得很快乐。
+tôi cảm thấy rất vui vẻ.
+
+我觉得这个玩具很有意思。
+Tôi cảm thấy món đồ chơi này rất thú vị.
+
+你每天几点上课？
+Hàng ngày mấy giờ bạn vào học?
+
+我每天八点上课。
+Hàng ngày 8h tôi vào học.
+
+明天早上我们几点出发？
+Sáng ngày mai mấy giờ chúng ta xuất phát?
+
+明天早上我们六点半出发。
+Sáng ngày mai 6:30 chúng ta xuất phát.
+
+你每天六点半起床还是七点起床？
+Hàng ngày 6:30 bạn thức dậy hay là 7h?
+
+我每天六点半起床。
+Hàng ngày 6:30 tôi thức dậy.
+
+我每天下午都去操场锻炼身体。
+Hàng ngày buổi chiều tôi đều đến sân tập rèn luyện sức khỏe.
+
+我每天早上七点半起床
+Hàng ngày sáng 7:30 tôi thức dậy
+
+八点吃早饭
+8h ăn sáng
+
+八点半去教室。
+8:30 đến lớp học.
+
+每年都有很多留学生来中国学习汉语。
+Hàng năm đều có rất nhiều lưu học sinh tới Trung Quốc học Tiếng Trung.
+
+晚上
+Buổi tối
+
+我散散步
+tôi đi dạo
+
+看看电视或者跟朋友一起聊聊天儿。
+xem tivi hoặc chat chit với bạn bè.
+
+你晚上几点睡觉？
+Buổi tối mấy giờ bạn đi ngủ?
+
+我是越南留学生
+Tôi là lưu học sinh Việt Nam
+
+现在在河内大学学习汉语。
+hiện đang học Tiếng Trung tại trường Đại học Hà Nội.
+
+我每天早上六点起床
+Hàng ngày buổi sáng 6h tôi thức dậy
+
+六点半吃早饭
+6:30 ăn sáng
+
+七点读课文
+7h đọc bài khóa
+
+记生词
+học từ vựng
+
+复习语法
+ôn tập ngữ pháp
+
+七点四十四分去教室
+7:44 phút đến lớp học
+
+八点上课。
+8h vào học.
+
+休息的时候
+Lúc nghỉ ngơi
+
+我常常喝一杯咖啡，吃一点儿东西。
+tôi thường uống một tách café hoặc ăn một ít đồ.
+
+下课后我常常去食堂吃午饭。
+Sau khi tan học tôi thường đến nhà ăn ăn cơm trưa.
+
+中午我不睡觉
+Buổi trưa tôi không ngủ
+
+我常常去图书馆看书或者跟朋友聊天儿。
+tôi thường đến thư viện xem sách hoặc nói chuyện với bạn bè.
+
+星期三下午我有四节课。
+Chiều thứ 4 tôi có 4 tiết học.
+
+晚上没有课的时候
+Buổi tối lúc không có tiết học
+
+我常常去图书馆做练习
+tôi thường đến thư viện làm bài tập
+
+看书
+đọc sách
+
+或者上网查学习资料。
+hoặc lên mạng tìm tài liệu học tập.
+
+每天下午四点
+Hàng ngày buổi chiều 4h
+
+我常常去操场锻炼身体
+tôi thường đến sân tập rèn luyện sức khỏe
+
+跑步、
+chạy bộ
+
+打球
+chơi bóng
+
+六点回宿舍
+6h về ký túc xá
+
+洗澡、
+tắm rửa
+
+洗衣服。
+giặt quần áo.
+
+
+八点钟我听音乐
+8h tôi nghe nhạc
+
+写汉字
+viết chữ Hán
+
+预习生词和课文
+chuẩn bị trước từ vựng và bài học
+
+十二点睡觉。
+12h đi ngủ.
+
+每天我都很忙
+Hàng ngày tôi đều rất bận
+
+但我觉得很开心。
+nhưng tôi cảm thấy rất vui.
+
+我觉得学习汉语比较难
+Tôi cảm thấy học Tiếng Trung tương đối khó
+
+但是很有意思。
+nhưng mà rất thú vị.
+
+晚上我常常上网看中国电影、
+Buổi tối tôi thường lên mạng xem phim Trung Quốc
+
+听音乐或者玩儿游戏
+nghe nhạc hoặc chơi game
+
+然后十一点半睡觉。
+sau đó 11:30 đi ngủ.
+
+我们明天早上七点在办公楼前集合
+Sáng ngày mai 7h chúng ta tập trung ở trước tòa nhà văn phòng
+
+七点一刻准时出发。
+đúng 7:15 xuất phát.
+
+中午我们不回来
+Buổi trưa chúng tôi không về
+
+所以你们要带午饭。
+vì vậy các bạn cần đem cơm trưa theo.
+
+每天你几点上班?
+Hàng ngày mấy giờ bạn đi làm?
+
+我每天上午八点准时上班。
+Hàng ngày đúng 8h tôi vào làm việc.
+
+你们公司几点下班？
+Công ty các bạn mấy giờ tan làm?
+
+我们公司五点下班。
+Công ty chúng tôi 5h tan làm.
+
+我打算请汉语老师教我汉语。
+Tôi dự định mời thầy giáo dạy Tiếng Trung dạy tôi Tiếng Trung.
+
+我们公司派她去中国学习汉语。
+Công ty chúng tôi cử anh ta đến Trung Quốc học Tiếng Trung.
+
+你有什么爱好？
+Bạn có sở thích gì?
+
+我的爱好是看电影。
+Sở thích của tôi là xem phim.
+
+业余时间你常常做什么？
+Thời gian rảnh rỗi bạn thường làm gì?
+
+业余时间我常常看电视或者玩电脑。
+Thời gian rảnh rỗi tôi thường xem tivi hoặc chơi máy tính.
+
+你对什么感兴趣？
+Bạn có hứng thú với cái gì?
+
+我对中国书法感兴趣。
+Tôi có hứng thú với thư pháp Trung Quốc.
+
+我对中国文化非常感兴趣。
+Tôi rất hứng thứ với văn hóa Trung Quốc.
+
+我来中国以前是这个公司的职员。
+Trước khi tới Trung Quốc tôi là nhân viên của công ty này.
+
+老师让我们谈谈自己的爱好。
+Thầy giáo bảo chúng tôi nói về sở thích bản thân.
+
+我很喜欢吃中国菜。
+Tôi rất thích ăn món Trung Quốc.
+
+你现在想喝点儿茶还是咖啡？
+Bây giờ bạn muốn uống chút trà hay là café?
+
+给我来两杯咖啡吧。
+Cho tôi hai tách café đi.
+
+今天下午你要去超市还是去商店？
+Chiều hôm nay bạn muốn đi siêu thị hay là đến cửa hàng?
+
+我们去超市买一些东西吧。
+Chúng ta đi siêu thị mua một ít đồ đi.
+
+你喜欢吃越南菜还是中国菜？
+Bạn thích ăn món Việt Nam hay là món Trung Quốc?
+
+越南菜和中国菜我都喜欢。
+Tôi đều thích ăn món Việt Nam và món Trung Quốc.
+
+我们坐车去还是骑摩托车去？
+Chúng ta ngồi xe đi hay là đi xe máy?
+
+我很少看电视
+Tôi rất ít khi xem tivi
+
+有时候我只看看天气预报。
+thỉnh thoảng tôi chỉ xem chút dự báo thời tiết.
+
+星期六和星期天我常常看足球比赛。
+Thứ bảy và Chủ nhật tôi thường xem trận đấu bóng đá.
+
+我很喜欢唱中国歌。
+Tôi rất thích hát bài Trung Quốc.
+
+业余时间你想去哪儿玩儿？
+Thời gian rảnh rỗi bạn thường đi chơi đâu?
+
+业余时间我常常跟女朋友去电影院看电影。
+Thời gian rảnh rỗi tôi thường đến rạp chiếu phim xem phim với bạn gái.
+
+你喜欢自己一个人去还是跟朋友一起去？
+Bạn thích đi một mình hay là đi với bạn bè?
+
+今天上课的时候
+Hôm nay trong giờ học
+
+老师让我们谈谈自己的爱好。
+thầy giáo bảo chúng tôi nói về sở thích bản thân.
+
+老师让我先谈我的爱好。
+Thầy giáo bảo tôi nói trước về sở thích của tôi.
+
+在中国，有不少年轻人不喜欢看京剧。
+Nhiều thanh niên Trung Quốc không thích xem tuồng.
+
+我们班的同学都谈了自己的爱好。
+Bạn học lớp chúng ta đều nói về sở thích bản thân.
+
+我有一个笔记本电脑
+Tôi có một chiếc laptop
+
+我常常在电脑上学汉语。
+tôi thường học Tiếng Trung trên máy tính.
+
+下课后跟朋友一起聊聊天
+Sau khi tan học nói chuyện với bạn bè
+
+我感到心情很愉快。
+tôi cảm thấy trong lòng rất vui.
+
+我来中国以前就对中国文化很感兴趣。
+Trước khi tới Trung Quốc tôi đã rất hứng thú với văn hóa Trung Quốc.
+
+我现在在跟一个汉语老师学习汉语。
+Hiện tôi đang học Tiếng Trung với một cô giáo Trung Quốc.
+
+我希望以后我能学好汉语。
+Tôi hy vọng sau này tôi có thể học tốt Tiếng Trung.
+
+今天的课我想请大家谈谈自己的爱好。
+Trong bài ngày hôm nay tôi muốn mời các bạn nói về sở thích bản thân.
+
+谁先说？
+Ai nói trước?
+
+你让我先说吧。
+Bạn để tôi nói trước đi.
+
+好
+Ok
+
+你先说吧
+bạn nói trước đi
+
+你有什么爱好？
+bạn có sở thích gì?
+
+我的爱好是上网看电影和玩儿游戏。
+Sở thích của tôi là lên mạng xem phim và chơi game.
+
+你喜欢做什么？
+Bạn thích làm gì?
+
+我喜欢玩儿电脑。
+Tôi thích chơi máy tính.
+
+我喜欢听听轻音乐
+Tôi thích nghe nhạc nhẹ
+
+下课以后
+sau khi tan học
+
+听听音乐或者跟朋友聊聊天儿
+nghe chút nhạc hoặc nói chuyện với bạn bè
+
+感到心情很愉快。
+cảm thấy tâm trạng rất vui.
+
+你业余时间常常做什么？
+Thời gian rảnh rỗi bạn thường làm gì?
+
+我来中国以前就对书法特别感兴趣。
+Trước khi tới Trung Quốc tôi đã cực kỳ có hứng thú với thư pháp.
+
+今年公司派我来中国学习汉语
+Năm nay công ty cử tôi đến Trung Quốc học Tiếng Trung
+
+我非常高兴。
+tôi rất vui.
+
+现在我正跟一个汉语老师学习中国的书法
+Bây giờ tôi đang học thư pháp Trung Quốc với cô giáo Tiếng Trung
+
+还学画中国画儿。
+còn học cả vẽ tranh Trung Quốc.
+
+你什么时候回来？
+Khi nào thì bạn trở về?
+
+我一个星期以后回来。
+Một tuần sau tôi về.
+
+以前我是这个公司的职员
+Trước đây tôi là nhân viên của công ty này
+
+现在我是汉语老师。
+bây giờ tôi là giáo viên Tiếng Trung.
+
+现在她是大学生
+Bây giờ cô ta là sinh viên
+
+以后她想当汉语老师。
+sau này cô ta muốn làm giáo viên Tiếng Trung.
+
+来中国以前我是这个公司的总经理。
+Trước khi tới Trung Quốc tôi là tổng giám đốc của công ty này.
+
+我对中国书法很感兴趣。
+Tôi rất có hứng thú với thư pháp Trung Quốc.
+
+我对她不感兴趣。
+Tôi không có hứng thú với cô ta.
+
+我对玩儿电脑很感兴趣。
+Tôi rất hứng thú với chơi game.
+
+请大家看一下我新买的汽车。
+Mời mọi người xem một chút chiếc xe tôi mới mua.
+
+今天的课老师让我们谈一下儿自己的爱好。
+Buổi học hôm nay cô giáo bảo chúng tôi nói một chút về sở thích của mình.
+
+我打算请一个英国人教我英语。
+Tôi định mời một người Nước Anh dạy tôi Tiếng Anh.
+
+你请老师教什么？
+Bạn mời cô giáo làm gì?
+
+我请老师教我唱越南歌。
+Tôi mời cô giáo dạy tôi hát bài Việt Nam.
+
+外贸公司派你做什么？
+Công ty Thương mại Quốc tế cử bạn làm gì?
+
+外贸公司派我去中国学习汉语。
+Công ty Thương mại Quốc tế cử tôi đến Trung Quốc học Tiếng Trung.
+
+老师让我回答这个问题。
+Cô giáo bảo tôi trả lời câu hỏi.
+
+她让我帮她借汉语书。
+Cô ta bảo tôi giúp cô ta mượn sách Tiếng Trung.
+
+她让我帮她去商店买一件羽绒服。
+Cô ta bảo tôi giúp cô ta đến cửa hàng mua một chiếc áo lông vũ.
+
+她请我教她英语。
+Cô ta mời tôi dạy Tiếng Anh.
+
+她请我喝咖啡。
+Cô ta mời tôi uống café.
+
+她请我跟她一起跳舞。
+Cô ta mời tôi nhảy múa cùng cô ta.
+
+你有什么爱好吗？
+Bạn có sở thích gì không?
+
+我没有什么爱好。
+Tôi không có sở thích gì cả.
+
+我来中国以前是河内大学的学生。
+Trước khi tới Trung Quốc tôi là học sinh của Đại học Hà Nội.
+
+休息的时候你常常做什么？
+Lúc nghỉ ngơi bạn thường làm gì?
+
+休息的时候我常常去健身房锻炼身体。
+Lúc nghỉ ngơi tôi thường đến phòng Gym rèn luyện sức khỏe.
+
+你喜欢看电影吗？
+Bạn thích xem phim không?
+
+我不喜欢看电影
+Tôi không thích xem phim
+
+我只喜欢上网玩儿游戏。
+tôi chỉ thích lên mạng chơi game.
+
+你喜欢看什么节目？
+Bạn thích xem tiết mục gì?
+
+我喜欢看国际新闻节目。
+Tôi thích xem tiết mục thời sự Quốc tế.
+
+你觉得这个节目怎么样？
+Bạn cảm thấy tiết mục này thế nào?
+
+我觉得这个节目非常好。
+Tôi cảm thấy tiết mục này cực kỳ tốt.
+
+今天她请我去酒店吃饭。
+Hôm nay cô ta mời tôi đến khách sạn ăn cơm.
+
+请大家不要在屋里抽烟。
+Mọi người đừng hút thuốc trong phòng.
+
+八点钟我听音乐
+8h tôi nghe nhạc
+
+写汉字
+viết chữ Hán
+
+预习生词和课文
+chuẩn bị trước từ vựng và bài học
+
+十二点睡觉。
+12h đi ngủ.
+
+每天我都很忙
+Hàng ngày tôi đều rất bận
+
+但我觉得很开心。
+nhưng tôi cảm thấy rất vui.
+
+我觉得学习汉语比较难
+Tôi cảm thấy học Tiếng Trung tương đối khó
+
+但是很有意思。
+nhưng mà rất thú vị.
+
+晚上我常常上网看中国电影、
+Buổi tối tôi thường lên mạng xem phim Trung Quốc
+
+听音乐或者玩儿游戏
+nghe nhạc hoặc chơi game
+
+然后十一点半睡觉。
+sau đó 11:30 đi ngủ.
+
+我们明天早上七点在办公楼前集合
+Sáng ngày mai 7h chúng ta tập trung ở trước tòa nhà văn phòng
+
+七点一刻准时出发。
+đúng 7:15 xuất phát.
+
+中午我们不回来
+Buổi trưa chúng tôi không về
+
+所以你们要带午饭。
+vì vậy các bạn cần đem cơm trưa theo.
+
+每天你几点上班?
+Hàng ngày mấy giờ bạn đi làm?
+
+我每天上午八点准时上班。
+Hàng ngày đúng 8h tôi vào làm việc.
+
+你们公司几点下班？
+Công ty các bạn mấy giờ tan làm?
+
+这条河有多长？
+Con sông này dài bao nhiêu?
+
+一千多公里。
+Hơn 1000 km.
+
+里边有两个人。
+Bên trong có 2 người.
+
+右边的椅子是我的。
+Chiếc ghế bên phải là của tôi.
+
+前边的学生是我们班的。
+Học sinh phía trước là của lớp chúng tôi.
+
+图书馆里边有很多阅览室。
+Bên trong thư viện có rất nhiều phòng đọc sách.
+
+我们在哪儿上课？
+Chúng ta học ở đâu?
+
+我们在外边的教室上课。
+Chúng ta học ở phòng học bên ngoài.
+
+你住在哪个房间？
+Bạn sống ở phòng nào?
+
+我住在里边的房间。
+Tôi sống ở phòng bên trong.
+
+前边的同学请不要说话。
+Bạn học phía trước đừng nói chuyện riêng.
+
+屋子里有很多人。
+Trong phòng có rất nhiều người.
+
+桌子上有很多书。
+Trên bàn có rất nhiều sách.
+
+这个箱子里是什么东西？
+Trong vali này có đồ đạc gì?
+
+这个箱子里是衣服和日用品。
+Trong vali này có quần áo và đồ dùng hàng ngày.
+
+我的前边是汉语老师。
+Phía trước tôi là cô giáo Tiếng Trung.
+
+学校离我家三公里。
+Trường học cách nhà tôi 3 km.
+
+你们大学里边有银行吗？
+Trong trường Đại học các bạn có ngân hàng không?
+
+我们大学里边有一个银行。
+Trong trường học chúng tôi có một ngân hàng.
+
+你的学校前边是什么地方？
+Phía trước trường học của bạn là nơi gì?
+
+我的学校前边是邮局。
+Phía trước trường học của tôi là bưu điện.
+
+请问
+Xin hỏi
+
+这个包里有什么东西？
+trong cái túi này có đồ đạc gì?
+
+这个包里有一些日用品和香水。
+Trong túi này có một số đồ dùng hàng ngày và nước hoa.
+
+请问
+Xin hỏi
+
+去邮局怎么走？
+đến bưu điện đi như thế nào?
+
+请问
+Xin hỏi
+
+北京大学有多远？
+trường Đại học Bắc Kinh bao xa?
+
+大概三百米。
+Khoảng 300m.
+
+从这儿一直往前走，到第一个红绿灯就往左拐。
+Đi thẳng một mạch từ đây tới đen xanh đỏ thứ nhất thì rẽ trái.
+
+我们的大学就在公园旁边。
+Trường Đại học của chúng tôi ở ngay bên cạnh công viên.
+
+我从家去公园
+Tôi đi từ nhà đến công viên
+
+她往公司去。
+cô ta đi về công ty.
+
+学校前边有超市、
+Phía trước trường học là siêu tị
+
+公园和书店
+công viên và hiệu sách
+
+还有一个酒店。
+còn có một khách sạn.
+
+我先去越南
+Tôi đi Việt Nam trước
+
+然后从越南去北京。
+sau đó từ Việt Nam đi Bắc Kinh.
+
+我常常给她打电话
+Tôi thường gọi điện thoại cho cô ta
+
+不常写信。
+không thường viết thư.
+
+明天是星期日
+Ngày mai là Chủ Nhật
+
+我跟她一起去购物中心买东西。
+tôi đi cùng cô ta đến trung tâm mua sắm mua đồ.
+
+我的钱包是黑色的
+Ví tiền của tôi là chiếc màu đen
+
+我的钱包里有一张银行卡
+trong ví tiền của tôi có một chiếc thẻ ngân hàng
+
+银行卡里有一百万美元。
+trong thẻ ngân hàng có một triệu USD.
+
+请问
+Xin hỏi
+
+北京大学在哪儿？
+Đại học Bắc Kinh ở đâu?
+
+北京大学在银行和邮局中间。
+Đại học Bắc Kinh ở giữa ngân hàng và bưu điện.
+
+星期六
+Thứ bẩy
+
+我一个人去北京玩儿。
+tôi một mình đi chơi Bắc Kinh.
+
+要回学校的时候
+Khi đi học về
+
+已经很晚了。
+Nó đã trễ rồi.
+
+我迷路了
+Tôi bị lạc đường rồi
+
+不知道公共汽车站在哪儿。
+không biết trạm xe buýt ở đâu.
+
+我问一个人
+Tôi hỏi một người
+
+去北京大学怎么走
+đến Đại học Bắc Kinh đi như thế nào
+
+那个人说不知道
+người đó nói không biết
+
+这时候来了一辆出租车。
+lúc này thì một chiếc xe taxi đi tới.
+
+你能告诉我去北京大学怎么走吗？
+Bạn có thể cho tôi biết đến Đại học Bắc Kinh đi như thế nào không?
+
+上车吧
+Lên xe đi
+
+我带你回家。
+tôi đưa bạn về nhà.
+
+我听不懂
+Tôi nghe không hiểu
+
+你再说一遍
+bạn có thể nói lại một lần nữa
+
+好吗？
+được không?
+
+明天我再来找你。
+Ngày mai tôi lại tới tìm bạn.
+
+我们上班从上午八点到下午五点。
+Chúng tôi đi làm từ 8:00 sáng đến 5:00 chiều.
+
+我们放假从十月十七号到十月三十号。
+Chúng tôi được nghỉ từ ngày 17/10 đến ngày 30/10.
+
+我会说一点儿汉语。
+Tôi biết nói chút ít Tiếng Trung.
+
+今天晚上你想跟我一起去商店买衣服吗？
+Tối nay bạn muốn đến cửa hàng mua quần áo cùng tôi không?
+
+我要学习汉语
+Tôi phải học Tiếng Trung
+
+我不想去商店。
+tôi không muốn đến cửa hàng.
+
+请大家不要说话。
+Mọi người đừng nói chuyện.
+
+我刚学汉语
+Tôi vừa học Tiếng Trung
+
+我不能说汉语。
+tôi không nói được Tiếng Trung.
+
+没事
+Không sao
+
+你可以用英语说。
+bạn có thể dùng Tiếng Anh để nói.
+
+这儿可以抽烟吗？
+Ở đây có được hút thuốc không?
+
+这儿不能抽烟。
+Ở đây không được hút thuốc.
+
+明天下午你能跟我一起去超市买东西吗？
+Chiều mai bạn có thể đi cùng tôi đến siêu thị mua đồ không?
+
+明天下午我有事
+Chiều mai tôi có việc
+
+不能跟你一起去。
+không đi cùng bạn được.
+
+今天她感冒了
+Hôm nay cô ta bị cảm rồi
+
+不能来上课。
+không đến học được.
+
+我在想这个问题怎么回答。
+Tôi đang nghĩ trả lời vấn đề này như thế nào.
+
+我有点儿想你。
+Tôi hơi nhớ bạn một chút.
+
+你要什么？
+Bạn muốn gì?
+
+我要出国旅游。
+Tôi muốn đi du lịch nước ngoài.
+
+你要点儿什么？
+Bạn muốn chút gì?
+
+我要喝一杯咖啡。
+Tôi muốn uống một cốc café.
+
+今天你怎么没来上课？
+Hôm nay vì sao bạn không đến học?
+
+今天我有点儿不舒服
+Hôm nay tôi hơi khó chịu trong người
+
+要去医院
+phải đến bệnh viện
+
+不能来上课。
+không tới học được.
+
+昨天晚上你怎么没去图书馆学汉语？
+Tối qua vì sao bạn không tới thư viện học Tiếng Trung?
+
+昨天晚上我有事。
+Tôi qua tôi có việc.
+
+你怎么不喝啤酒？
+Vì sao bạn không uống bia?
+
+我不喜欢喝酒喝啤酒。
+Tôi không thích uống rượu và bia.
+
+昨天上午你怎么没跟她一起去玩儿？
+Sáng hôm qua vì sao bạn không đi chơi cùng cô ta?
+
+昨天上午我有急事。
+Sáng hôm qua tôi có việc gấp.
+
+你怎么了？
+Bạn làm sao thế?
+
+你怎么不说话了？
+Sao bạn không nói gì cả?
+
+你想不想学汉语？
+Bạn muốn học Tiếng Trung không?
+
+我很想学汉语。
+Tôi rất muốn học Tiếng Trung.
+
+你想不想跟我一起跳舞？
+Bạn muốn nhảy cùng tôi không?
+
+我当然很想跟你一起跳舞啊。
+Tất nhiên là tôi rất muốn nhảy cùng bạn rồi.
+
+我不会说汉语
+Tôi không biết nói Tiếng Trung
+
+只会说一点儿英语。
+chỉ biết nói một chút Tiếng Anh.
+
+她感冒了
+Cô ta bị cảm rồi
+
+今天下午不能来上课。
+chiều hôm nay không tới học được.
+
+今天有一个朋友来看我
+Hôm nay có một người bạn tới thăm tôi
+
+我想请假去接她。
+tôi muốn xin nghỉ để đi đón cô ta.
+
+这个词是什么意思？
+Từ này có nghĩa là gì?
+
+我可以用一下儿你的汽车吗?
+Tôi có thể dùng một chút ôtô của bạn không?
+
+今天下午你能来吗？
+Chiều nay bạn tới được không?
+
+我不想学英语
+Tôi không muốn học Tiếng Anh
+
+我想学汉语。
+tôi muốn học Tiếng Trung.
+
+你一份钟能写多少汉字？
+Bạn viết được bao nhiêu chữ Hán trong 1 phút?
+
+她喝酒了
+Cô ta uống rượu rồi
+
+不能开车
+không lái xe được
+
+你开车吧。
+bạn lái xe đi.
+
+这儿不能停车。
+Ở đây không được đỗ xe.
+
+今天晚上我想去看电影。
+Tối nay tôi muốn đi xem phim.
+
+听说北京大学有一个汉语中心
+Nghe nói Đại học Bắc Kinh có một trung tâm Tiếng Trung
+
+我们去那儿报名吧。
+chúng ta đến đó đăng ký đi.
+
+老师说从下星期一开始上课。
+Cô giáo nói bắt đầu vào học từ Thứ 2 tuần tới.
+
+我问老师是不是每天下午都上课。
+Tôi hỏi cô giáo có phải là chiều nào cũng đi học không.
+
+她说不是每天下午
+Cô ta nói không phải hàng ngày buổi chiều
+
+只一三五上课。
+chỉ học vào Thứ 2 – 4– 6.
+
+今天下午我们有汉语课。
+Chiều nay chúng tôi có môn Tiếng Trung.
+
+她有点儿不舒服
+Cô ta hơi khó chịu chút xíu
+
+发烧、
+bị sốt
+
+头疼
+đau đầu
+
+可能感冒了。
+có thể là bị cảm rồi.
+
+她要去医院看病
+Cô ta phải đến bệnh viện khám bệnh
+
+所以让我给她请假。
+vì vậy nhờ tôi xin nghỉ cho cô ta.
+
+上课的时候
+Trong giờ học
+
+老师问我她怎么没来上课
+cô giáo hỏi tôi vì sao cô ta không đến học
+
+我告诉老师，她生病了
+tôi nói với cô giáo rằng cô ta bị ốm rồi
+
+今天不能来上课。
+hôm nay không tới học được.
+
+一天
+Một hôm
+
+我问她会不会开车
+tôi hỏi cô ta có biết lái xe không
+
+她说当然会。
+cô ta nói rằng tất nhiên là biết.
+
+我的朋友有一辆汽车
+Bạn của tôi có một chiếc ôtô
+
+星期天我们开她的汽车去玩儿吧。
+Chủ Nhật chúng ta lái xe của cô ta đi chơi đi.
+
+你有驾照吗？
+Bạn có bằng lái xe không?
+
+老师
+Thưa cô
+
+我想学汉语
+tôi muốn học Tiếng Trung
+
+现在可以报名吗？
+bây giờ có thể đăng ký được không?
+
+什么时候上课？
+Khi nào thì vào học?
+
+下星期一。
+Thứ 2 Tuần tới.
+
+你能不能再说一遍？
+Bạn có thể nói lại lần nữa không?
+
+我听不懂。
+Tôi nghe không hiểu.
+
+上课从几点到几点？
+Học từ mấy giờ đến mấy giờ?
+
+从晚上六点半到八点
+Từ tối 6:30 đến 8:00
+
+一次一个半小时。
+mỗi lần một tiếng rưỡi.
+
+她汉语说得还可以。
+Cô ta nói Tiếng Trung cũng được.
+
+这个房子还不错。
+Căn phòng này cũng không tệ.
+
+她爸爸妈妈身体还好。
+Sức khỏe bố mẹ cô ta vẫn tốt.
+
+你每天起得早不早？
+Hàng ngày bạn dậy sớm không?
+
+我每天起得很早。
+Hàng ngày tôi dậy rất sớm.
+
+她汉语说得怎么样？
+Cô ta nói Tiếng Trung thế nào?
+
+她汉语说得很不错。
+Cô ta nói Tiếng Trung rất tốt.
+
+她说汉语说得好吗？
+Cô ta nói Tiếng Trung tốt không?
+
+她说汉语说得很好。
+Cô ta nói Tiếng Trung nói rất tốt.
+
+你星期天起得早吗？
+Chủ Nhật bạn dậy sớm không?
+
+我星期天起得不早。
+Chủ Nhật tôi dậy không sớm.
+
+你汉语说得怎么样？
+Bạn nói Tiếng Trung thế nào?
+
+我汉语说得不好。
+Tôi nói Tiếng Trung không tốt.
+
+她汉字写得好不好?
+Cô ta viết chữ Hán tốt không?
+
+她汉字写得不好。
+Cô ta viết chữ Hán không tốt.
+
+老师说得很清楚。
+Cô giáo nói rất rõ ràng.
+
+老师教得很好。
+Cô giáo dạy rất tốt.
+
+她跑步跑得很快。
+Cô ta chạy rất nhanh.
+
+她说汉语说得很流利。
+Cô ta nói Tiếng Trung nói rất lưu loát.
+
+她汉语说得很流利。
+Cô ta nói Tiếng Trung rất lưu loát.
+
+她学汉语学得怎么样？
+Cô ta học Tiếng Trung học thế nào?
+
+她汉语学得怎么样？
+Cô ta học Tiếng Trung thế nào?
+
+她学汉语学得很好。
+Cô ta học Tiếng Trung học rất tốt.
+
+她汉语学得很好。
+Cô ta học Tiếng Trung rất tốt.
+
+她唱歌唱得怎么样？
+Cô ta hát hò hát thế nào?
+
+她歌唱得怎么样？
+Cô ta hát thế nào?
+
+她唱歌唱得很好。
+Cô ta hát hò hát rất tốt.
+
+她歌唱得很好。
+Cô ta hát rất tốt.
+
+她发音发得准不准？
+Cô ta phát âm phát chuẩn không?
+
+她发音发得很准。
+Cô ta phát âm rất tốt.
+
+她说汉语说得流利不流利？
+Cô ta nói Tiếng Trung lưu loát hay không?
+
+她说汉语说得不太流利。
+Cô ta nói Tiếng Trung không lưu loát lắm.
+
+她写汉字写得快不快？
+Cô ta viết chữ Hán nhanh hay không?
+
+她写汉字写得很快
+Cô ta viết chữ Hán viết rất nhanh
+
+但是不好看。
+nhưng mà không đẹp.
+
+她读课文读得怎么样？
+Cô ta đọc bài khóa đọc thế nào?
+
+她读课文读得很流利。
+Cô ta đọc bài khóa đọc rất tốt.
+
+她课文读得很流利。
+Cô ta đọc bài khóa rất lưu loát.
+
+她怎么学得这么好?
+Vì sao cô ta học tốt như vậy?
+
+她怎么说得这么流利？
+Vì sao cô ta nói lưu loát như vậy?
+
+你怎么来得这么早？
+Vì sao bạn đến sớm như vậy?
+
+你怎么跑得这么快？
+Vì sao bạn chạy nhanh như vậy?
+
+你怎么写得这么好？
+Vì sao bạn viết đẹp thế này?
+
+你怎么到得这么晚？
+Vì sao bạn tới muộn thế này?
+
+她非常努力
+Cô ta rất là nỗ lực
+
+每天都起得很早
+hàng ngày đều dậy rất sớm
+
+睡得很晚。
+ngủ rất muộn.
+
+你最近进步很快。
+Dạo này bạn tiến bộ rất nhanh.
+
+你们班的汉语节目表演得非常好。
+Tiết mục Tiếng Trung của lớp các bạn biểu diễn cực kỳ tốt.
+
+我每天都坚持锻炼身体。
+Hàng ngày tôi đều kiên trì rèn luyện sức khỏe.
+
+这个句子我翻译得对不对？
+Câu này tôi dịch đúng không?
+
+这个句子你翻译得不对。
+Câu này bạn dịch không đúng.
+
+今天办公室的武老师来找我。
+Hôm nay cô giáo ở văn phòng tới tìm tôi.
+
+他说
+Cô ta nói
+
+电视台想请留学生去表演汉语节目
+đài truyền hình muốn mời lưu học sinh đi diễn văn nghệ Tiếng Trung
+
+问我想不想去。
+hỏi tôi có muốn đi không.
+
+我说
+Tôi nói
+
+我不行
+tôi không được
+
+因为我汉语说得不太好
+bởi vì tôi nói Tiếng Trung không được tốt lắm
+
+很多音发得不准
+rất nhiều âm tôi phát không chuẩn
+
+也不会表演节目。
+cũng không biết diễn văn nghệ.
+
+我对老师说
+Tôi nói với cô giáo
+
+她学得很好
+cô ta học rất tốt
+
+她汉语说得很流利
+cô ta nói Tiếng Trung rất lưu loát
+
+所以你让她去表演节目吧。
+nên là bạn bảo cô ta đi diễn văn nghệ đi.
+
+今天上课的时候
+Hôm nay trong giờ học
+
+老师问大家
+cô giáo hỏi mọi người
+
+毕业以后想做什么工作。
+sau khi tốt nghiệp dự định làm gì.
+
+同学们都说了自己的打算。
+Các bạn học đều nói lên dự định của mình.
+
+公司想请我表演一个节目
+Công ty muốn mời tôi biểu diễn văn nghệ
+
+问我想不想去
+hỏi tôi có muốn đi không
+
+我说我不想去。
+tôi nói tôi không muốn đi.
+
+你学得不错
+Bạn học rất tốt
+
+有很大进步
+có tiến bộ rất nhanh
+
+汉语水平提高得很快。
+trình độ Tiếng Trung được nâng cao rất nhanh.
+
+她很努力
+Cô ta rất nỗ lực
+
+也很认真。
+cũng rất chăm chỉ.
+
+你看她汉字写得怎么样？
+Bạn xem cô ta viết chữ Hán thế nào?
+
+为学好汉语
+Để học tốt Tiếng Trung
+
+我每天都很努力
+hàng ngày tôi đều rất nỗ lực
+
+学习得很认真。
+học tập rất chăm chỉ.
+
+你喜欢什么运动？
+Bạn thích môn thể thao gì?
+
+我喜欢跑步和健身。
+Tôi thích chạy bộ và tập thể hình.
+
+刚才我看你说得很流利。
+Vừa nãy tôi thấy bạn nói rất lưu loát.
+
+你学汉语学了多长时间了？
+Bạn học Tiếng Trung được bao lâu rồi?
+
+我不常锻炼身体
+Tôi không thường xuyên rèn luyện sức khỏe
+
+因为晚上我常常睡得很晚
+bởi vì buổi tối tôi thường ngủ rất muộn
+
+早上起得也很晚。
+buổi sáng dậy cũng rất muộn.
+
+你不是很喜欢玩儿电脑吗？
+Chẳng phải là bạn rất thích chơi máy tính sao?
+
+她跟外贸代表团去上海了。
+Cô ta đi Thượng Hải cùng đoàn đại biểu thương mại Quốc tế rồi.
+
+她的手机关了。
+Điện thoại di động của cô ta tắt rồi.
+
+她已经睡了
+Cô ta đã ngủ rồi
+
+你别叫她了。
+bạn đừng gọi cô ta nữa.
+
+她今年二十岁了。
+Năm nay cô ta 20 tuổi rồi.
+
+饭好了
+Cơm xong rồi
+
+我们吃饭吧。
+chúng ta ăn cơm thôi.
+
+你去哪儿了？
+Bạn đã đi đâu vậy?
+
+我去商店了。
+Tôi đến cửa hàng rồi.
+
+你买什么了？
+Bạn mua gì rồi?
+
+我买衣服了。
+Tôi mua quần áo rồi.
+
+你去医院了没有？
+Bạn đã đến bệnh viện chưa?
+
+我去医院了。
+Tôi đến bệnh viện rồi.
+
+你买今天的报纸了没有？
+Bạn đã mua báo ngày hôm nay chưa?
+
+我没买今天的报纸。
+Tôi chưa mua báo ngày hôm nay?
+
+她回家了吗？
+Cô ta đã về nhà chưa?
+
+她还没有回家呢。
+Cô ta vẫn chưa về nhà mà.
+
+她走了没有？
+Cô ta đã đi chưa?
+
+她还没走呢。
+Cô ta vẫn chưa đi đâu.
+
+昨天我没有去超市。
+Hôm qua tôi không đến siêu thị.
+
+她觉得不舒服
+Cô ta cảm thấy khó chịu trong người
+
+今天没有上课。
+hôm nay không đi học.
+
+今天我去医院看她了
+Hôm nay tôi đến bệnh viện thăm cô ta rồi
+
+我想明天再去。
+tôi muốn ngày mai lại đi.
+
+她上午来了
+Buổi sáng cô ta đến rồi
+
+下午没有再来。
+buổi chiều không đến nữa.
+
+昨天她来看我
+Hôm qua cô ta đến thăm tôi
+
+今天她又来了。
+hôm nay cô ta lại đến nữa.
+
+昨天她没来上课
+Hôm qua cô ta không đi học
+
+今天又没来。
+hôm nay lại không đến.
+
+她回家了没有？
+Cô ta đã về nhà chưa?
+
+她还没回家呢。
+Cô ta vẫn chưa về nhà đây.
+
+她去图书馆了没有？
+Cô ta đã đến thư viện chưa?
+
+她还没去呢。
+Cô ta vẫn chưa đến đâu.
+
+昨天晚上你看足球比赛了没有？
+Tối qua bạn xem trận bóng đá chưa?
+
+你去超市买衣服了没有？
+Bạn đi siêu thị đã mua quần áo chưa?
+
+我还没买呢。
+Tôi vẫn chưa mua mà.
+
+她回来了没有？
+Cô ta đã về chưa?
