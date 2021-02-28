@@ -131,17 +131,22 @@ class Test:
             output = tf.concat([output, predicted_id], axis=-1)
         return tf.squeeze(output, axis=0), attention_weights
     def translate(self, sentence, plot=''):
-        sentence = self.preproces_cn(sentence)
-        result, attention_weights = self.evaluate(sentence)
-        predicted_sentence = self.tokenizer_vn.decode([i for i in result 
-                                                    if i < self.tokenizer_vn.vocab_size])  
-        print('Input: {}'.format(sentence))
-        print('Predicted translation: {}'.format(predicted_sentence))
-        return predicted_sentence
+        if self.dic.get(sentence):
+            print('ah')
+            return self.dic[sentence]
+        else:
+            sentence = self.preproces_cn(sentence)
+            result, attention_weights = self.evaluate(sentence)
+            predicted_sentence = self.tokenizer_vn.decode([i for i in result 
+                                                        if i < self.tokenizer_vn.vocab_size])  
+            return predicted_sentence
 
 if __name__ == "__main__":
     test = Test()
-    print('âj')
     s = time.time()
-    test.translate('你好！')
+    print(test.translate('你好！'))
+    
+    print(time.time() -s)
+    s = time.time()
+    print(test.translate('汕'))
     print(time.time() -s)
