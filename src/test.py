@@ -132,7 +132,6 @@ class Test:
         return tf.squeeze(output, axis=0), attention_weights
     def translate(self, sentence, plot=''):
         if self.dic.get(sentence):
-            print('ah')
             return self.dic[sentence]
         else:
             sentence = self.preproces_cn(sentence)
