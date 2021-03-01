@@ -9,9 +9,10 @@ import pickle
 import sqlite3
 import os
 import numpy as np
-
+from flask_ngrok import run_with_ngrok 
 
 app = Flask(__name__, static_folder = "templates")
+run_with_ngrok(app)  
 
 cur_dir = os.path.dirname(__file__)
 translater = Test()
@@ -39,5 +40,5 @@ def results():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
     # app.run(port = '8080',host = '0.0.0.0', debug=True)
