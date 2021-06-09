@@ -82,29 +82,9 @@
     "pidfile": "",
     "raw-logs": false,
     "registry-mirrors": [],
-    "runtimes": {
-        "cc-runtime": {
-            "path": "/usr/bin/cc-runtime"
-        },
-        "custom": {
-            "path": "/usr/local/bin/my-runc-replacement",
-            "runtimeArgs": [
-                "--debug"
-            ]
-        }
-    },
     "seccomp-profile": "",
     "selinux-enabled": false,
     "shutdown-timeout": 15,
     "storage-driver": "overlay2",
-    "storage-opts": [],
-    "swarm-default-advertise-addr": "",
-    "tls": true,
-    "tlscacert": "",
-    "tlscert": "",
-    "tlskey": "",
-    "tlsverify": true,
-    "userland-proxy": false,
-    "userland-proxy-path": "/usr/libexec/docker-proxy",
-    "userns-remap": ""
+    "storage-opts": []
 }
