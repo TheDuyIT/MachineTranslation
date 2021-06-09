@@ -11,28 +11,11 @@
     "containerd-namespace": "docker",
     "data-root": "",
     "debug": true,
-    "default-address-pools": [
-        {
-            "base": "172.80.0.0/16",
-            "size": 24
-        },
-        {
-            "base": "172.90.0.0/16",
-            "size": 24
-        }
-    ],
     "default-cgroupns-mode": "private",
     "default-gateway": "",
     "default-gateway-v6": "",
     "default-runtime": "runc",
     "default-shm-size": "64M",
-    "default-ulimits": {
-        "nofile": {
-            "Hard": 64000,
-            "Name": "nofile",
-            "Soft": 64000
-        }
-    },
     "dns": [],
     "dns-opts": [],
     "dns-search": [],
@@ -46,7 +29,6 @@
     "hosts": [],
     "icc": true,
     "init": false,
-    "init-path": "/usr/libexec/docker-init",
     "insecure-registries": [],
     "ip": "0.0.0.0",
     "ip-forward": false,
@@ -58,25 +40,11 @@
     "live-restore": true,
     "log-driver": "json-file",
     "log-level": "",
-    "log-opts": {
-        "cache-disabled": "false",
-        "cache-max-file": "5",
-        "cache-max-size": "20m",
-        "cache-compress": "true",
-        "env": "os,customer",
-        "labels": "somelabel",
-        "max-file": "5",
-        "max-size": "10m"
-    },
     "max-concurrent-downloads": 3,
     "max-concurrent-uploads": 5,
     "max-download-attempts": 5,
     "mtu": 0,
     "no-new-privileges": false,
-    "node-generic-resources": [
-        "NVIDIA-GPU=UUID1",
-        "NVIDIA-GPU=UUID2"
-    ],
     "oom-score-adjust": -500,
     "pidfile": "",
     "raw-logs": false,
