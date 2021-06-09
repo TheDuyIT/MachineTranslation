@@ -8,7 +8,7 @@
     "cluster-advertise": "",
     "cluster-store": "",
     "cluster-store-opts": {},
-    "containerd": "run/containerd/containerd.sock",
+    "containerd": "/var/run/docker.sock",
     "containerd-namespace": "docker",
     "data-root": "",
     "debug": true,
