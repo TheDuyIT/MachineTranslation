@@ -10,7 +10,6 @@
     "cluster-store-opts": {},
     "containerd": "/run/containerd/containerd.sock",
     "containerd-namespace": "docker",
-    "containerd-plugin-namespace": "docker-plugins",
     "data-root": "",
     "debug": true,
     "default-address-pools": [
