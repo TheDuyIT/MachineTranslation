@@ -28,28 +28,28 @@ services:
   #     LUNGMASK_URL: http://helper:8080/images
   #   expose:
   #     - "8080"
-  # chest-detection-0:
-  #   image: measurementtutorial.azurecr.io/chest-detection-cxx:latest
-  #   environment:
-  #     REDIS_HOST: redis
-  #     REDIS_PORT: 6379
-  #     PREDICT_PIPELINES: nofinding,mdevice,edema,cavitation,covid
-  #     HELPER_PIPELINES: all
-  #     LUNGMASK_URL: http://helper:8080/images
-  #     CHEST_SEG_URL: http://chest-segmentation:8080/images
-  #   expose:
-  #     - "8080"
-  # chest-detection-1:
-  #   image: measurementtutorial.azurecr.io/chest-detection-cxx:latest
-  #   environment:
-  #     REDIS_HOST: redis
-  #     REDIS_PORT: 6379
-  #     PREDICT_PIPELINES: cls,tubercolusis
-  #     HELPER_PIPELINES: all
-  #     LUNGMASK_URL: http://helper:8080/images
-  #     CHEST_SEG_URL: http://chest-segmentation:8080/images
-  #   expose:
-  #     - "8080"
+  chest-detection-0:
+    image: measurementtutorial.azurecr.io/chest-detection-cxx:latest
+    environment:
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      PREDICT_PIPELINES: nofinding,mdevice,edema,cavitation,covid
+      HELPER_PIPELINES: all
+      LUNGMASK_URL: http://helper:8080/images
+      CHEST_SEG_URL: http://chest-segmentation:8080/images
+    expose:
+      - "8080"
+  chest-detection-1:
+    image: measurementtutorial.azurecr.io/chest-detection-cxx:latest
+    environment:
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      PREDICT_PIPELINES: cls,tubercolusis
+      HELPER_PIPELINES: all
+      LUNGMASK_URL: http://helper:8080/images
+      CHEST_SEG_URL: http://chest-segmentation:8080/images
+    expose:
+      - "8080"
   # chest-ai-proxy:
   #   image: measurementtutorial.azurecr.io/chest-ai-proxy:latest
   #   depends_on:
