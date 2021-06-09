@@ -13,13 +13,13 @@ services:
       - '6379:6379'
     volumes:
       - 'redis_data:/bitnami/redis/data'
-  helper:
-    image: measurementtutorial.azurecr.io/lung-segmentation:latest
-    environment:
-      REDIS_HOST: redis
-      REDIS_PORT: 6379
-    expose:
-      - "8080"
+#   helper:
+#     image: measurementtutorial.azurecr.io/lung-segmentation:latest
+#     environment:
+#       REDIS_HOST: redis
+#       REDIS_PORT: 6379
+#     expose:
+#       - "8080"
   # chest-segmentation:
   #   image: measurementtutorial.azurecr.io/chest-segmentation-cxx:latest
   #   environment:
@@ -39,17 +39,17 @@ services:
       CHEST_SEG_URL: http://chest-segmentation:8080/images
     expose:
       - "8080"
-  chest-detection-1:
-    image: measurementtutorial.azurecr.io/chest-detection-cxx:latest
-    environment:
-      REDIS_HOST: redis
-      REDIS_PORT: 6379
-      PREDICT_PIPELINES: cls,tubercolusis
-      HELPER_PIPELINES: all
-      LUNGMASK_URL: http://helper:8080/images
-      CHEST_SEG_URL: http://chest-segmentation:8080/images
-    expose:
-      - "8080"
+#   chest-detection-1:
+#     image: measurementtutorial.azurecr.io/chest-detection-cxx:latest
+#     environment:
+#       REDIS_HOST: redis
+#       REDIS_PORT: 6379
+#       PREDICT_PIPELINES: cls,tubercolusis
+#       HELPER_PIPELINES: all
+#       LUNGMASK_URL: http://helper:8080/images
+#       CHEST_SEG_URL: http://chest-segmentation:8080/images
+#     expose:
+#       - "8080"
   # chest-ai-proxy:
   #   image: measurementtutorial.azurecr.io/chest-ai-proxy:latest
   #   depends_on:
