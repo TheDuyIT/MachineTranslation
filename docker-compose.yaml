@@ -20,12 +20,12 @@ services:
       REDIS_PORT: 6379
     # expose:
     #   - "8080"
-  chest-segmentation:
-    image: vinbrain.azurecr.io/chest-segmentation:develop.148
-    environment:
-      REDIS_HOST: redis
-      REDIS_PORT: 6379
-      LUNGMASK_URL: http://helper:8080/images
+#   chest-segmentation:
+#     image: vinbrain.azurecr.io/chest-segmentation:develop.148
+#     environment:
+#       REDIS_HOST: redis
+#       REDIS_PORT: 6379
+#       LUNGMASK_URL: http://helper:8080/images
     # expose:
     #   - "8080"
   chest-detection-0:
@@ -39,15 +39,15 @@ services:
       CHEST_SEG_URL: http://chest-segmentation:8080/images
     # expose:
     #   - "8080"
-  chest-detection-1:
-    image: vinbrain.azurecr.io/chest-detection-cxx-1:develop.58
-    environment:
-      REDIS_HOST: redis
-      REDIS_PORT: 6379
-      PREDICT_PIPELINES: cls,tubercolusis
-      HELPER_PIPELINES: all
-      LUNGMASK_URL: http://helper:8080/images
-      CHEST_SEG_URL: http://chest-segmentation:8080/images
+#   chest-detection-1:
+#     image: vinbrain.azurecr.io/chest-detection-cxx-1:develop.58
+#     environment:
+#       REDIS_HOST: redis
+#       REDIS_PORT: 6379
+#       PREDICT_PIPELINES: cls,tubercolusis
+#       HELPER_PIPELINES: all
+#       LUNGMASK_URL: http://helper:8080/images
+#       CHEST_SEG_URL: http://chest-segmentation:8080/images
     # expose:
     #   - "8080"
   chest-ai-proxy:
@@ -56,9 +56,9 @@ services:
     depends_on:
       - redis
       - helper
-      - chest-segmentation
+#       - chest-segmentation
       - chest-detection-0
-      - chest-detection-1
+#       - chest-detection-1
     environment:
       REDIS_HOST: redis
       REDIS_PORT: 6379
