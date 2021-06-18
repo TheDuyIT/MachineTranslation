@@ -3,5 +3,7 @@
     "icc": true,
     "iptables": true,
     "storage-driver": "vfs",
-    "storage-opts": []
+    "storage-opts": [
+        "dm.basesize=20G"
+    ]
 }
