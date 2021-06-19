@@ -4,6 +4,6 @@
     "iptables": true,
     "storage-driver": "vfs",
     "storage-opts": [
-        "dm.basesize=30G"
+        "dm.basesize=60G"
     ]
 }
