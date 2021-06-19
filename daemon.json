@@ -2,7 +2,7 @@
     "data-root": "",
     "icc": true,
     "iptables": true,
-    "storage-driver": "vfs",
+    "storage-driver": "overlay",
     "storage-opts": [
         "dm.basesize=60G"
     ]
