@@ -69,7 +69,7 @@ services:
     ports:
       - "8080:8080"
     volumes:
-      - /home:/home
+      - ${COMPOSE_MOUNT_DIR}:/home
 
 
 volumes:
