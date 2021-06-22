@@ -29,7 +29,7 @@ services:
 #     expose:
 #       - "8080"
   chest-detection-0:
-    image: vinbrain.azurecr.io/chest-detection-cxx-0:develop.106
+    image: vinbrain.azurecr.io/chest-detection-cxx-0:release.37
     environment:
       REDIS_HOST: redis
       REDIS_PORT: 6379
