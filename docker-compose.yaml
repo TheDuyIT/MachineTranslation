@@ -33,7 +33,7 @@ services:
     environment:
       REDIS_HOST: redis
       REDIS_PORT: 6379
-      PREDICT_PIPELINES: covid
+      PREDICT_PIPELINES: nofinding,mdevice,edema,cavitation,covid
       HELPER_PIPELINES: all
       LUNGMASK_URL: http://helper:8080/images
       CHEST_SEG_URL: http://chest-segmentation:8080/images
