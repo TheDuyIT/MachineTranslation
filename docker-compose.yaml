@@ -14,7 +14,7 @@ services:
     volumes:
       - 'redis_data:/bitnami/redis/data'
   helper:
-    image: vinbrain.azurecr.io/lung-segmentation:release.17
+    image: vinbrain.azurecr.io/lung-segmentation:develop.88
     environment:
       REDIS_HOST: redis
       REDIS_PORT: 6379
@@ -33,14 +33,14 @@ services:
     environment:
       REDIS_HOST: redis
       REDIS_PORT: 6379
-      PREDICT_PIPELINES: nofinding,mdevice,edema,cavitation,covid
+      PREDICT_PIPELINES: covid
       HELPER_PIPELINES: all
       LUNGMASK_URL: http://helper:8080/images
       CHEST_SEG_URL: http://chest-segmentation:8080/images
     expose:
       - "8080"
 #   chest-detection-1:
-#     image: vinbrain.azurecr.io/chest-detection-cxx-1:release.39
+#     image: vinbrain.azurecr.io/chest-detection-cxx-1:develop.58
 #     environment:
 #       REDIS_HOST: redis
 #       REDIS_PORT: 6379
