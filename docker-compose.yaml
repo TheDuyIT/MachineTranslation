@@ -20,14 +20,14 @@ services:
       REDIS_PORT: 6379
     expose:
       - "8080"
-#   chest-segmentation:
-#     image: vinbrain.azurecr.io/chest-segmentation:develop.148
-#     environment:
-#       REDIS_HOST: redis
-#       REDIS_PORT: 6379
-#       LUNGMASK_URL: http://helper:8080/images
-#     expose:
-#       - "8080"
+  chest-segmentation:
+    image: vinbrain.azurecr.io/chest-segmentation:develop.148
+    environment:
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      LUNGMASK_URL: http://helper:8080/images
+    expose:
+      - "8080"
   chest-detection-0:
     image: vinbrain.azurecr.io/chest-detection-cxx-0:release.37
     environment:
@@ -55,7 +55,7 @@ services:
     depends_on:
       - redis
       - helper
-#       - chest-segmentation
+      - chest-segmentation
       - chest-detection-0
       - chest-detection-1
     environment:
