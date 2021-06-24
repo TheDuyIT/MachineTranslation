@@ -2,6 +2,6 @@
     "data-root": "",
     "icc": true,
     "iptables": true,
-    "storage-driver": "overlayfs",
+    "storage-driver": "btrfs",
     "storage-opts": []
 }
