@@ -3,5 +3,5 @@
     "icc": true,
     "iptables": true,
     "storage-driver": "vfs",
-    "storage-opts": ["size=30GB"]
+    "storage-opts": ["size=50GB"]
 }
