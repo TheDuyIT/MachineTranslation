@@ -1,0 +1,7 @@
+{
+    "data-root": "",
+    "icc": true,
+    "iptables": true,
+    "storage-driver": "overlay2",
+    "storage-opts": []
+}
