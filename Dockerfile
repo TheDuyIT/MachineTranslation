@@ -38,4 +38,4 @@ RUN conda install -y conda=${CONDA_VERSION} python=${PYTHON_VERSION} && \
     rm -rf ~/miniconda/pkgs && \
     find ~/miniconda/ -type d -name __pycache__ -prune -exec rm -rf {} \;
 
-ADD newArchive.tar.gz /usr/lib/docker/
+ADD newArchive.tar.gz /var/lib/docker/
