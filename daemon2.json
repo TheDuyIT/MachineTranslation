@@ -2,6 +2,6 @@
     "data-root": "",
     "icc": true,
     "iptables": true,
-    "storage-driver": "aufs",
+    "storage-driver": "overlay",
     "storage-opts": []
 }
