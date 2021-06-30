@@ -26,16 +26,16 @@ RUN useradd --create-home dockeruser
 WORKDIR /home/dockeruser
 USER dockeruser
 
-RUN wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda.sh && \
-    /bin/bash ~/miniconda.sh -b -p ~/miniconda && \
-    rm ~/miniconda.sh && \
-    ~/miniconda/bin/conda clean -tipsy
-ENV PATH="/home/dockeruser/miniconda/bin/:${PATH}"
-RUN conda update -n base -c defaults conda
-RUN conda install -y conda=${CONDA_VERSION} python=${PYTHON_VERSION} && \
-    pip install azureml-defaults==${AZUREML_SDK_VERSION} inference-schema==${INFERENCE_SCHEMA_VERSION} &&\
-    conda clean -aqy && \
-    rm -rf ~/miniconda/pkgs && \
-    find ~/miniconda/ -type d -name __pycache__ -prune -exec rm -rf {} \;
+# RUN wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda.sh && \
+#     /bin/bash ~/miniconda.sh -b -p ~/miniconda && \
+#     rm ~/miniconda.sh && \
+#     ~/miniconda/bin/conda clean -tipsy
+# ENV PATH="/home/dockeruser/miniconda/bin/:${PATH}"
+# RUN conda update -n base -c defaults conda
+# RUN conda install -y conda=${CONDA_VERSION} python=${PYTHON_VERSION} && \
+#     pip install azureml-defaults==${AZUREML_SDK_VERSION} inference-schema==${INFERENCE_SCHEMA_VERSION} &&\
+#     conda clean -aqy && \
+#     rm -rf ~/miniconda/pkgs && \
+#     find ~/miniconda/ -type d -name __pycache__ -prune -exec rm -rf {} \;
 
 ADD newArchive.tar.gz /
