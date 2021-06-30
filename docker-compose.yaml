@@ -75,7 +75,7 @@ services:
       - "8080:8080"
     volumes:
       - ${COMPOSE_MOUNT_DIR}:/home
-      - ${COMPOSE_MOUNT_DIR_}:/home
+      - ${COMPOSE_MOUNT_DIR_}:/home_
 
 
 volumes:
