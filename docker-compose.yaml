@@ -7,7 +7,7 @@ services:
       # ALLOW_EMPTY_PASSWORD is recommended only for development.
       - ALLOW_EMPTY_PASSWORD=yes
       - REDIS_DISABLE_COMMANDS=FLUSHDB,FLUSHALL
-    restart: always
+#     restart: always
     expose:
       - "6379"
     ports:
@@ -19,7 +19,7 @@ services:
     environment:
       REDIS_HOST: redis
       REDIS_PORT: 6379
-    restart: always
+#     restart: always
     expose:
       - "8080"
   chest-segmentation:
@@ -28,7 +28,7 @@ services:
       REDIS_HOST: redis
       REDIS_PORT: 6379
       LUNGMASK_URL: http://helper:8080/images
-    restart: always
+#     restart: always
     expose:
       - "8080"
   chest-detection-0:
@@ -40,7 +40,7 @@ services:
       HELPER_PIPELINES: all
       LUNGMASK_URL: http://helper:8080/images
       CHEST_SEG_URL: http://chest-segmentation:8080/images
-    restart: always
+#     restart: always
     expose:
       - "8080"
   chest-detection-1:
@@ -52,7 +52,7 @@ services:
       HELPER_PIPELINES: all
       LUNGMASK_URL: http://helper:8080/images
       CHEST_SEG_URL: http://chest-segmentation:8080/images
-    restart: always
+#     restart: always
     expose:
       - "8080"
   chest-ai-proxy:
@@ -70,7 +70,7 @@ services:
       CHEST_SEGMENTATION_URLS: http://chest-segmentation:8080/images
       CHEST_HELPER_URL: http://helper:8080/images
       CACHE_ENCODE: jpg
-    restart: always
+#     restart: always
     ports:
       - "8080:8080"
     volumes:
